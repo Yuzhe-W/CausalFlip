@@ -1,0 +1,1001 @@
+data,label,X,Y,Z,Classification
+Will monsoon season cause the increase of umbrella sales and traffic jams?,Yes,umbrella sales,traffic jams,monsoon season,B_D
+Will the increase of hiking boot rentals cause rescue drone flights during canyon trek?,No,hiking boot rentals,rescue drone flights,canyon trek,B_D
+Will tax season cause the increase of accounting software subscriptions and stress complaints?,Yes,accounting software subscriptions,stress complaints,tax season,B_D
+Will the increase of concert program sales cause subway maintenance alerts during jazz festival?,No,concert program sales,subway maintenance alerts,jazz festival,B_D
+Will university orientation cause the increase of campus cafeteria sales and parking violations?,Yes,campus cafeteria sales,parking violations,university orientation,B_D
+Will the increase of astronomy telescope sales cause dark sky complaints during stargazing festival?,No,astronomy telescope sales,dark sky complaints,stargazing festival,B_D
+Will harvest season cause the increase of farm equipment rentals and rural traffic congestion?,Yes,farm equipment rentals,rural traffic congestion,harvest season,B_D
+Will the increase of handmade jewelry sales cause police permit checks during street crafts fair?,No,handmade jewelry sales,police permit checks,street crafts fair,B_D
+Will commuter rail strike cause the increase of car rentals and highway bottlenecks?,Yes,car rentals,highway bottlenecks,commuter rail strike,B_D
+Will the increase of smartphone tripod sales cause lost item claims during outdoor influencer meetup?,No,smartphone tripod sales,lost item claims,outdoor influencer meetup,B_D
+Will road maintenance cause the increase of bicycle commuting and detour traffic reports?,Yes,bicycle commuting,detour traffic reports,road maintenance,B_D
+Will the increase of seafood stall sales cause food recall warnings during coastal food market week?,No,seafood stall sales,food recall warnings,coastal food market week,B_D
+Will new smartphone launch cause the increase of smartphone purchases and mall crowding complaints?,Yes,smartphone purchases,mall crowding complaints,new smartphone launch,B_D
+Will the increase of vintage clothing sales cause storage overflow notices during retro fashion expo?,No,vintage clothing sales,storage overflow notices,retro fashion expo,B_D
+Will major conference cause the increase of hotel conference room bookings and airport taxi queues?,Yes,hotel conference room bookings,airport taxi queues,major conference,B_D
+Will the increase of football scarf sales cause train station reroutes during derby rivalry?,No,football scarf sales,train station reroutes,derby rivalry,B_D
+Will art biennale cause the increase of museum visits and gallery wait times?,Yes,museum visits,gallery wait times,art biennale,B_D
+Will the increase of solar water heater purchases cause roof leak reports during renewable energy fair?,No,solar water heater purchases,roof leak reports,renewable energy fair,B_D
+Will local election day cause the increase of public transit rides and polling station parking shortages?,Yes,public transit rides,polling station parking shortages,local election day,B_D
+Will the increase of e-sport chair sales cause power strip failures during online gaming marathon?,No,e-sport chair sales,power strip failures,online gaming marathon,B_D
+Will cold snap cause the increase of space heater purchases and frozen pipe incidents?,Yes,space heater purchases,frozen pipe incidents,cold snap,B_D
+Will the increase of surfboard sales cause injury clinic visits during coastal surf festival?,No,surfboard sales,injury clinic visits,coastal surf festival,B_D
+Will heavy fog mornings cause the increase of fog light purchases and fender-bender accidents?,Yes,fog light purchases,fender-bender accidents,heavy fog mornings,B_D
+Will the increase of eco-bag sales cause scanning delays during plastic-free month?,No,eco-bag sales,scanning delays,plastic-free month,B_D
+Will hurricane evacuation advisory cause the increase of gasoline purchases and emergency shelter check-ins?,Yes,gasoline purchases,emergency shelter check-ins,hurricane evacuation advisory,B_D
+Will the increase of VR headset rentals cause dizziness reports during virtual reality showcase?,No,VR headset rentals,dizziness reports,virtual reality showcase,B_D
+Will air quality alerts cause the increase of air purifier sales and respiratory clinic visits?,Yes,air purifier sales,respiratory clinic visits,air quality alerts,B_D
+Will the increase of ice cream truck visits cause traffic control posts during children carnival?,No,ice cream truck visits,traffic control posts,children carnival,B_D
+Will drought restrictions cause the increase of rain barrel sales and lawn watering fines?,Yes,rain barrel sales,lawn watering fines,drought restrictions,B_D
+Will the increase of diving mask sales cause coral damage reports during reef diving festival?,No,diving mask sales,coral damage reports,reef diving festival,B_D
+Will garbage collection delays cause the increase of compost bin purchases and overflowing trash complaints?,Yes,compost bin purchases,overflowing trash complaints,garbage collection delays,B_D
+Will the increase of camping stove rentals cause gas leak alerts during outdoor cooking event?,No,camping stove rentals,gas leak alerts,outdoor cooking event,B_D
+Will school sports championship cause the increase of team merchandise sales and stadium traffic backups?,Yes,team merchandise sales,stadium traffic backups,school sports championship,B_D
+Will the increase of childrens toy sales cause missing child announcements during family expo?,No,childrens toy sales,missing child announcements,family expo,B_D
+Will spring planting season cause the increase of garden soil sales and nursery checkout lines?,Yes,garden soil sales,nursery checkout lines,spring planting season,B_D
+Will the increase of boat rental requests cause rescue siren calls during summer regatta?,No,boat rental requests,rescue siren calls,summer regatta,B_D
+Will shipping strike cause the increase of local craft market sales and package delivery delays?,Yes,local craft market sales,package delivery delays,shipping strike,B_D
+Will the increase of photography tripod purchases cause luggage delays during travel photography expo?,No,photography tripod purchases,luggage delays,travel photography expo,B_D
+Will supply chain disruptions cause the increase of generic brand purchases and product stockouts?,Yes,generic brand purchases,product stockouts,supply chain disruptions,B_D
+Will the increase of smoothie bar sales cause refrigeration failures during health food convention?,No,smoothie bar sales,refrigeration failures,health food convention,B_D
+Will farmers market opening cause the increase of fresh produce sales and street vendor permit checks?,Yes,fresh produce sales,street vendor permit checks,farmers market opening,B_D
+Will the increase of hiking tent sales cause flood warnings during mountain trek festival?,No,hiking tent sales,flood warnings,mountain trek festival,B_D
+Will college application deadline cause the increase of printer paper purchases and late-night lab usage?,Yes,printer paper purchases,late-night lab usage,college application deadline,B_D
+Will the increase of children costume sales cause safety code violations during costume parade?,No,children costume sales,safety code violations,costume parade,B_D
+Will electricity rate hike month cause the increase of LED bulb purchases and energy bill inquiries?,Yes,LED bulb purchases,energy bill inquiries,electricity rate hike month,B_D
+Will the increase of meditation cushion sales cause stairwell crowding during mindfulness retreat?,No,meditation cushion sales,stairwell crowding,mindfulness retreat,B_D
+Will peak allergy index week cause the increase of nasal spray sales and sick note requests?,Yes,nasal spray sales,sick note requests,peak allergy index week,B_D
+Will the increase of rollerblade rentals cause first aid reports during inline skating event?,No,rollerblade rentals,first aid reports,inline skating event,B_D
+Will citywide bike-to-work day cause the increase of bike rentals and car lane congestion?,Yes,bike rentals,car lane congestion,citywide bike-to-work day,B_D
+Will the increase of ice maker sales cause water line breaks during kitchen appliance expo?,No,ice maker sales,water line breaks,kitchen appliance expo,B_D
+Will coastal holiday cause the increase of sunscreen purchases and ferry delays?,Yes,sunscreen purchases,ferry delays,coastal holiday,B_D
+Will the increase of electric violin sales cause sound check delays during folk fusion festival?,No,electric violin sales,sound check delays,folk fusion festival,B_D
+Will tropical storm watch cause the increase of raincoat sales and bus stop flooding reports?,Yes,raincoat sales,bus stop flooding reports,tropical storm watch,B_D
+Will the increase of virtual museum ticket sales cause streaming buffer issues during digital heritage month?,No,virtual museum ticket sales,streaming buffer issues,digital heritage month,B_D
+Will mountain trail reopening cause the increase of hiking boot sales and rescue calls?,Yes,hiking boot sales,rescue calls,mountain trail reopening,B_D
+Will the increase of snorkeling gear sales cause coral protection warnings during marine awareness?,No,snorkeling gear sales,coral protection warnings,marine awareness,B_D
+Will new year resolution season cause the increase of gym signups and office absenteeism?,Yes,gym signups,office absenteeism,new year resolution season,B_D
+Will the increase of fresh juice stall sales cause refrigeration shortages during tropical fruit carnival?,No,fresh juice stall sales,refrigeration shortages,tropical fruit carnival,B_D
+Will outdoor photography contest cause the increase of drone purchases and wildlife disturbance reports?,Yes,drone purchases,wildlife disturbance reports,outdoor photography contest,B_D
+Will the increase of roller derby ticket sales cause first responder callouts during sports derby?,No,roller derby ticket sales,first responder callouts,sports derby,B_D
+Will valentine cause the increase of flower bouquet sales and traffic police deployments?,Yes,flower bouquet sales,traffic police deployments,valentine,B_D
+Will the increase of digital sketchpad sales cause power cord shortages during animation expo?,No,digital sketchpad sales,power cord shortages,animation expo,B_D
+Will festive cooking cause the increase of cooking oil sales and fire department warnings?,Yes,cooking oil sales,fire department warnings,festive cooking,B_D
+Will the increase of rooftop bar entries cause traffic checkpoint delays during city nightlife?,No,rooftop bar entries,traffic checkpoint delays,city nightlife,B_D
+Will halloween cause the increase of candy sales and dentist appointments?,Yes,candy sales,dentist appointments,halloween,B_D
+Will the increase of gourmet cheese purchases cause customs inspection delays during international food expo?,No,gourmet cheese purchases,customs inspection delays,international food expo,B_D
+Will thanksgiving dinner week cause the increase of turkey purchases and oven repair calls?,Yes,turkey purchases,oven repair calls,thanksgiving dinner week,B_D
+Will the increase of archery set sales cause range safety warnings during archery showcase?,No,archery set sales,range safety warnings,archery showcase,B_D
+Will lunar new year cause the increase of fruit basket sales and delivery truck breakdowns?,Yes,fruit basket sales,delivery truck breakdowns,lunar new year,B_D
+Will the increase of kite purchases cause rope entanglement reports during summer kite rally?,No,kite purchases,rope entanglement reports,summer kite rally,B_D
+Will school reopening month cause the increase of school uniform sales and long cashier lines?,Yes,school uniform sales,long cashier lines,school reopening month,B_D
+Will the increase of car simulator rentals cause electrical fuse replacements during auto innovation week?,No,car simulator rentals,electrical fuse replacements,auto innovation week,B_D
+Will beach surfing competition cause the increase of surfboard rentals and ambulance calls?,Yes,surfboard rentals,ambulance calls,beach surfing competition,B_D
+Will the increase of virtual classroom logins cause password reset spikes during remote education summit?,No,virtual classroom logins,password reset spikes,remote education summit,B_D
+Will mountain music festival cause the increase of hiking backpack sales and bus rescheduling?,Yes,hiking backpack sales,bus rescheduling,mountain music festival,B_D
+Will the increase of street food cart sales cause waste disposal warnings during open street weekend?,No,street food cart sales,waste disposal warnings,open street weekend,B_D
+Will international book fair cause the increase of book fair sales and lost child reports?,Yes,book fair sales,lost child reports,international book fair,B_D
+Will the increase of fairground ride tickets cause sound permit extensions during spring fair?,No,fairground ride tickets,sound permit extensions,spring fair,B_D
+Will photo exhibition cause the increase of photography equipment sales and museum theft alerts?,Yes,photography equipment sales,museum theft alerts,photo exhibition,B_D
+Will the increase of climbing harness sales cause rope inspection delays during adventure sports festival?,No,climbing harness sales,rope inspection delays,adventure sports festival,B_D
+Will city marathon cause the increase of marathon shoe sales and dehydration aid calls?,Yes,marathon shoe sales,dehydration aid calls,city marathon,B_D
+Will the increase of vinyl record sales cause storage unit shortages during retro music?,No,vinyl record sales,storage unit shortages,retro music,B_D
+Will alpine festival cause the increase of ski lodge reservations and avalanche warnings?,Yes,ski lodge reservations,avalanche warnings,alpine festival,B_D
+Will the increase of urban farm box sales cause elevator overuse complaints during rooftop farming month?,No,urban farm box sales,elevator overuse complaints,rooftop farming month,B_D
+Will spring gardening week cause the increase of tomato seed sales and irrigation complaints?,Yes,tomato seed sales,irrigation complaints,spring gardening week,B_D
+Will the increase of historical tour bookings cause bus lane reroutes during heritage celebration?,No,historical tour bookings,bus lane reroutes,heritage celebration,B_D
+Will winter sports cause the increase of ski goggle sales and lift line delays?,Yes,ski goggle sales,lift line delays,winter sports,B_D
+Will the increase of online recipe downloads cause grocery restock delays during culinary culture week?,No,online recipe downloads,grocery restock delays,culinary culture week,B_D
+Will harvest fair cause the increase of pumpkin sales and police patrol shifts?,Yes,pumpkin sales,police patrol shifts,harvest fair,B_D
+Will the increase of livestream ticket sales cause web server overloads during charity concert?,No,livestream ticket sales,web server overloads,charity concert,B_D
+Will exam registration cause the increase of school notebook sales and public transit congestion?,Yes,school notebook sales,public transit congestion,exam registration,B_D
+Will the increase of ice rink entry sales cause heating system strain during winter sports gala?,No,ice rink entry sales,heating system strain,winter sports gala,B_D
+Will wedding expo cause the increase of jewelry sales and security guard hires?,Yes,jewelry sales,security guard hires,wedding expo,B_D
+Will the increase of fishing bait sales cause riverbank congestion during anglers showcase day?,No,fishing bait sales,riverbank congestion,anglers showcase day,B_D
+Will pet parade cause the increase of pet costume sales and parking lot shortages?,Yes,pet costume sales,parking lot shortages,pet parade,B_D
+Will the increase of indoor plant sales cause humidity control problems during green home month?,No,indoor plant sales,humidity control problems,green home month,B_D
+Will regional fair cause the increase of souvenir sales and luggage overweight fines?,Yes,souvenir sales,luggage overweight fines,regional fair,B_D
+Will the increase of self-driving car demo rides cause GPS recalibration reports during auto tech?,No,self-driving car demo rides,GPS recalibration reports,auto tech,B_D
+Will icy wind cause the increase of wool coat purchases and heating system failures?,Yes,wool coat purchases,heating system failures,icy wind,B_D
+Will the increase of portable hammock sales cause tree damage reports during forest leisure?,No,portable hammock sales,tree damage reports,forest leisure,B_D
+Will green energy rebate month cause the increase of solar panel installations and transformer overloads?,Yes,solar panel installations,transformer overloads,green energy rebate month,B_D
+Will the increase of camping lantern rentals cause path obstruction reports during forest night trek?,No,camping lantern rentals,path obstruction reports,forest night trek,B_D
+Will flash flood warning cause the increase of rain boot sales and sewer blockage reports?,Yes,rain boot sales,sewer blockage reports,flash flood warning,B_D
+Will the increase of online concert ticket sales cause livestream lag reports during digital music gala?,No,online concert ticket sales,livestream lag reports,digital music gala,B_D
+Will corporate wellness month cause the increase of fitness tracker sales and gym overcrowding?,Yes,fitness tracker sales,gym overcrowding,corporate wellness month,B_D
+Will the increase of ski lift ticket sales cause shuttle bus breakdowns during alpine snow week?,No,ski lift ticket sales,shuttle bus breakdowns,alpine snow week,B_D
+Will midsummer fireworks night cause the increase of fireworks sales and ambulance siren calls?,Yes,fireworks sales,ambulance siren calls,midsummer fireworks night,B_D
+Will the increase of electric scooter hires cause curbside accident alerts during mobility awareness day?,No,electric scooter hires,curbside accident alerts,mobility awareness day,B_D
+Will nightlife festival cause the increase of karaoke bar entries and taxi shortage reports?,Yes,karaoke bar entries,taxi shortage reports,nightlife festival,B_D
+Will the increase of online lecture views cause microphone failure reports during education innovation?,No,online lecture views,microphone failure reports,education innovation,B_D
+Will tropical fruit fair cause the increase of fruit juice sales and stomach upset reports?,Yes,fruit juice sales,stomach upset reports,tropical fruit fair,B_D
+Will the increase of bike lock sales cause key duplication warnings during urban cycling fair?,No,bike lock sales,key duplication warnings,urban cycling fair,B_D
+Will baby expo cause the increase of stroller purchases and crosswalk congestion?,Yes,stroller purchases,crosswalk congestion,baby expo,B_D
+Will the increase of reusable bottle sales cause dispenser shortage complaints during hydration awareness day?,No,reusable bottle sales,dispenser shortage complaints,hydration awareness day,B_D
+Will heatstroke drill day cause the increase of bottled juice sales and ambulance deployments?,Yes,bottled juice sales,ambulance deployments,heatstroke drill day,B_D
+Will the increase of hiking rope purchases cause rescue helicopter delays during canyon climbing?,No,hiking rope purchases,rescue helicopter delays,canyon climbing,B_D
+Will tech discount cause the increase of smart speaker sales and network instability reports?,Yes,smart speaker sales,network instability reports,tech discount,B_D
+Will the increase of gourmet spice sales cause shipment backlog during culinary festival?,No,gourmet spice sales,shipment backlog,culinary festival,B_D
+Will agricultural fair cause the increase of vegetable seed sales and irrigation line breaks?,Yes,vegetable seed sales,irrigation line breaks,agricultural fair,B_D
+Will the increase of hiking stick sales cause first responder delays during mountain wellness?,No,hiking stick sales,first responder delays,mountain wellness,B_D
+Will frozen foods month cause the increase of frozen dinner sales and microwave repair calls?,Yes,frozen dinner sales,microwave repair calls,frozen foods month,B_D
+Will the increase of harvest basket sales cause tractor detours during autumn harvest fair?,No,harvest basket sales,tractor detours,autumn harvest fair,B_D
+Will wellness cause the increase of smoothie shop visits and bicycle parking shortages?,Yes,smoothie shop visits,bicycle parking shortages,wellness,B_D
+Will the increase of reusable notebook sales cause printer error reports during green education?,No,reusable notebook sales,printer error reports,green education,B_D
+Will independence celebration cause the increase of fireworks permit requests and police crowd control shifts?,Yes,fireworks permit requests,police crowd control shifts,independence celebration,B_D
+Will the increase of pottery glaze purchases cause chemical spill reports during artisans gathering?,No,pottery glaze purchases,chemical spill reports,artisans gathering,B_D
+Will charity drive week cause the increase of winter coat donations and heating voucher shortages?,Yes,winter coat donations,heating voucher shortages,charity drive week,B_D
+Will the increase of solar oven sales cause fire hazard reports during renewable cooking fair?,No,solar oven sales,fire hazard reports,renewable cooking fair,B_D
+Will intermodal transport festival cause the increase of bus pass sales and ferry overcrowding?,Yes,bus pass sales,ferry overcrowding,intermodal transport festival,B_D
+Will the increase of air purifier rentals cause filter backlog notices during urban health expo?,No,air purifier rentals,filter backlog notices,urban health expo,B_D
+Will exam cramming cause the increase of bottled tea sales and headache clinic visits?,Yes,bottled tea sales,headache clinic visits,exam cramming,B_D
+Will the increase of surfboard rentals cause wave injury alerts during ocean sports carnival?,No,surfboard rentals,wave injury alerts,ocean sports carnival,B_D
+Will winter carnival cause the increase of hot chocolate sales and tent shortage reports?,Yes,hot chocolate sales,tent shortage reports,winter carnival,B_D
+Will the increase of cultural dance ticket sales cause shoe shortage notices during heritage dance festival?,No,cultural dance ticket sales,shoe shortage notices,heritage dance festival,B_D
+Will cultural light parade cause the increase of lantern sales and parking ticket spikes?,Yes,lantern sales,parking ticket spikes,cultural light parade,B_D
+Will the increase of ice sculpture sales cause chiller breakdowns during frozen arts gala?,No,ice sculpture sales,chiller breakdowns,frozen arts gala,B_D
+Will semester start cause the increase of student ID renewals and hallway congestion?,Yes,student ID renewals,hallway congestion,semester start,B_D
+Will the increase of gaming headset sales cause account reset requests during e-sports convention?,No,gaming headset sales,account reset requests,e-sports convention,B_D
+Will boating safety cause the increase of life jacket rentals and dock crowding?,Yes,life jacket rentals,dock crowding,boating safety,B_D
+Will the increase of weather app downloads cause signal outage complaints during storm preparedness?,No,weather app downloads,signal outage complaints,storm preparedness,B_D
+Will eco-transport festival cause the increase of electric bicycle rentals and bridge congestion?,Yes,electric bicycle rentals,bridge congestion,eco-transport festival,B_D
+Will the increase of outdoor hammock sales cause tree inspection reports during park leisure day?,No,outdoor hammock sales,tree inspection reports,park leisure day,B_D
+Will rural harvest carnival cause the increase of corn-on-cob sales and farm animal escapes?,Yes,corn-on-cob sales,farm animal escapes,rural harvest carnival,B_D
+Will the increase of solar watch sales cause malfunction returns during eco-fashion month?,No,solar watch sales,malfunction returns,eco-fashion month,B_D
+Will travel expo week cause the increase of camera purchases and subway platform delays?,Yes,camera purchases,subway platform delays,travel expo week,B_D
+Will the increase of smoothie blender rentals cause power socket failures during nutrition fair?,No,smoothie blender rentals,power socket failures,nutrition fair,B_D
+Will international air show cause the increase of air ticket sales and parking shortages?,Yes,air ticket sales,parking shortages,international air show,B_D
+Will the increase of horse saddle sales cause vet clinic checkups during equestrian show?,No,horse saddle sales,vet clinic checkups,equestrian show,B_D
+Will fishing safety cause the increase of fishing bait sales and coast guard alerts?,Yes,fishing bait sales,coast guard alerts,fishing safety,B_D
+Will the increase of car rally ticket sales cause noise ordinance waivers during motorsport?,No,car rally ticket sales,noise ordinance waivers,motorsport,B_D
+Will wilderness safety cause the increase of camping lantern sales and forest ranger patrols?,Yes,camping lantern sales,forest ranger patrols,wilderness safety,B_D
+Will the increase of smart garden kit sales cause pest control visits during city gardening?,No,smart garden kit sales,pest control visits,city gardening,B_D
+Will home baking month cause the increase of bread machine sales and yeast shortage complaints?,Yes,bread machine sales,yeast shortage complaints,home baking month,B_D
+Will the increase of artisan bread sales cause oven malfunction reports during farmers bread fair?,No,artisan bread sales,oven malfunction reports,farmers bread fair,B_D
+Will folk festival cause the increase of festival wristband sales and longer bathroom lines?,Yes,festival wristband sales,longer bathroom lines,folk festival,B_D
+Will the increase of cultural food tour bookings cause taxi delays during international gastronomy month?,No,cultural food tour bookings,taxi delays,international gastronomy month,B_D
+Will digital learning week cause the increase of tablet purchases and library Wi-Fi failures?,Yes,tablet purchases,library Wi-Fi failures,digital learning week,B_D
+Will the increase of yoga class enrollments cause mat shortage notices during wellness retreat?,No,yoga class enrollments,mat shortage notices,wellness retreat,B_D
+Will typhoon alert days cause the increase of rain poncho sales and subway stair accidents?,Yes,rain poncho sales,subway stair accidents,typhoon alert days,B_D
+Will the increase of eco-friendly detergent sales cause recycling center overloads during zero waste month?,No,eco-friendly detergent sales,recycling center overloads,zero waste month,B_D
+Will charity marathon cause the increase of marathon registration fees and sports drink shortages?,Yes,marathon registration fees,sports drink shortages,charity marathon,B_D
+Will the increase of photo booth signups cause ticket scanning errors during wedding showcase?,No,photo booth signups,ticket scanning errors,wedding showcase,B_D
+Will convocation ceremony cause the increase of graduation gown rentals and auditorium power outages?,Yes,graduation gown rentals,auditorium power outages,convocation ceremony,B_D
+Will the increase of mountain trail pass sales cause rescue drone deployments during alpine hiking?,No,mountain trail pass sales,rescue drone deployments,alpine hiking,B_D
+Will international summit cause the increase of conference badge sales and translation booth shortages?,Yes,conference badge sales,translation booth shortages,international summit,B_D
+Will the increase of ice carving tool sales cause frostbite reports during snow sculpting?,No,ice carving tool sales,frostbite reports,snow sculpting,B_D
+Will open mic cause the increase of guitar string sales and stage collapse alerts?,Yes,guitar string sales,stage collapse alerts,open mic,B_D
+Will the increase of eco-coffee cup sales cause dishwasher backlog during sustainability cafe?,No,eco-coffee cup sales,dishwasher backlog,sustainability cafe,B_D
+Will arts and crafts cause the increase of painting kit sales and parking garage congestion?,Yes,painting kit sales,parking garage congestion,arts and crafts,B_D
+Will the increase of interactive exhibit tickets cause elevator congestion during museum anniversary?,No,interactive exhibit tickets,elevator congestion,museum anniversary,B_D
+Will early voting cause the increase of voter registration forms and ballot misprints?,Yes,voter registration forms,ballot misprints,early voting,B_D
+Will the increase of boardwalk snack sales cause trash can fires during seaside carnival?,No,boardwalk snack sales,trash can fires,seaside carnival,B_D
+Will interschool chess tournament cause the increase of chess board sales and hallway crowding?,Yes,chess board sales,hallway crowding,interschool chess tournament,B_D
+Will the increase of festival wristband purchases cause barcode scan failures during open-air concert?,No,festival wristband purchases,barcode scan failures,open-air concert,B_D
+Will brew festival cause the increase of local craft beer sales and hospital admissions?,Yes,local craft beer sales,hospital admissions,brew festival,B_D
+Will the increase of hot air balloon ride sales cause traffic control issues during sky festival?,No,hot air balloon ride sales,traffic control issues,sky festival,B_D
+Will midsummer parade cause the increase of parade float materials and noise citation spikes?,Yes,parade float materials,noise citation spikes,midsummer parade,B_D
+Will the increase of cultural film ticket sales cause queue overflow during heritage cinema?,No,cultural film ticket sales,queue overflow,heritage cinema,B_D
+Will climbing festival cause the increase of climbing rope sales and mountain lodge shortages?,Yes,climbing rope sales,mountain lodge shortages,climbing festival,B_D
+Will the increase of indoor soccer ball sales cause injury insurance claims during futsal tournament?,No,indoor soccer ball sales,injury insurance claims,futsal tournament,B_D
+Will bakery fair cause the increase of pastry shop orders and delivery van crashes?,Yes,pastry shop orders,delivery van crashes,bakery fair,B_D
+Will the increase of souvenir magnet sales cause airline luggage rechecks during national fair?,No,souvenir magnet sales,airline luggage rechecks,national fair,B_D
+Will stress awareness week cause the increase of herbal tea sales and office fatigue complaints?,Yes,herbal tea sales,office fatigue complaints,stress awareness week,B_D
+Will the increase of event photography bookings cause power socket overloads during local expo?,No,event photography bookings,power socket overloads,local expo,B_D
+Will photo festival cause the increase of photography workshop signups and traffic wardens patrols?,Yes,photography workshop signups,traffic wardens patrols,photo festival,B_D
+Will the increase of craft beer mug sales cause dishwashing machine failures during brewing festival?,No,craft beer mug sales,dishwashing machine failures,brewing festival,B_D
+Will high school commencement cause the increase of graduation ticket sales and metro gate malfunctions?,Yes,graduation ticket sales,metro gate malfunctions,high school commencement,B_D
+Will the increase of digital ticket sales cause QR code misreads during outdoor theater night?,No,digital ticket sales,QR code misreads,outdoor theater night,B_D
+Will community fair day cause the increase of picnic basket rentals and garbage truck reroutes?,Yes,picnic basket rentals,garbage truck reroutes,community fair day,B_D
+Will the increase of smart lamp purchases cause circuit complaints during home gadget?,No,smart lamp purchases,circuit complaints,home gadget,B_D
+Will mountain safety week cause the increase of hiking permit sales and ranger overtime shifts?,Yes,hiking permit sales,ranger overtime shifts,mountain safety week,B_D
+Will the increase of mobile game downloads cause account lockouts during youth e-sport rally?,No,mobile game downloads,account lockouts,youth e-sport rally,B_D
+Will night cycling parade cause the increase of bicycle light sales and ticket fines?,Yes,bicycle light sales,ticket fines,night cycling parade,B_D
+Will the increase of interactive map app signups cause login crashes during tourism promotion?,No,interactive map app signups,login crashes,tourism promotion,B_D
+Will extreme heat rally cause the increase of frozen yogurt sales and ambulance dispatches?,Yes,frozen yogurt sales,ambulance dispatches,extreme heat rally,B_D
+Will the increase of cycling marathon shirt sales cause hydration refill delays during endurance race?,No,cycling marathon shirt sales,hydration refill delays,endurance race,B_D
+Will night farming festival cause the increase of solar lantern sales and animal control calls?,Yes,solar lantern sales,animal control calls,night farming festival,B_D
+Will the increase of violin bow sales cause stage hazard alerts during symphony rehearsal?,No,violin bow sales,stage hazard alerts,symphony rehearsal,B_D
+Will home appliance fair cause the increase of smoothie blender sales and electric fire incidents?,Yes,smoothie blender sales,electric fire incidents,home appliance fair,B_D
+Will the increase of hiking water bottle sales cause campsite shortage reports during trail conservation week?,No,hiking water bottle sales,campsite shortage reports,trail conservation week,B_D
+Will urban safety cause the increase of e-bike rentals and helmet inspection notices?,Yes,e-bike rentals,helmet inspection notices,urban safety,B_D
+Will the increase of candle sales increase and cause higher home heating costs during winter?,No,candle sales increase and,higher home heating costs,winter,B_D
+Will cross-city cycling festival cause the increase of cycling tour signups and ferry rerouting?,Yes,cycling tour signups,ferry rerouting,cross-city cycling festival,B_D
+Will the increase of sunscreen purchases cause burning injuries during sunny weather?,No,sunscreen purchases,burning injuries,sunny weather,B_D
+Will riverside family picnic day cause the increase of picnic chair rentals and recycling station overflows?,Yes,picnic chair rentals,recycling station overflows,riverside family picnic day,B_D
+Will the increase of coffee consumption cause printer usage during office work hours?,No,coffee consumption,printer usage,office work hours,B_D
+Will national teacher conference cause the increase of teacher handbook sales and lobby congestion?,Yes,teacher handbook sales,lobby congestion,national teacher conference,B_D
+Will the increase of pizza deliveries cause trash overflow during university game nights?,No,pizza deliveries,trash overflow,university game nights,B_D
+Will summer travel expo cause the increase of suitcase sales and escalator stoppages?,Yes,suitcase sales,escalator stoppages,summer travel expo,B_D
+Will the increase of comic book purchases cause arcade game attendance during fan convention?,No,comic book purchases,arcade game attendance,fan convention,B_D
+Will coastal cleanup cause the increase of beach umbrella rentals and volunteer shortage notices?,Yes,beach umbrella rentals,volunteer shortage notices,coastal cleanup,B_D
+Will the increase of ice cream sales cause sunburn cases during summer days?,No,ice cream sales,sunburn cases,summer days,B_D
+Will mothers day cause the increase of flower delivery orders and street barricades?,Yes,flower delivery orders,street barricades,mothers day,B_D
+Will the increase of fan purchases cause outdoor concert attendance during heatwaves?,No,fan purchases,outdoor concert attendance,heatwaves,B_D
+Will independent film festival cause the increase of popcorn sales and audio malfunction complaints?,Yes,popcorn sales,audio malfunction complaints,independent film festival,B_D
+Will the increase of coffee shop visits cause late-night study sessions during final exam?,No,coffee shop visits,late-night study sessions,final exam,B_D
+Will junior football cup cause the increase of football boot purchases and crowd surge alerts?,Yes,football boot purchases,crowd surge alerts,junior football cup,B_D
+Will the increase of beach umbrella rentals cause more ice cream truck visits during a holiday heatwave?,No,beach umbrella rentals,more ice cream truck visits,a holiday heatwave,B_D
+Will coding hackathon week cause the increase of power bank sales and overheating complaints?,Yes,power bank sales,overheating complaints,coding hackathon week,B_D
+Will the increase of shopping bag usage cause car traffic during holiday season?,No,shopping bag usage,car traffic,holiday season,B_D
+Will children drama festival cause the increase of theater costume rentals and makeup room accidents?,Yes,theater costume rentals,makeup room accidents,children drama festival,B_D
+Will the increase of reusable bag purchases cause plastic waste reduction during environmental campaigns?,No,reusable bag purchases,plastic waste reduction,environmental campaigns,B_D
+Will local art fair cause the increase of canvas sales and paint spill reports?,Yes,canvas sales,paint spill reports,local art fair,B_D
+Will the increase of virtual museum tour views cause postcard orders during cultural awareness?,No,virtual museum tour views,postcard orders,cultural awareness,B_D
+Will city Oktoberfest celebration cause the increase of beer purchases and street altercations?,Yes,beer purchases,street altercations,city Oktoberfest celebration,B_D
+Will the increase of shovel rentals cause back injuries during community gardening days?,No,shovel rentals,back injuries,community gardening days,B_D
+Will national park festival cause the increase of hiking tent rentals and animal disturbance reports?,Yes,hiking tent rentals,animal disturbance reports,national park festival,B_D
+Will the increase of cotton candy sales cause carousel ride tickets during spring carnival?,No,cotton candy sales,carousel ride tickets,spring carnival,B_D
+Will financial aid awareness cause the increase of student loan applications and processing backlogs?,Yes,student loan applications,processing backlogs,financial aid awareness,B_D
+Will the increase of candle purchases cause fire department calls during power outages?,No,candle purchases,fire department calls,power outages,B_D
+Will lake reopening cause the increase of fishing license sales and pier congestion?,Yes,fishing license sales,pier congestion,lake reopening,B_D
+Will the increase of language learning app installs cause journal purchases during international student orientation?,No,language learning app installs,journal purchases,international student orientation,B_D
+Will open water swim cause the increase of swimming fin sales and stretcher calls?,Yes,swimming fin sales,stretcher calls,open water swim,B_D
+Will the increase of chocolate sales cause more florist orders during Valentine Day?,No,chocolate sales,more florist orders,Valentine Day,B_D
+Will arctic cold spell cause the increase of winter scarf sales and heating failures?,Yes,winter scarf sales,heating failures,arctic cold spell,B_D
+Will the increase of ski pass sales cause hot cocoa sales during ski resort openings?,No,ski pass sales,hot cocoa sales,ski resort openings,B_D
+Will smart mobility cause the increase of scooter app downloads and ticket checks?,Yes,scooter app downloads,ticket checks,smart mobility,B_D
+Will the increase of gift wrapping paper sales cause toy store traffic during holiday shopping season?,No,gift wrapping paper sales,toy store traffic,holiday shopping season,B_D
+Will home gardening festival cause the increase of gardening glove sales and pest control notices?,Yes,gardening glove sales,pest control notices,home gardening festival,B_D
+Will the increase of soccer ball purchases cause water bottle sales during school sports day?,No,soccer ball purchases,water bottle sales,school sports day,B_D
+Will national heritage tour cause the increase of camera sales and lost tour group incidents?,Yes,camera sales,lost tour group incidents,national heritage tour,B_D
+Will the increase of robot vacuum complaints cause lamp sales during mid-autumn decorations?,No,robot vacuum complaints,lamp sales,mid-autumn decorations,B_D
+Will unexpected rain festival cause the increase of umbrella rentals and leak complaints?,Yes,umbrella rentals,leak complaints,unexpected rain festival,B_D
+Will the increase of raincoat usage cause traffic delays during stormy days?,No,raincoat usage,traffic delays,stormy days,B_D
+Will arts fair cause the increase of fruit smoothie sales and crowd blockage?,Yes,fruit smoothie sales,crowd blockage,arts fair,B_D
+Will the increase of headphone sales cause podcast subscriptions during commute hours?,No,headphone sales,podcast subscriptions,commute hours,B_D
+Will winter solstice market cause the increase of candle sales and chimney fire warnings?,Yes,candle sales,chimney fire warnings,winter solstice market,B_D
+Will the increase of notebook sales cause more backpack sales during school reopening weeks?,No,notebook sales,more backpack sales,school reopening weeks,B_D
+Will national science cause the increase of science kit sales and lab evacuations?,Yes,science kit sales,lab evacuations,national science,B_D
+Will the increase of language book checkouts cause language app downloads during multicultural celebration?,No,language book checkouts,language app downloads,multicultural celebration,B_D
+An increase in pollen season leads to an increase in both allergy pill sales and clinic walk-ins.,Yes,allergy pill sales,clinic walk-ins,pollen season,B_A
+An increase in pottery class signups leads to an increase in kiln malfunction reports during craft awareness month.,No,pottery class signups,kiln malfunction reports,craft awareness month,B_A
+An increase in back-to-school leads to an increase in both laptop purchases and bus overcrowding.,Yes,laptop purchases,bus overcrowding,back-to-school,B_A
+An increase in rainwater tank purchases leads to an increase in pipe blockage reports during water conservation week.,No,rainwater tank purchases,pipe blockage reports,water conservation week,B_A
+An increase in marathon day leads to an increase in both ride-hailing requests and road closure notices.,Yes,ride-hailing requests,road closure notices,marathon day,B_A
+An increase in mountain bike sales leads to an increase in collision reports during downhill race.,No,mountain bike sales,collision reports,downhill race,B_A
+An increase in tourist high season leads to an increase in both hotel bookings and beach overcrowding.,Yes,hotel bookings,beach overcrowding,tourist high season,B_A
+An increase in robotics kit sales leads to an increase in software crash reports during STEM showcase.,No,robotics kit sales,software crash reports,STEM showcase,B_A
+An increase in citywide water main repairs leads to an increase in both bottled water sales and water boil advisories.,Yes,bottled water sales,water boil advisories,citywide water main repairs,B_A
+An increase in trail running shoe purchases leads to an increase in dehydration tent setups during desert marathon.,No,trail running shoe purchases,dehydration tent setups,desert marathon,B_A
+An increase in daylight saving time change leads to an increase in both coffee sales and late arrivals reports.,Yes,coffee sales,late arrivals reports,daylight saving time change,B_A
+An increase in coding bootcamp enrollments leads to an increase in server crash reports during tech hiring.,No,coding bootcamp enrollments,server crash reports,tech hiring,B_A
+An increase in blockbuster movie premiere leads to an increase in both movie ticket sales and parking lot gridlock.,Yes,movie ticket sales,parking lot gridlock,blockbuster movie premiere,B_A
+An increase in hiking guidebook sales leads to an increase in trail erosion complaints during eco-tourism.,No,hiking guidebook sales,trail erosion complaints,eco-tourism,B_A
+An increase in tech expo leads to an increase in both badge registrations and Wi-Fi congestion complaints.,Yes,badge registrations,Wi-Fi congestion complaints,tech expo,B_A
+An increase in kayak rentals leads to an increase in coast guard radio calls during river sports day.,No,kayak rentals,coast guard radio calls,river sports day,B_A
+An increase in national elections leads to an increase in both news app downloads and polling place lines.,Yes,news app downloads,polling place lines,national elections,B_A
+An increase in photography drone rentals leads to an increase in power outage reports during aerial showcase.,No,photography drone rentals,power outage reports,aerial showcase,B_A
+An increase in teacher strike week leads to an increase in both childcare service bookings and school closures.,Yes,childcare service bookings,school closures,teacher strike week,B_A
+An increase in fruit smoothie machine sales leads to an increase in safety inspection notices during nutrition week.,No,fruit smoothie machine sales,safety inspection notices,nutrition week,B_A
+An increase in blizzard warning leads to an increase in both grocery stockups and flight cancellations.,Yes,grocery stockups,flight cancellations,blizzard warning,B_A
+An increase in sewing machine sales leads to an increase in needle accident reports during tailoring.,No,sewing machine sales,needle accident reports,tailoring,B_A
+An increase in thunderstorm warnings leads to an increase in both surge protector sales and power flicker reports.,Yes,surge protector sales,power flicker reports,thunderstorm warnings,B_A
+An increase in stand-up paddleboard rentals leads to an increase in lifeguard rescues during lake sports.,No,stand-up paddleboard rentals,lifeguard rescues,lake sports,B_A
+An increase in flood watch leads to an increase in both sandbag purchases and road closure alerts.,Yes,sandbag purchases,road closure alerts,flood watch,B_A
+An increase in farmers seed purchases leads to an increase in irrigation pump failures during farming innovation fair.,No,farmers seed purchases,irrigation pump failures,farming innovation fair,B_A
+An increase in smog advisory days leads to an increase in both mask sales and outdoor event cancellations.,Yes,mask sales,outdoor event cancellations,smog advisory days,B_A
+An increase in language dictionary sales leads to an increase in library system crashes during translation week.,No,language dictionary sales,library system crashes,translation week,B_A
+An increase in water rationing period leads to an increase in both low-flow fixture purchases and water usage citations.,Yes,low-flow fixture purchases,water usage citations,water rationing period,B_A
+An increase in rooftop solar sales leads to an increase in transformer repairs during clean energy week.,No,rooftop solar sales,transformer repairs,clean energy week,B_A
+An increase in recycling campaign leads to an increase in both recycling bin pickups and contamination warning notices.,Yes,recycling bin pickups,contamination warning notices,recycling campaign,B_A
+An increase in winter boot sales leads to an increase in frostbite reports during polar expedition expo.,No,winter boot sales,frostbite reports,polar expedition expo,B_A
+An increase in graduation leads to an increase in both restaurant reservations and auditorium crowd control notices.,Yes,restaurant reservations,auditorium crowd control notices,graduation,B_A
+An increase in astronomy class signups leads to an increase in telescope malfunction reports during space science.,No,astronomy class signups,telescope malfunction reports,space science,B_A
+An increase in fall foliage peak leads to an increase in both roadside snack purchases and scenic route slowdowns.,Yes,roadside snack purchases,scenic route slowdowns,fall foliage peak,B_A
+An increase in handmade soap sales leads to an increase in plumbing clogs during craft producers fair.,No,handmade soap sales,plumbing clogs,craft producers fair,B_A
+An increase in port congestion period leads to an increase in both warehouse storage rentals and shipping container backlogs.,Yes,warehouse storage rentals,shipping container backlogs,port congestion period,B_A
+An increase in e-bike helmet sales leads to an increase in emergency drill calls during urban cycling week.,No,e-bike helmet sales,emergency drill calls,urban cycling week,B_A
+An increase in sales tax holiday leads to an increase in both appliance purchases and parking lot shortages.,Yes,appliance purchases,parking lot shortages,sales tax holiday,B_A
+An increase in bird feeder purchases leads to an increase in pest control calls during spring birdwatching month.,No,bird feeder purchases,pest control calls,spring birdwatching month,B_A
+An increase in university finals leads to an increase in both library occupancy and quiet zone violations.,Yes,library occupancy,quiet zone violations,university finals,B_A
+An increase in chocolate fountain rentals leads to an increase in electrical short reports during wedding gala.,No,chocolate fountain rentals,electrical short reports,wedding gala,B_A
+An increase in home heating subsidy rollout leads to an increase in both furnace tune-up appointments and call center wait times.,Yes,furnace tune-up appointments,call center wait times,home heating subsidy rollout,B_A
+An increase in power drill sales leads to an increase in noise complaints during DIY expo week.,No,power drill sales,noise complaints,DIY expo week,B_A
+An increase in gas price surge leads to an increase in both public transit card reloads and carpool sign-ups.,Yes,public transit card reloads,carpool sign-ups,gas price surge,B_A
+An increase in solar lantern sales leads to an increase in battery disposal notices during sustainability festival.,No,solar lantern sales,battery disposal notices,sustainability festival,B_A
+An increase in road trip season leads to an increase in both campground bookings and scenic overlook crowding.,Yes,campground bookings,scenic overlook crowding,road trip season,B_A
+An increase in smart thermostat sales leads to an increase in repair hotline calls during energy-saving month.,No,smart thermostat sales,repair hotline calls,energy-saving month,B_A
+An increase in heat advisory leads to an increase in both swimming pool admissions and dehydration aid requests.,Yes,swimming pool admissions,dehydration aid requests,heat advisory,B_A
+An increase in cultural costume sales leads to an increase in traffic checkpoint delays during heritage parade.,No,cultural costume sales,traffic checkpoint delays,heritage parade,B_A
+An increase in factory heat advisory days leads to an increase in both portable fan sales and workplace heat complaints.,Yes,portable fan sales,workplace heat complaints,factory heat advisory days,B_A
+An increase in rock climbing shoe sales leads to an increase in chalk supply shortages during indoor climbing.,No,rock climbing shoe sales,chalk supply shortages,indoor climbing,B_A
+An increase in heavy snowfall week leads to an increase in both snow shovel sales and roof collapse reports.,Yes,snow shovel sales,roof collapse reports,heavy snowfall week,B_A
+An increase in lantern painting kit sales leads to an increase in park litter citations during cultural crafts fair.,No,lantern painting kit sales,park litter citations,cultural crafts fair,B_A
+An increase in downtown car-free festival leads to an increase in both electric scooter rentals and curbside collision reports.,Yes,electric scooter rentals,curbside collision reports,downtown car-free festival,B_A
+An increase in drone photography bookings leads to an increase in restricted flight zone notices during aerial art festival.,No,drone photography bookings,restricted flight zone notices,aerial art festival,B_A
+An increase in remote learning leads to an increase in both online course enrollments and internet outage complaints.,Yes,online course enrollments,internet outage complaints,remote learning,B_A
+An increase in bicycle helmet sales leads to an increase in registration line backups during school bike-to-school day.,No,bicycle helmet sales,registration line backups,school bike-to-school day,B_A
+An increase in family gathering holidays leads to an increase in both board game sales and space shortage complaints.,Yes,board game sales,space shortage complaints,family gathering holidays,B_A
+An increase in hiking flashlight sales leads to an increase in trail closure alerts during night hiking festival.,No,hiking flashlight sales,trail closure alerts,night hiking festival,B_A
+An increase in university graduation leads to an increase in both graduation cap sales and public transport rerouting.,Yes,graduation cap sales,public transport rerouting,university graduation,B_A
+An increase in festival drum sales leads to an increase in earplug distribution during drumming celebration.,No,festival drum sales,earplug distribution,drumming celebration,B_A
+An increase in wedding season leads to an increase in both bakery cake orders and refrigerator shortages.,Yes,bakery cake orders,refrigerator shortages,wedding season,B_A
+An increase in smart lock purchases leads to an increase in tech support tickets during home security awareness month.,No,smart lock purchases,tech support tickets,home security awareness month,B_A
+An increase in new year eve leads to an increase in both champagne sales and police patrols.,Yes,champagne sales,police patrols,new year eve,B_A
+An increase in portable grill sales leads to an increase in smoke alarm triggers during backyard barbecue festival.,No,portable grill sales,smoke alarm triggers,backyard barbecue festival,B_A
+An increase in midsummer camping festival leads to an increase in both camping tent sales and forest fire warnings.,Yes,camping tent sales,forest fire warnings,midsummer camping festival,B_A
+An increase in solar backpack sales leads to an increase in battery disposal reports during green tech fair.,No,solar backpack sales,battery disposal reports,green tech fair,B_A
+An increase in lantern festival leads to an increase in both lantern purchases and park closure notices.,Yes,lantern purchases,park closure notices,lantern festival,B_A
+An increase in meditation bell sales leads to an increase in hall scheduling conflicts during spiritual retreat.,No,meditation bell sales,hall scheduling conflicts,spiritual retreat,B_A
+An increase in national cricket finals leads to an increase in both cricket bat sales and rail congestion.,Yes,cricket bat sales,rail congestion,national cricket finals,B_A
+An increase in 3D printer sales leads to an increase in filament shortage notices during makers convention.,No,3D printer sales,filament shortage notices,makers convention,B_A
+An increase in seaside carnival leads to an increase in both ice cream sales and litter patrols.,Yes,ice cream sales,litter patrols,seaside carnival,B_A
+An increase in board game cafe visits leads to an increase in table shortage complaints during gaming culture.,No,board game cafe visits,table shortage complaints,gaming culture,B_A
+An increase in cultural arts leads to an increase in both opera ticket sales and valet parking shortages.,Yes,opera ticket sales,valet parking shortages,cultural arts,B_A
+An increase in electric scooter helmet sales leads to an increase in training accident reports during mobility.,No,electric scooter helmet sales,training accident reports,mobility,B_A
+An increase in street carnival leads to an increase in both face paint purchases and crowd injuries.,Yes,face paint purchases,crowd injuries,street carnival,B_A
+An increase in reusable straw sales leads to an increase in dishwasher jam reports during plastic-free.,No,reusable straw sales,dishwasher jam reports,plastic-free,B_A
+An increase in rock concert leads to an increase in both electric guitar sales and noise ordinance fines.,Yes,electric guitar sales,noise ordinance fines,rock concert,B_A
+An increase in plant-based burger sales leads to an increase in grease trap cleanings during vegan food.,No,plant-based burger sales,grease trap cleanings,vegan food,B_A
+An increase in pilgrimage season leads to an increase in both air ticket bookings and lost baggage claims.,Yes,air ticket bookings,lost baggage claims,pilgrimage season,B_A
+An increase in digital art commission signups leads to an increase in payment dispute reports during online art expo.,No,digital art commission signups,payment dispute reports,online art expo,B_A
+An increase in summer fishing derby leads to an increase in both fishing rod sales and dock accidents.,Yes,fishing rod sales,dock accidents,summer fishing derby,B_A
+An increase in wearable fitness tracker sales leads to an increase in charging station queues during wellness expo.,No,wearable fitness tracker sales,charging station queues,wellness expo,B_A
+An increase in heritage leads to an increase in both horse carriage rentals and stable shortages.,Yes,horse carriage rentals,stable shortages,heritage,B_A
+An increase in virtual reality art exhibit sales leads to an increase in bandwidth limit notices during immersive arts.,No,virtual reality art exhibit sales,bandwidth limit notices,immersive arts,B_A
+An increase in summer night market leads to an increase in both meat skewer sales and street fire incidents.,Yes,meat skewer sales,street fire incidents,summer night market,B_A
+An increase in hiking compass sales leads to an increase in lost hiker calls during wilderness navigation camp.,No,hiking compass sales,lost hiker calls,wilderness navigation camp,B_A
+An increase in arctic blast leads to an increase in both electric blanket sales and fire department visits.,Yes,electric blanket sales,fire department visits,arctic blast,B_A
+An increase in watercolor paint sales leads to an increase in stained floor reports during community art classes.,No,watercolor paint sales,stained floor reports,community art classes,B_A
+An increase in international summit week leads to an increase in both airline ticket upgrades and hotel shuttle delays.,Yes,airline ticket upgrades,hotel shuttle delays,international summit week,B_A
+An increase in hiking trail app downloads leads to an increase in lost signal alerts during national park.,No,hiking trail app downloads,lost signal alerts,national park,B_A
+An increase in polar vortex days leads to an increase in both snow boot purchases and plowing expenses.,Yes,snow boot purchases,plowing expenses,polar vortex days,B_A
+An increase in cosplay costume sales leads to an increase in line control issues during anime convention.,No,cosplay costume sales,line control issues,anime convention,B_A
+An increase in art school exhibition leads to an increase in both art supply purchases and gallery entry delays.,Yes,art supply purchases,gallery entry delays,art school exhibition,B_A
+An increase in sports collectible card sales leads to an increase in counterfeit detection notices during hobby expo.,No,sports collectible card sales,counterfeit detection notices,hobby expo,B_A
+An increase in independence day parade leads to an increase in both national flag purchases and traffic diversions.,Yes,national flag purchases,traffic diversions,independence day parade,B_A
+An increase in ice sculpture kit sales leads to an increase in refrigeration breakdowns during frozen arts fair.,No,ice sculpture kit sales,refrigeration breakdowns,frozen arts fair,B_A
+An increase in theater festival leads to an increase in both theater ticket sales and metro line crowding.,Yes,theater ticket sales,metro line crowding,theater festival,B_A
+An increase in antique book sales leads to an increase in preservation lab calls during rare books festival.,No,antique book sales,preservation lab calls,rare books festival,B_A
+An increase in extreme cold advisory leads to an increase in both ski pass purchases and frostbite clinic visits.,Yes,ski pass purchases,frostbite clinic visits,extreme cold advisory,B_A
+An increase in pottery wheel sales leads to an increase in delivery truck delays during ceramic art.,No,pottery wheel sales,delivery truck delays,ceramic art,B_A
+An increase in winter camping festival leads to an increase in both camping stove sales and carbon monoxide alerts.,Yes,camping stove sales,carbon monoxide alerts,winter camping festival,B_A
+An increase in rooftop garden planter sales leads to an increase in drainage complaints during eco-city month.,No,rooftop garden planter sales,drainage complaints,eco-city month,B_A
+An increase in community ice rink leads to an increase in both ice skate rentals and ankle injury reports.,Yes,ice skate rentals,ankle injury reports,community ice rink,B_A
+An increase in handmade candle sales leads to an increase in wax spill reports during craft heritage fair.,No,handmade candle sales,wax spill reports,craft heritage fair,B_A
+An increase in rural heating shortage week leads to an increase in both space heater rentals and chimney fire incidents.,Yes,space heater rentals,chimney fire incidents,rural heating shortage week,B_A
+An increase in gourmet chocolate sales leads to an increase in customs checkpoint delays during international sweets expo.,No,gourmet chocolate sales,customs checkpoint delays,international sweets expo,B_A
+An increase in cold tea season leads to an increase in both electric kettle purchases and breaker trip reports.,Yes,electric kettle purchases,breaker trip reports,cold tea season,B_A
+An increase in yoga retreat bookings leads to an increase in noise curfew extensions during meditation festival.,No,yoga retreat bookings,noise curfew extensions,meditation festival,B_A
+An increase in esports tournament leads to an increase in both online gaming logins and broadband slowdown complaints.,Yes,online gaming logins,broadband slowdown complaints,esports tournament,B_A
+An increase in laser show ticket sales leads to an increase in parking diversion notices during light festival.,No,laser show ticket sales,parking diversion notices,light festival,B_A
+An increase in flea market leads to an increase in both secondhand clothing sales and lost property notices.,Yes,secondhand clothing sales,lost property notices,flea market,B_A
+An increase in smart fridge sales leads to an increase in software patch notices during home tech month.,No,smart fridge sales,software patch notices,home tech month,B_A
+An increase in commencement photo day leads to an increase in both graduation photo bookings and bus rerouting.,Yes,graduation photo bookings,bus rerouting,commencement photo day,B_A
+An increase in photography exhibition signups leads to an increase in hallway congestion during art appreciation.,No,photography exhibition signups,hallway congestion,art appreciation,B_A
+An increase in alpine ski championship leads to an increase in both ski helmet sales and ski patrol rescues.,Yes,ski helmet sales,ski patrol rescues,alpine ski championship,B_A
+An increase in children book fair sales leads to an increase in shelf restocking delays during literacy.,No,children book fair sales,shelf restocking delays,literacy,B_A
+An increase in cultural craft festival leads to an increase in both pottery workshop signups and road detours.,Yes,pottery workshop signups,road detours,cultural craft festival,B_A
+An increase in VR cinema tickets leads to an increase in bandwidth complaints during immersive film festival.,No,VR cinema tickets,bandwidth complaints,immersive film festival,B_A
+An increase in canine adoption day leads to an increase in both dog toy sales and lost dog reports.,Yes,dog toy sales,lost dog reports,canine adoption day,B_A
+An increase in electric heater sales leads to an increase in circuit overload calls during winter chill alert.,No,electric heater sales,circuit overload calls,winter chill alert,B_A
+An increase in monsoon alert days leads to an increase in both rain jacket purchases and minor collision reports.,Yes,rain jacket purchases,minor collision reports,monsoon alert days,B_A
+An increase in festival banner sales leads to an increase in scaffold collapse alerts during parade.,No,festival banner sales,scaffold collapse alerts,parade,B_A
+An increase in rooftop yoga leads to an increase in both yoga mat sales and noise complaints.,Yes,yoga mat sales,noise complaints,rooftop yoga,B_A
+An increase in hiking guide service bookings leads to an increase in trail bottleneck complaints during trekking month.,No,hiking guide service bookings,trail bottleneck complaints,trekking month,B_A
+An increase in home cinema leads to an increase in both video streaming subscriptions and electricity surge calls.,Yes,video streaming subscriptions,electricity surge calls,home cinema,B_A
+An increase in handmade scarf sales leads to an increase in dye stain complaints during textile crafts.,No,handmade scarf sales,dye stain complaints,textile crafts,B_A
+An increase in corporate party season leads to an increase in both party decoration sales and elevator delays.,Yes,party decoration sales,elevator delays,corporate party season,B_A
+An increase in coding contest signups leads to an increase in laptop charger shortages during hackathon season.,No,coding contest signups,laptop charger shortages,hackathon season,B_A
+An increase in folk dance parade leads to an increase in both souvenir purchases and traffic blockages.,Yes,souvenir purchases,traffic blockages,folk dance parade,B_A
+An increase in space exhibit bookings leads to an increase in security scanner failures during astronomy month.,No,space exhibit bookings,security scanner failures,astronomy month,B_A
+An increase in gaming convention leads to an increase in both VR headset sales and dizziness complaints.,Yes,VR headset sales,dizziness complaints,gaming convention,B_A
+An increase in organic farm box sales leads to an increase in delivery rescheduling notices during local harvest month.,No,organic farm box sales,delivery rescheduling notices,local harvest month,B_A
+An increase in zero-waste leads to an increase in both eco-bag purchases and delayed checkout lines.,Yes,eco-bag purchases,delayed checkout lines,zero-waste,B_A
+An increase in water sports rental signups leads to an increase in dockside congestion reports during river games.,No,water sports rental signups,dockside congestion reports,river games,B_A
+An increase in storm prep leads to an increase in both radio purchases and antenna repair calls.,Yes,radio purchases,antenna repair calls,storm prep,B_A
+An increase in street parade costume sales leads to an increase in dressing room shortages during carnival week.,No,street parade costume sales,dressing room shortages,carnival week,B_A
+An increase in children fair leads to an increase in both bakery cookie sales and traffic checkpoint setups.,Yes,bakery cookie sales,traffic checkpoint setups,children fair,B_A
+An increase in collectible toy sales leads to an increase in authenticity dispute reports during hobby fair.,No,collectible toy sales,authenticity dispute reports,hobby fair,B_A
+An increase in virtual music leads to an increase in both concert livestream purchases and power line failures.,Yes,concert livestream purchases,power line failures,virtual music,B_A
+An increase in cultural workshop signups leads to an increase in translation delay reports during intercultural.,No,cultural workshop signups,translation delay reports,intercultural,B_A
+An increase in holiday shipping rush leads to an increase in both game console sales and package theft reports.,Yes,game console sales,package theft reports,holiday shipping rush,B_A
+An increase in boat tour bookings leads to an increase in lifebuoy distribution during seaside tourism fair.,No,boat tour bookings,lifebuoy distribution,seaside tourism fair,B_A
+An increase in seaside safety leads to an increase in both sunscreen lotion sales and jellyfish sting reports.,Yes,sunscreen lotion sales,jellyfish sting reports,seaside safety,B_A
+An increase in children puppet sales leads to an increase in theater curtain issues during puppet festival.,No,children puppet sales,theater curtain issues,puppet festival,B_A
+An increase in folk music leads to an increase in both acoustic guitar sales and neighborhood complaints.,Yes,acoustic guitar sales,neighborhood complaints,folk music,B_A
+An increase in community garden seedling sales leads to an increase in compost overflow during urban gardening week.,No,community garden seedling sales,compost overflow,urban gardening week,B_A
+An increase in summer fair leads to an increase in both carnival ride tickets and first aid tent visits.,Yes,carnival ride tickets,first aid tent visits,summer fair,B_A
+An increase in wearable health monitor sales leads to an increase in calibration complaints during health innovation fair.,No,wearable health monitor sales,calibration complaints,health innovation fair,B_A
+An increase in agricultural monitoring week leads to an increase in both drone rentals and restricted airspace notices.,Yes,drone rentals,restricted airspace notices,agricultural monitoring week,B_A
+An increase in online puzzle subscriptions leads to an increase in server reset requests during global gaming day.,No,online puzzle subscriptions,server reset requests,global gaming day,B_A
+An increase in winter carnival gala leads to an increase in both ice sculpture orders and cracked pavement reports.,Yes,ice sculpture orders,cracked pavement reports,winter carnival gala,B_A
+An increase in electric violin rentals leads to an increase in speaker repair calls during orchestra showcase.,No,electric violin rentals,speaker repair calls,orchestra showcase,B_A
+An increase in highland trekking leads to an increase in both hiking pole sales and twisted ankle reports.,Yes,hiking pole sales,twisted ankle reports,highland trekking,B_A
+An increase in graphic tablet sales leads to an increase in stylus shortage reports during digital artists expo.,No,graphic tablet sales,stylus shortage reports,digital artists expo,B_A
+An increase in workplace wellness week leads to an increase in both bottled smoothie sales and recycling overflow.,Yes,bottled smoothie sales,recycling overflow,workplace wellness week,B_A
+An increase in fishing rod rentals leads to an increase in dock permit checks during regional anglers festival.,No,fishing rod rentals,dock permit checks,regional anglers festival,B_A
+An increase in rolling blackout period leads to an increase in both flashlight sales and elevator entrapment calls.,Yes,flashlight sales,elevator entrapment calls,rolling blackout period,B_A
+An increase in augmented reality game downloads leads to an increase in phone overheating cases during tech trial.,No,augmented reality game downloads,phone overheating cases,tech trial,B_A
+An increase in regional antique fair leads to an increase in both antique fair purchases and highway slowdowns.,Yes,antique fair purchases,highway slowdowns,regional antique fair,B_A
+An increase in smart curtain sales leads to an increase in app crash reports during home living exhibition.,No,smart curtain sales,app crash reports,home living exhibition,B_A
+An increase in winter tourism leads to an increase in both ski jacket purchases and shuttle delays.,Yes,ski jacket purchases,shuttle delays,winter tourism,B_A
+An increase in children theater ticket sales leads to an increase in restroom queue complaints during family drama festival.,No,children theater ticket sales,restroom queue complaints,family drama festival,B_A
+An increase in school excursion leads to an increase in both school trip bookings and highway rest stop backups.,Yes,school trip bookings,highway rest stop backups,school excursion,B_A
+An increase in smart mirror sales leads to an increase in connectivity error reports during beauty tech fair.,No,smart mirror sales,connectivity error reports,beauty tech fair,B_A
+An increase in youth summer camp leads to an increase in both summer camp enrollments and insect bite clinic visits.,Yes,summer camp enrollments,insect bite clinic visits,youth summer camp,B_A
+An increase in cultural souvenir purchases leads to an increase in luggage claim disputes during heritage travel fair.,No,cultural souvenir purchases,luggage claim disputes,heritage travel fair,B_A
+An increase in cross-country cycling race leads to an increase in both cycling helmet purchases and medical tent reports.,Yes,cycling helmet purchases,medical tent reports,cross-country cycling race,B_A
+An increase in language learning app signups leads to an increase in password reset requests during bilingualism awareness month.,No,language learning app signups,password reset requests,bilingualism awareness month,B_A
+An increase in city picnic day leads to an increase in both picnic blanket sales and lost item reports.,Yes,picnic blanket sales,lost item reports,city picnic day,B_A
+An increase in smart desk purchases leads to an increase in cable entanglement reports during ergonomic office.,No,smart desk purchases,cable entanglement reports,ergonomic office,B_A
+An increase in cycling tourism festival leads to an increase in both cycling tour packages and ferry delay notices.,Yes,cycling tour packages,ferry delay notices,cycling tourism festival,B_A
+An increase in online sports streaming logins leads to an increase in access denial reports during world finals.,No,online sports streaming logins,access denial reports,world finals,B_A
+An increase in science museum anniversary leads to an increase in both space exhibit tickets and transit pass issues.,Yes,space exhibit tickets,transit pass issues,science museum anniversary,B_A
+An increase in bamboo furniture sales leads to an increase in shipment breakage complaints during eco home expo.,No,bamboo furniture sales,shipment breakage complaints,eco home expo,B_A
+An increase in community swim gala leads to an increase in both swimming goggle sales and minor injury reports.,Yes,swimming goggle sales,minor injury reports,community swim gala,B_A
+An increase in online art tutorial sales leads to an increase in subscription cancellations during creativity.,No,online art tutorial sales,subscription cancellations,creativity,B_A
+An increase in clean transport week leads to an increase in both electric car sales and charging station breakdowns.,Yes,electric car sales,charging station breakdowns,clean transport week,B_A
+An increase in VR classroom headset rentals leads to an increase in overheating complaints during edtech summit.,No,VR classroom headset rentals,overheating complaints,edtech summit,B_A
+An increase in cold fashion week leads to an increase in both wool sweater sales and thermostat failure calls.,Yes,wool sweater sales,thermostat failure calls,cold fashion week,B_A
+An increase in mobile payment app signups leads to an increase in verification delays during fintech festival.,No,mobile payment app signups,verification delays,fintech festival,B_A
+An increase in bonfire night leads to an increase in both camping chair sales and firewood shortages.,Yes,camping chair sales,firewood shortages,bonfire night,B_A
+An increase in e-scooter battery sales leads to an increase in recycling backlog during battery awareness.,No,e-scooter battery sales,recycling backlog,battery awareness,B_A
+An increase in vineyard harvest festival leads to an increase in both wine glass purchases and cleanup crew delays.,Yes,wine glass purchases,cleanup crew delays,vineyard harvest festival,B_A
+An increase in knitting kit sales leads to an increase in hand injury reports during fiber crafts week.,No,knitting kit sales,hand injury reports,fiber crafts week,B_A
+An increase in virtual reality expo leads to an increase in both VR game purchases and optometrist visits.,Yes,VR game purchases,optometrist visits,virtual reality expo,B_A
+An increase in indoor climbing wall signups leads to an increase in rope fray reports during adventure fitness month.,No,indoor climbing wall signups,rope fray reports,adventure fitness month,B_A
+An increase in spring kite festival leads to an increase in both kite sales and field injury reports.,Yes,kite sales,field injury reports,spring kite festival,B_A
+An increase in kite workshop enrollments leads to an increase in supply shortages during spring sky fair.,No,kite workshop enrollments,supply shortages,spring sky fair,B_A
+An increase in winter light festival leads to an increase in both holiday light sales and power line inspections.,Yes,holiday light sales,power line inspections,winter light festival,B_A
+An increase in festival costume rentals leads to an increase in wardrobe malfunctions during cultural parade.,No,festival costume rentals,wardrobe malfunctions,cultural parade,B_A
+An increase in outdoor fashion show leads to an increase in both summer dress sales and hydration tent visits.,Yes,summer dress sales,hydration tent visits,outdoor fashion show,B_A
+An increase in car rental reservations leads to an increase in key loss complaints during regional auto fair.,No,car rental reservations,key loss complaints,regional auto fair,B_A
+An increase in digital literacy leads to an increase in both e-book purchases and student login errors.,Yes,e-book purchases,student login errors,digital literacy,B_A
+An increase in street artist permit requests leads to an increase in patrol notices during art in public spaces.,No,street artist permit requests,patrol notices,art in public spaces,B_A
+An increase in hobby drone festival leads to an increase in both toy drone sales and lost drone recoveries.,Yes,toy drone sales,lost drone recoveries,hobby drone festival,B_A
+An increase in festival lantern orders leads to an increase in scaffold delays during cultural night fair.,No,festival lantern orders,scaffold delays,cultural night fair,B_A
+An increase in theater gala leads to an increase in both opera costume rentals and elevator breakdown reports.,Yes,opera costume rentals,elevator breakdown reports,theater gala,B_A
+An increase in astronomy club signups leads to an increase in telescope repair calls during stargazer summit.,No,astronomy club signups,telescope repair calls,stargazer summit,B_A
+An increase in pottery trade fair leads to an increase in both ceramic vase sales and customs delays.,Yes,ceramic vase sales,customs delays,pottery trade fair,B_A
+An increase in puzzle purchases leads to an increase in online chess activity during library renovation.,No,puzzle purchases,online chess activity,library renovation,B_A
+An increase in garage band leads to an increase in both guitar amplifier sales and community complaint calls.,Yes,guitar amplifier sales,community complaint calls,garage band,B_A
+An increase in flower pot purchases leads to an increase in fertilizer usage reports during garden awareness.,No,flower pot purchases,fertilizer usage reports,garden awareness,B_A
+An increase in eco-living exhibition leads to an increase in both solar cooker sales and food inspector visits.,Yes,solar cooker sales,food inspector visits,eco-living exhibition,B_A
+An increase in umbrella sales leads to an increase in road congestion during rainy mornings.,No,umbrella sales,road congestion,rainy mornings,B_A
+An increase in championship victory parade leads to an increase in both football jersey sales and subway rerouting.,Yes,football jersey sales,subway rerouting,championship victory parade,B_A
+An increase in snow shovel purchases leads to an increase in car accidents during snowstorms.,No,snow shovel purchases,car accidents,snowstorms,B_A
+An increase in county fair week leads to an increase in both hot dog stand sales and first-aid station reports.,Yes,hot dog stand sales,first-aid station reports,county fair week,B_A
+An increase in bottled water sales leads to an increase in emergency room visits during heat advisories.,No,bottled water sales,emergency room visits,heat advisories,B_A
+An increase in global education leads to an increase in both language course signups and login failure complaints.,Yes,language course signups,login failure complaints,global education,B_A
+An increase in headphone purchases leads to an increase in podcast subscriptions during morning commutes.,No,headphone purchases,podcast subscriptions,morning commutes,B_A
+An increase in scholastic chess finals leads to an increase in both chess clock sales and equipment loss reports.,Yes,chess clock sales,equipment loss reports,scholastic chess finals,B_A
+An increase in face mask sales leads to an increase in hand sanitizer purchases during flu season.,No,face mask sales,hand sanitizer purchases,flu season,B_A
+An increase in outdoor theatre leads to an increase in both raincoat rentals and muddy floor reports.,Yes,raincoat rentals,muddy floor reports,outdoor theatre,B_A
+An increase in TV sales leads to an increase in popcorn purchases during sports championship.,No,TV sales,popcorn purchases,sports championship,B_A
+An increase in bridal expo leads to an increase in both wedding ring sales and claim filing.,Yes,wedding ring sales,claim filing,bridal expo,B_A
+An increase in flu medicine sales leads to an increase in clinic visits during flu outbreak.,No,flu medicine sales,clinic visits,flu outbreak,B_A
+An increase in city heritage day leads to an increase in both bakery pastry sales and sanitation alerts.,Yes,bakery pastry sales,sanitation alerts,city heritage day,B_A
+An increase in movie ticket sales leads to an increase in online popcorn orders during blockbuster premiere day.,No,movie ticket sales,online popcorn orders,blockbuster premiere day,B_A
+An increase in regional travel carnival leads to an increase in both train bookings and baggage mishandling reports.,Yes,train bookings,baggage mishandling reports,regional travel carnival,B_A
+An increase in board game rentals leads to an increase in snack bar purchases during family game night event.,No,board game rentals,snack bar purchases,family game night event,B_A
+An increase in interschool sports meet leads to an increase in both sports shoe purchases and locker delays.,Yes,sports shoe purchases,locker delays,interschool sports meet,B_A
+An increase in book sales leads to an increase in library visits during reading festival.,No,book sales,library visits,reading festival,B_A
+An increase in sustainability leads to an increase in both recycled notebook sales and misprint notices.,Yes,recycled notebook sales,misprint notices,sustainability,B_A
+An increase in video doorbell installs leads to an increase in dog barking complaints during neighborhood watch alerts.,No,video doorbell installs,dog barking complaints,neighborhood watch alerts,B_A
+An increase in photo walk leads to an increase in both photography course signups and traffic citations.,Yes,photography course signups,traffic citations,photo walk,B_A
+An increase in eBook downloads leads to an increase in screen time complaints during literary festivals.,No,eBook downloads,screen time complaints,literary festivals,B_A
+An increase in teen music fest leads to an increase in both bubble tea sales and trash pickup delays.,Yes,bubble tea sales,trash pickup delays,teen music fest,B_A
+An increase in pencil cases leads to an increase in lunch tray usage during orientation day.,No,pencil cases,lunch tray usage,orientation day,B_A
+An increase in office tech upgrade month leads to an increase in both coffee machine purchases and repair backlogs.,Yes,coffee machine purchases,repair backlogs,office tech upgrade month,B_A
+An increase in notebook purchases leads to an increase in redbull usage during final exam.,No,notebook purchases,redbull usage,final exam,B_A
+An increase in harvest kitchen fair leads to an increase in both homemade jam sales and pantry shortages.,Yes,homemade jam sales,pantry shortages,harvest kitchen fair,B_A
+An increase in costume sales leads to an increase in candy purchases during the Halloween season.,No,costume sales,candy purchases,the Halloween season,B_A
+An increase in city skate day leads to an increase in both roller skate rentals and clinic visits.,Yes,roller skate rentals,clinic visits,city skate day,B_A
+An increase in tote bag purchases leads to an increase in water bottle sales during Earth Day events.,No,tote bag purchases,water bottle sales,Earth Day events,B_A
+An increase in bakers guild leads to an increase in both bakery bread sales and oven repair calls.,Yes,bakery bread sales,oven repair calls,bakers guild,B_A
+An increase in cleaning spray purchases leads to an increase in laundry detergent sales during spring season.,No,cleaning spray purchases,laundry detergent sales,spring season,B_A
+An increase in desert cycling challenge leads to an increase in both cycling jersey sales and dehydration tent visits.,Yes,cycling jersey sales,dehydration tent visits,desert cycling challenge,B_A
+An increase in grill accessory sales leads to an increase in beverage cooler rentals during outdoor barbecue.,No,grill accessory sales,beverage cooler rentals,outdoor barbecue,B_A
+An increase in youth wellness fair leads to an increase in both smoothie stall sales and inspector reports.,Yes,smoothie stall sales,inspector reports,youth wellness fair,B_A
+An increase in backpack sales leads to an increase in lunchbox purchases during school reopening.,No,backpack sales,lunchbox purchases,school reopening,B_A
+An increase in school robotics competition leads to an increase in both robot kit sales and lab accidents.,Yes,robot kit sales,lab accidents,school robotics competition,B_A
+An increase in tire sales leads to an increase in windshield wiper usage during road trip season.,No,tire sales,windshield wiper usage,road trip season,B_A
+An increase in airport open house leads to an increase in both luggage cart rentals and escalator stoppages.,Yes,luggage cart rentals,escalator stoppages,airport open house,B_A
+An increase in online recipe searches leads to an increase in oven mitt sales during baking challenges month.,No,online recipe searches,oven mitt sales,baking challenges month,B_A
+An increase in charity relay race leads to an increase in both marathon t-shirt sales and hydration break reports.,Yes,marathon t-shirt sales,hydration break reports,charity relay race,B_A
+An increase in webcam sales leads to an increase in tripod purchases during virtual interview periods.,No,webcam sales,tripod purchases,virtual interview periods,B_A
+An increase in pet adoption carnival leads to an increase in both pet food sales and stray sighting reports.,Yes,pet food sales,stray sighting reports,pet adoption carnival,B_A
+An increase in coffee machine usage leads to an increase in meeting delays during tight project deadlines.,No,coffee machine usage,meeting delays,tight project deadlines,B_A
+Will library renovation week cause the increase of keyboard drills and typing speed?,No,keyboard drills,typing speed,library renovation week,O_D
+Will the increase of candle making practice cause wax control during city lantern tour?,Yes,candle making practice,wax control,city lantern tour,O_D
+Will poetry festival cause the increase of cycling lessons and balance stability?,No,cycling lessons,balance stability,poetry festival,O_D
+Will the increase of knitting lessons cause pattern creation during school alumni lunch?,Yes,knitting lessons,pattern creation,school alumni lunch,O_D
+Will jazz concert night cause the increase of meditation breathing and stress control?,No,meditation breathing,stress control,jazz concert night,O_D
+Will the increase of theater line practice cause memorization skill during coastal parade?,Yes,theater line practice,memorization skill,coastal parade,O_D
+Will local art exhibition cause the increase of hand sanitizing and germ reduction?,No,hand sanitizing,germ reduction,local art exhibition,O_D
+Will the increase of kayaking drills cause paddle strength during local crafts showcase?,Yes,kayaking drills,paddle strength,local crafts showcase,O_D
+Will dog adoption fair cause the increase of strategy games and critical thinking?,No,strategy games,critical thinking,dog adoption fair,O_D
+Will the increase of creative journaling cause reflection ability during civic anniversary dinner?,Yes,creative journaling,reflection ability,civic anniversary dinner,O_D
+Will boat parade cause the increase of vocabulary practice and reading comprehension?,No,vocabulary practice,reading comprehension,boat parade,O_D
+Will the increase of astronomy club meetings cause sky chart reading during historic banquet?,Yes,astronomy club meetings,sky chart reading,historic banquet,O_D
+Will city chess tournament cause the increase of cooking practice and recipe quality?,No,cooking practice,recipe quality,city chess tournament,O_D
+Will the increase of embroidery sessions cause stitch accuracy during farmer appreciation day?,Yes,embroidery sessions,stitch accuracy,farmer appreciation day,O_D
+Will subway maintenance week cause the increase of group discussions and idea generation?,No,group discussions,idea generation,subway maintenance week,O_D
+Will the increase of juggling drills cause hand eye coordination during charity auction?,Yes,juggling drills,hand eye coordination,charity auction,O_D
+Will science expo cause the increase of balanced diet and heart health?,No,balanced diet,heart health,science expo,O_D
+Will the increase of metal forging practice cause heat shaping skill during youth orchestra?,Yes,metal forging practice,heat shaping skill,youth orchestra,O_D
+Will photo gallery opening cause the increase of language lessons and fluency?,No,language lessons,fluency,photo gallery opening,O_D
+Will the increase of mindfulness coloring cause focus steadiness during school election?,Yes,mindfulness coloring,focus steadiness,school election,O_D
+Will space exhibition cause the increase of recycling habits and cleaner streets?,No,recycling habits,cleaner streets,space exhibition,O_D
+Will the increase of glass painting cause color layering during riverbank celebration?,Yes,glass painting,color layering,riverbank celebration,O_D
+Will historical lecture cause the increase of drawing practice and sketching accuracy?,No,drawing practice,sketching accuracy,historical lecture,O_D
+Will the increase of wildlife sketching cause animal recognition during academic reunion?,Yes,wildlife sketching,animal recognition,academic reunion,O_D
+Will science fair judging cause the increase of mindfulness training and focus control?,No,mindfulness training,focus control,science fair judging,O_D
+Will the increase of canoe lessons cause water navigation during anniversary celebration?,Yes,canoe lessons,water navigation,anniversary celebration,O_D
+Will book signing event cause the increase of craft projects and creativity?,No,craft projects,creativity,book signing event,O_D
+Will the increase of bread baking cause yeast control during local flower show?,Yes,bread baking,yeast control,local flower show,O_D
+Will school reunion cause the increase of guitar scales practice and music fluency?,No,guitar scales practice,music fluency,school reunion,O_D
+Will the increase of public policy workshops cause civic knowledge during harbor festival?,Yes,public policy workshops,civic knowledge,harbor festival,O_D
+Will road closure week cause the increase of chess drills and strategic insight?,No,chess drills,strategic insight,road closure week,O_D
+Will the increase of coding syntax drills cause language accuracy during new library week?,Yes,coding syntax drills,language accuracy,new library week,O_D
+Will cultural lecture night cause the increase of plant care and leaf health?,No,plant care,leaf health,cultural lecture night,O_D
+Will the increase of kite flying practice cause wind handling during urban marathon?,Yes,kite flying practice,wind handling,urban marathon,O_D
+Will cycling rally cause the increase of composition writing and writing clarity?,No,composition writing,writing clarity,cycling rally,O_D
+Will the increase of robotics seminars cause design foresight during riverfront fair?,Yes,robotics seminars,design foresight,riverfront fair,O_D
+Will tax filing week cause the increase of teamwork exercises and collaboration?,No,teamwork exercises,collaboration,tax filing week,O_D
+Will the increase of rock climbing sessions cause grip power during cultural parade?,Yes,rock climbing sessions,grip power,cultural parade,O_D
+Will annual dog show cause the increase of driving practice and license pass rates?,No,driving practice,license pass rates,annual dog show,O_D
+Will the increase of drama scene work cause stage authenticity during harbor illumination show?,Yes,drama scene work,stage authenticity,harbor illumination show,O_D
+Will film shooting week cause the increase of classroom participation and learning outcomes?,No,classroom participation,learning outcomes,film shooting week,O_D
+Will the increase of puppet shows cause coordination skills during civic dedication?,Yes,puppet shows,coordination skills,civic dedication,O_D
+Will neighborhood election cause the increase of cycling commutes and leg strength?,No,cycling commutes,leg strength,neighborhood election,O_D
+Will the increase of painting restoration cause color preservation during neighborhood dance?,Yes,painting restoration,color preservation,neighborhood dance,O_D
+Will library anniversary cause the increase of vegetable gardening and food supply?,No,vegetable gardening,food supply,library anniversary,O_D
+Will the increase of debate clubs cause logic confidence during riverside concert?,Yes,debate clubs,logic confidence,riverside concert,O_D
+Will local market week cause the increase of reading drills and critical thinking?,No,reading drills,critical thinking,local market week,O_D
+Will the increase of sculpture casting cause form precision during high school reunion?,Yes,sculpture casting,form precision,high school reunion,O_D
+Will book fair cause the increase of speech rehearsals and persuasion skills?,No,speech rehearsals,persuasion skills,book fair,O_D
+Will the increase of machine shop drills cause tool handling during cultural speech?,Yes,machine shop drills,tool handling,cultural speech,O_D
+Will city budget week cause the increase of typing drills and accuracy?,No,typing drills,accuracy,city budget week,O_D
+Will the increase of glass cutting lessons cause shaping accuracy during local food bazaar?,Yes,glass cutting lessons,shaping accuracy,local food bazaar,O_D
+Will local poetry slam cause the increase of map reading practice and navigation ability?,No,map reading practice,navigation ability,local poetry slam,O_D
+Will the increase of coding documentation cause code readability during sculpture showcase?,Yes,coding documentation,code readability,sculpture showcase,O_D
+Will heritage museum exhibit cause the increase of coding projects and debugging skill?,No,coding projects,debugging skill,heritage museum exhibit,O_D
+Will the increase of cooking knife skills cause slicing precision during school debate night?,Yes,cooking knife skills,slicing precision,school debate night,O_D
+Will municipal award banquet cause the increase of budgeting exercises and savings?,No,budgeting exercises,savings,municipal award banquet,O_D
+Will the increase of policy analysis exercises cause government insight during summer concert?,Yes,policy analysis exercises,government insight,summer concert,O_D
+Will train station renovation cause the increase of crossword practice and reasoning skill?,No,crossword practice,reasoning skill,train station renovation,O_D
+Will the increase of video editing drills cause transition fluency during farmer banquet?,Yes,video editing drills,transition fluency,farmer banquet,O_D
+Will photography showcase cause the increase of woodworking lessons and craftsmanship?,No,woodworking lessons,craftsmanship,photography showcase,O_D
+Will the increase of marathon cycling cause distance tolerance during school fair?,Yes,marathon cycling,distance tolerance,school fair,O_D
+Will astronomy lecture cause the increase of yoga classes and relaxation?,No,yoga classes,relaxation,astronomy lecture,O_D
+Will the increase of acting rehearsals cause stage memory during autumn expo?,Yes,acting rehearsals,stage memory,autumn expo,O_D
+Will regional craft fair cause the increase of grammar drills and sentence clarity?,No,grammar drills,sentence clarity,regional craft fair,O_D
+Will the increase of swimming technique drills cause stroke efficiency during local marathon?,Yes,swimming technique drills,stroke efficiency,local marathon,O_D
+Will art gallery opening cause the increase of swimming laps and endurance?,No,swimming laps,endurance,art gallery opening,O_D
+Will the increase of drawing perspective practice cause spatial accuracy during garden dinner?,Yes,drawing perspective practice,spatial accuracy,garden dinner,O_D
+Will political rally cause the increase of spreadsheet lessons and data accuracy?,No,spreadsheet lessons,data accuracy,political rally,O_D
+Will the increase of painting sketches cause shading depth during science award gala?,Yes,painting sketches,shading depth,science award gala,O_D
+Will sports expo cause the increase of rope skipping and agility?,No,rope skipping,agility,sports expo,O_D
+Will the increase of handball training cause throwing power during civic orchestra night?,Yes,handball training,throwing power,civic orchestra night,O_D
+Will neighborhood theater night cause the increase of flashcard reviews and memory retention?,No,flashcard reviews,memory retention,neighborhood theater night,O_D
+Will the increase of cartography drills cause map drawing precision during village parade?,Yes,cartography drills,map drawing precision,village parade,O_D
+Will local craft market cause the increase of balance beam practice and body stability?,No,balance beam practice,body stability,local craft market,O_D
+Will the increase of sprint canoeing cause arm endurance during history panel?,Yes,sprint canoeing,arm endurance,history panel,O_D
+Will library poetry reading cause the increase of project planning and productivity?,No,project planning,productivity,library poetry reading,O_D
+Will the increase of guitar ensemble practice cause harmony blending during youth contest?,Yes,guitar ensemble practice,harmony blending,youth contest,O_D
+Will antique book fair cause the increase of coding drills and algorithm mastery?,No,coding drills,algorithm mastery,antique book fair,O_D
+Will the increase of running obstacle drills cause agility response during winter parade?,Yes,running obstacle drills,agility response,winter parade,O_D
+Will city fireworks night cause the increase of geography quizzes and map knowledge?,No,geography quizzes,map knowledge,city fireworks night,O_D
+Will the increase of economic surveys cause data interpretation during jazz night?,Yes,economic surveys,data interpretation,jazz night,O_D
+Will art museum gala cause the increase of budgeting lessons and financial control?,No,budgeting lessons,financial control,art museum gala,O_D
+Will the increase of sprint hurdling cause jump timing during neighborhood fair?,Yes,sprint hurdling,jump timing,neighborhood fair,O_D
+Will regional debate night cause the increase of flossing and gum health?,No,flossing,gum health,regional debate night,O_D
+Will the increase of meditation retreats cause awareness balance during river celebration?,Yes,meditation retreats,awareness balance,river celebration,O_D
+Will student orientation cause the increase of finance workshops and investment skills?,No,finance workshops,investment skills,student orientation,O_D
+Will the increase of basketball conditioning cause rebound skill during spring showcase?,Yes,basketball conditioning,rebound skill,spring showcase,O_D
+Will municipal lighting week cause the increase of posture drills and spinal health?,No,posture drills,spinal health,municipal lighting week,O_D
+Will the increase of welding practice cause metal joining accuracy during civic lighting?,Yes,welding practice,metal joining accuracy,civic lighting,O_D
+Will open mic comedy night cause the increase of nutrition lessons and healthy eating knowledge?,No,nutrition lessons,healthy eating knowledge,open mic comedy night,O_D
+Will the increase of coding practice tests cause error detection during civic storytelling?,Yes,coding practice tests,error detection,civic storytelling,O_D
+Will autumn carnival cause the increase of agility ladder drills and coordination?,No,agility ladder drills,coordination,autumn carnival,O_D
+Will the increase of sculpting molds cause form shaping during literature expo?,Yes,sculpting molds,form shaping,literature expo,O_D
+Will ceramics exhibit cause the increase of hydration tracking and athletic performance?,No,hydration tracking,athletic performance,ceramics exhibit,O_D
+Will the increase of laser tag matches cause target focus during childrens theater night?,Yes,laser tag matches,target focus,childrens theater night,O_D
+Will community fundraiser cause the increase of spelling quizzes and literacy?,No,spelling quizzes,literacy,community fundraiser,O_D
+Will the increase of choir ensembles cause vocal blending during lantern celebration?,Yes,choir ensembles,vocal blending,lantern celebration,O_D
+Will rooftop party cause the increase of clay modeling and sculpture skill?,No,clay modeling,sculpture skill,rooftop party,O_D
+Will the increase of balance exercises cause body control during museum awards?,Yes,balance exercises,body control,museum awards,O_D
+Will music award night cause the increase of stenography practice and transcription fluency?,No,stenography practice,transcription fluency,music award night,O_D
+Will the increase of pottery wheel carving cause surface smoothness during civic theater night?,Yes,pottery wheel carving,surface smoothness,civic theater night,O_D
+Will local book fair cause the increase of hydration logs and body regulation?,No,hydration logs,body regulation,local book fair,O_D
+Will the increase of graphic storytelling practice cause panel clarity during seaside music show?,Yes,graphic storytelling practice,panel clarity,seaside music show,O_D
+Will dog show event cause the increase of algebra problem sets and symbolic reasoning?,No,algebra problem sets,symbolic reasoning,dog show event,O_D
+Will the increase of sign language rehearsals cause gesture fluency during spring lantern concert?,Yes,sign language rehearsals,gesture fluency,spring lantern concert,O_D
+Will heritage costume parade cause the increase of coding bootcamps and software projects?,No,coding bootcamps,software projects,heritage costume parade,O_D
+Will the increase of animation sketch drills cause motion realism during city election rally?,Yes,animation sketch drills,motion realism,city election rally,O_D
+Will farmers market cause the increase of tai chi practice and posture balance?,No,tai chi practice,posture balance,farmers market,O_D
+Will the increase of robotics wiring practice cause circuit safety during floral contest?,Yes,robotics wiring practice,circuit safety,floral contest,O_D
+Will corporate gala cause the increase of loom weaving and textile variety?,No,loom weaving,textile variety,corporate gala,O_D
+Will the increase of architectural drafting cause structural precision during railway commemoration?,Yes,architectural drafting,structural precision,railway commemoration,O_D
+Will city parade rehearsal cause the increase of agility cones drills and motor synchronization?,No,agility cones drills,motor synchronization,city parade rehearsal,O_D
+Will the increase of poetry translations cause cultural awareness during fireworks march?,Yes,poetry translations,cultural awareness,fireworks march,O_D
+Will photography contest cause the increase of harp practice and finger dexterity?,No,harp practice,finger dexterity,photography contest,O_D
+Will the increase of pottery glazing drills cause kiln consistency during historical speech?,Yes,pottery glazing drills,kiln consistency,historical speech,O_D
+Will art exhibit opening cause the increase of hill cycling and endurance strength?,No,hill cycling,endurance strength,art exhibit opening,O_D
+Will the increase of digital animation loops cause rendering fluency during public awards?,Yes,digital animation loops,rendering fluency,public awards,O_D
+Will political debate cause the increase of chemistry labs and experiment skill?,No,chemistry labs,experiment skill,political debate,O_D
+Will the increase of bird habitat studies cause observation skill during art parade?,Yes,bird habitat studies,observation skill,art parade,O_D
+Will art auction cause the increase of lifeguard courses and rescue ability?,No,lifeguard courses,rescue ability,art auction,O_D
+Will the increase of jazz solo practice cause improvisation fluency during science showcase?,Yes,jazz solo practice,improvisation fluency,science showcase,O_D
+Will charity dinner cause the increase of word puzzles and problem analysis?,No,word puzzles,problem analysis,charity dinner,O_D
+Will the increase of canoe races cause water speed during city lecture?,Yes,canoe races,water speed,city lecture,O_D
+Will orchestra rehearsal cause the increase of stair climbing and cardiovascular fitness?,No,stair climbing,cardiovascular fitness,orchestra rehearsal,O_D
+Will the increase of storytelling performances cause audience engagement during robotics expo?,Yes,storytelling performances,audience engagement,robotics expo,O_D
+Will book festival cause the increase of wilderness first aid courses and emergency knowledge?,No,wilderness first aid courses,emergency knowledge,book festival,O_D
+Will the increase of welding apprenticeships cause joint durability during neighborhood gala?,Yes,welding apprenticeships,joint durability,neighborhood gala,O_D
+Will poetry recital cause the increase of rowing sessions and core strength?,No,rowing sessions,core strength,poetry recital,O_D
+Will the increase of programming design patterns cause architecture skill during cultural pageant?,Yes,programming design patterns,architecture skill,cultural pageant,O_D
+Will craft exhibition cause the increase of logic riddles and analytical reasoning?,No,logic riddles,analytical reasoning,craft exhibition,O_D
+Will the increase of underwater diving sessions cause buoyancy control during medieval banquet?,Yes,underwater diving sessions,buoyancy control,medieval banquet,O_D
+Will lantern festival cause the increase of emergency evacuation drills and survival readiness?,No,emergency evacuation drills,survival readiness,lantern festival,O_D
+Will the increase of call center roleplays cause communication clarity during childrens carnival?,Yes,call center roleplays,communication clarity,childrens carnival,O_D
+Will theater gala cause the increase of yoga flows and posture control?,No,yoga flows,posture control,theater gala,O_D
+Will the increase of astronomy telescope logs cause star detail during winter chess gala?,Yes,astronomy telescope logs,star detail,winter chess gala,O_D
+Will regional art show cause the increase of case study analysis and problem evaluation?,No,case study analysis,problem evaluation,regional art show,O_D
+Will the increase of bee keeping drills cause hive safety during municipal parade?,Yes,bee keeping drills,hive safety,municipal parade,O_D
+Will museum reopening cause the increase of circuit training and cardio strength?,No,circuit training,cardio strength,museum reopening,O_D
+Will the increase of environmental surveys cause conservation insight during student showcase?,Yes,environmental surveys,conservation insight,student showcase,O_D
+Will city parade cause the increase of literature circles and comprehension depth?,No,literature circles,comprehension depth,city parade,O_D
+Will the increase of financial portfolio reviews cause investment insight during autumn market?,Yes,financial portfolio reviews,investment insight,autumn market,O_D
+Will historical reenactment cause the increase of orchestra sectionals and ensemble cohesion?,No,orchestra sectionals,ensemble cohesion,historical reenactment,O_D
+Will the increase of puzzle mazes cause spatial planning during city dinner?,Yes,puzzle mazes,spatial planning,city dinner,O_D
+Will vintage market cause the increase of mnemonic devices and study preparation?,No,mnemonic devices,study preparation,vintage market,O_D
+Will the increase of climate debate groups cause policy articulation during folk celebration?,Yes,climate debate groups,policy articulation,folk celebration,O_D
+Will political convention cause the increase of sprint cycling and athletic power?,No,sprint cycling,athletic power,political convention,O_D
+Will the increase of meteorology lectures cause forecast understanding during local feast?,Yes,meteorology lectures,forecast understanding,local feast,O_D
+Will cultural banquet cause the increase of mural painting and creative expression?,No,mural painting,creative expression,cultural banquet,O_D
+Will the increase of mythology readings cause imagination growth during museum ceremony?,Yes,mythology readings,imagination growth,museum ceremony,O_D
+Will garden exhibition cause the increase of sign language practice and communication skill?,No,sign language practice,communication skill,garden exhibition,O_D
+Will the increase of paper recycling workshops cause waste reduction during cultural parade?,Yes,paper recycling workshops,waste reduction,cultural parade,O_D
+Will school theater night cause the increase of coding puzzles and logic precision?,No,coding puzzles,logic precision,school theater night,O_D
+Will the increase of forensic labs cause evidence accuracy during town anniversary?,Yes,forensic labs,evidence accuracy,town anniversary,O_D
+Will neighborhood flea market cause the increase of plant grafting and crop diversity?,No,plant grafting,crop diversity,neighborhood flea market,O_D
+Will the increase of sailing races cause navigation timing during harbor craft fair?,Yes,sailing races,navigation timing,harbor craft fair,O_D
+Will literature night cause the increase of coding pair exercises and debugging efficiency?,No,coding pair exercises,debugging efficiency,literature night,O_D
+Will the increase of mosaic tile workshops cause color alignment during winter showcase?,Yes,mosaic tile workshops,color alignment,winter showcase,O_D
+Will fireworks show cause the increase of cycling drills and lung endurance?,No,cycling drills,lung endurance,fireworks show,O_D
+Will the increase of archery stance practice cause arrow precision during seaside banquet?,Yes,archery stance practice,arrow precision,seaside banquet,O_D
+Will design expo cause the increase of first aid simulations and survival outcomes?,No,first aid simulations,survival outcomes,design expo,O_D
+Will the increase of piano quartets cause melody synchronization during civic tribute?,Yes,piano quartets,melody synchronization,civic tribute,O_D
+Will alumni reunion cause the increase of spelling competitions and word accuracy?,No,spelling competitions,word accuracy,alumni reunion,O_D
+Will the increase of sculpture casting lessons cause mold accuracy during city reunion?,Yes,sculpture casting lessons,mold accuracy,city reunion,O_D
+Will opera premiere cause the increase of mindfulness retreats and stress recovery?,No,mindfulness retreats,stress recovery,opera premiere,O_D
+Will the increase of field hockey practice cause stick control during autumn fair?,Yes,field hockey practice,stick control,autumn fair,O_D
+Will lantern parade cause the increase of basketball drills and shooting accuracy?,No,basketball drills,shooting accuracy,lantern parade,O_D
+Will the increase of chemistry titration practice cause measurement precision during civic memorial?,Yes,chemistry titration practice,measurement precision,civic memorial,O_D
+Will antique exhibition cause the increase of leadership workshops and organizational skill?,No,leadership workshops,organizational skill,antique exhibition,O_D
+Will the increase of calligraphy brush work cause stroke balance during folk gala?,Yes,calligraphy brush work,stroke balance,folk gala,O_D
+Will poetry slam night cause the increase of budgeting drills and expense control?,No,budgeting drills,expense control,poetry slam night,O_D
+Will the increase of choir harmonies cause vocal depth during museum reception?,Yes,choir harmonies,vocal depth,museum reception,O_D
+Will city sports rally cause the increase of mindfulness stretches and body calmness?,No,mindfulness stretches,body calmness,city sports rally,O_D
+Will the increase of coding style reviews cause code consistency during harvest banquet?,Yes,coding style reviews,code consistency,harvest banquet,O_D
+Will town parade cause the increase of climbing wall sessions and grip strength?,No,climbing wall sessions,grip strength,town parade,O_D
+Will the increase of rescue training cause lifesaving skill during literary contest?,Yes,rescue training,lifesaving skill,literary contest,O_D
+Will art festival cause the increase of yoga breathing and oxygen efficiency?,No,yoga breathing,oxygen efficiency,art festival,O_D
+Will the increase of pottery exhibitions cause artisan showcasing during spring kite festival?,Yes,pottery exhibitions,artisan showcasing,spring kite festival,O_D
+Will public lecture cause the increase of violin etudes and bow accuracy?,No,violin etudes,bow accuracy,public lecture,O_D
+Will the increase of team brainstorming sessions cause creative generation during book signing?,Yes,team brainstorming sessions,creative generation,book signing,O_D
+Will cultural exchange fair cause the increase of signboard design and visual creativity?,No,signboard design,visual creativity,cultural exchange fair,O_D
+Will the increase of economic policy debates cause fiscal articulation during market gala?,Yes,economic policy debates,fiscal articulation,market gala,O_D
+Will city awards night cause the increase of leadership debates and debate confidence?,No,leadership debates,debate confidence,city awards night,O_D
+Will the increase of physics problem sets cause solution accuracy during summer lecture?,Yes,physics problem sets,solution accuracy,summer lecture,O_D
+Will garden fair cause the increase of typing challenges and reaction speed?,No,typing challenges,reaction speed,garden fair,O_D
+Will the increase of archery equipment tuning cause shooting steadiness during winter play?,Yes,archery equipment tuning,shooting steadiness,winter play,O_D
+Will local election cause the increase of reading clubs and reading insight?,No,reading clubs,reading insight,local election,O_D
+Will the increase of marine biology projects cause ocean knowledge during community reception?,Yes,marine biology projects,ocean knowledge,community reception,O_D
+Will film festival cause the increase of debate groups and argument structuring?,No,debate groups,argument structuring,film festival,O_D
+Will the increase of volleyball practice cause spiking accuracy during seaside tournament?,Yes,volleyball practice,spiking accuracy,seaside tournament,O_D
+Will art competition cause the increase of gardening workshops and soil knowledge?,No,gardening workshops,soil knowledge,art competition,O_D
+Will the increase of triathlon drills cause endurance diversity during literary banquet?,Yes,triathlon drills,endurance diversity,literary banquet,O_D
+Will museum lecture cause the increase of teamwork retreats and group trust?,No,teamwork retreats,group trust,museum lecture,O_D
+Will the increase of meteorology stations cause climate tracking during harvest celebration?,Yes,meteorology stations,climate tracking,harvest celebration,O_D
+Will council debate cause the increase of sprint swimming and lung conditioning?,No,sprint swimming,lung conditioning,council debate,O_D
+Will the increase of hand weaving cause fabric consistency during spring gala?,Yes,hand weaving,fabric consistency,spring gala,O_D
+Will public concert cause the increase of leadership seminars and decision-making skill?,No,leadership seminars,decision-making skill,public concert,O_D
+Will the increase of lifesaving drills cause rescue readiness during town fair?,Yes,lifesaving drills,rescue readiness,town fair,O_D
+Will park festival cause the increase of balance board training and motor control?,No,balance board training,motor control,park festival,O_D
+Will the increase of clay sculpting workshops cause design shaping during historical gala?,Yes,clay sculpting workshops,design shaping,historical gala,O_D
+Will civic music day cause the increase of pottery wheel training and hand coordination?,No,pottery wheel training,hand coordination,civic music day,O_D
+Will the increase of recycling bin placements cause plastic waste reduction during neighborhood poetry day?,Yes,recycling bin placements,plastic waste reduction,neighborhood poetry day,O_D
+Will poetry contest cause the increase of fire safety drills and hazard response?,No,fire safety drills,hazard response,poetry contest,O_D
+Will the increase of dishwashing cause sponge wear during podcast recording?,Yes,dishwashing,sponge wear,podcast recording,O_D
+Will lantern launch cause the increase of robotics practice and mechanical accuracy?,No,robotics practice,mechanical accuracy,lantern launch,O_D
+Will the increase of online recipe shares cause more kitchen gadget sales during public art exhibition week?,Yes,online recipe shares,more kitchen gadget sales,public art exhibition week,O_D
+Will charity picnic cause the increase of marathon training and endurance range?,No,marathon training,endurance range,charity picnic,O_D
+Will the increase of hydration tracking cause energy levels during wellness newsletter release?,Yes,hydration tracking,energy levels,wellness newsletter release,O_D
+Will art symposium cause the increase of online research and source reliability?,No,online research,source reliability,art symposium,O_D
+Will the increase of crosswalk repaints cause pedestrian yielding behavior during music in the park day?,Yes,crosswalk repaints,pedestrian yielding behavior,music in the park day,O_D
+Will book discussion cause the increase of team mentoring and leadership growth?,No,team mentoring,leadership growth,book discussion,O_D
+Will the increase of school workload cause student pressure reports during parent-teacher conference week?,Yes,school workload,student pressure reports,parent-teacher conference week,O_D
+Will local theater gala cause the increase of piano sonatas practice and finger agility?,No,piano sonatas practice,finger agility,local theater gala,O_D
+Will the increase of library fine forgiveness ads cause book return rates during school supply donation week?,Yes,library fine forgiveness ads,book return rates,school supply donation week,O_D
+Will antique showcase cause the increase of financial analysis sessions and budget insight?,No,financial analysis sessions,budget insight,antique showcase,O_D
+Will the increase of water bottle use cause table spills during video editing?,Yes,water bottle use,table spills,video editing,O_D
+Will folk music night cause the increase of table tennis drills and racket precision?,No,table tennis drills,racket precision,folk music night,O_D
+Will the increase of code reviews cause software reliability during product vision meeting?,Yes,code reviews,software reliability,product vision meeting,O_D
+Will lantern fair cause the increase of first responder drills and emergency accuracy?,No,first responder drills,emergency accuracy,lantern fair,O_D
+Will the increase of writing prompts cause creative output during writing challenge week?,Yes,writing prompts,creative output,writing challenge week,O_D
+Will film celebration cause the increase of handwriting practice and penmanship skill?,No,handwriting practice,penmanship skill,film celebration,O_D
+Will the increase of streetlight repairs cause nighttime traffic safety during community cookbook release day?,Yes,streetlight repairs,nighttime traffic safety,community cookbook release day,O_D
+Will local choir show cause the increase of time management drills and scheduling efficiency?,No,time management drills,scheduling efficiency,local choir show,O_D
+Will the increase of unit tests cause greater code correctness during health and safety week?,Yes,unit tests,greater code correctness,health and safety week,O_D
+Will riverfront concert cause the increase of workplace seminars and job readiness?,No,workplace seminars,job readiness,riverfront concert,O_D
+Will the increase of reading assignments cause class discussion quality during product feedback forum?,Yes,reading assignments,class discussion quality,product feedback forum,O_D
+Will architecture unveiling cause the increase of digital language apps and vocabulary range?,No,digital language apps,vocabulary range,architecture unveiling,O_D
+Will the increase of task breakdowns cause execution speed during user research debrief?,Yes,task breakdowns,execution speed,user research debrief,O_D
+Will children science fair cause the increase of swimming endurance sets and breath control?,No,swimming endurance sets,breath control,children science fair,O_D
+Will the increase of app walkthroughs cause onboarding success during operations alignment session?,Yes,app walkthroughs,onboarding success,operations alignment session,O_D
+Will artisan market cause the increase of violin rehearsals and bowing technique?,No,violin rehearsals,bowing technique,artisan market,O_D
+Will the increase of focus techniques cause productivity levels during process improvement week?,Yes,focus techniques,productivity levels,process improvement week,O_D
+Will river crossing festival cause the increase of mindfulness walks and emotional clarity?,No,mindfulness walks,emotional clarity,river crossing festival,O_D
+Will the increase of revision logs cause publication accuracy during editorial planning meeting?,Yes,revision logs,publication accuracy,editorial planning meeting,O_D
+Will equestrian parade cause the increase of debate tournaments and reasoning clarity?,No,debate tournaments,reasoning clarity,equestrian parade,O_D
+Will the increase of self-reflection prompts cause goal alignment during team reflection lunch?,Yes,self-reflection prompts,goal alignment,team reflection lunch,O_D
+Will medieval fair cause the increase of sketch competitions and art technique?,No,sketch competitions,art technique,medieval fair,O_D
+Will the increase of exercise routines cause cardiovascular health during party?,Yes,exercise routines,cardiovascular health,party,O_D
+Will city comedy night cause the increase of circuit training sets and aerobic output?,No,circuit training sets,aerobic output,city comedy night,O_D
+Will the increase of documentation guides cause better team understanding during a focus reset session?,Yes,documentation guides,better team understanding,a focus reset session,O_D
+Will naval ceremony cause the increase of robotics competitions and design accuracy?,No,robotics competitions,design accuracy,naval ceremony,O_D
+Will the increase of rehearsal drills cause presentation fluency during peer feedback session?,Yes,rehearsal drills,presentation fluency,peer feedback session,O_D
+Will lantern ceremony cause the increase of triathlon practice and athletic range?,No,triathlon practice,athletic range,lantern ceremony,O_D
+Will the increase of fan usage cause blown papers during online chess matches?,Yes,fan usage,blown papers,online chess matches,O_D
+Will mountain festival cause the increase of songwriting groups and lyrical creativity?,No,songwriting groups,lyrical creativity,mountain festival,O_D
+Will the increase of duck crossing signs cause driver slowdown reports during outdoor chess tournament?,Yes,duck crossing signs,driver slowdown reports,outdoor chess tournament,O_D
+Will theater rehearsal cause the increase of scuba training and underwater control?,No,scuba training,underwater control,theater rehearsal,O_D
+Will the increase of learning modules cause greater knowledge retention during the process clarity briefing?,Yes,learning modules,greater knowledge retention,the process clarity briefing,O_D
+Will annual auction cause the increase of civic volunteering and social support?,No,civic volunteering,social support,annual auction,O_D
+Will the increase of deadline tracking cause project success during training calendar launch?,Yes,deadline tracking,project success,training calendar launch,O_D
+An increase in city marathon leads to an increase in both math tutoring and exam success.,No,math tutoring,exam success,city marathon,O_A
+An increase in astronomy simulations leads to an increase in telescope skill during neighborhood fundraiser.,Yes,astronomy simulations,telescope skill,neighborhood fundraiser,O_A
+An increase in office relocation leads to an increase in both plant watering and flower growth.,No,plant watering,flower growth,office relocation,O_A
+An increase in geology fieldwork leads to an increase in rock identification during community art show.,Yes,geology fieldwork,rock identification,community art show,O_A
+An increase in neighborhood garage sale leads to an increase in both note-taking and memory recall.,No,note-taking,memory recall,neighborhood garage sale,O_A
+An increase in coding competitions leads to an increase in algorithm speed during annual garden expo.,Yes,coding competitions,algorithm speed,annual garden expo,O_A
+An increase in mayors birthday celebration leads to an increase in both stretching drills and flexibility.,No,stretching drills,flexibility,mayors birthday celebration,O_A
+An increase in photography editing leads to an increase in image sharpness during museum lecture week.,Yes,photography editing,image sharpness,museum lecture week,O_A
+An increase in film awards ceremony leads to an increase in both protein intake and muscle gain.,No,protein intake,muscle gain,film awards ceremony,O_A
+An increase in electrical circuits practice leads to an increase in wiring knowledge during winter carnival.,Yes,electrical circuits practice,wiring knowledge,winter carnival,O_A
+An increase in spring flower show leads to an increase in both driving lessons and road safety.,No,driving lessons,road safety,spring flower show,O_A
+An increase in debate essays leads to an increase in argument clarity during local band rehearsal.,Yes,debate essays,argument clarity,local band rehearsal,O_A
+An increase in rooftop concert leads to an increase in both running drills and endurance capacity.,No,running drills,endurance capacity,rooftop concert,O_A
+An increase in climate simulations leads to an increase in weather prediction skill during school carnival.,Yes,climate simulations,weather prediction skill,school carnival,O_A
+An increase in antique car show leads to an increase in both volunteer hours and community trust.,No,volunteer hours,community trust,antique car show,O_A
+An increase in paleontology digs leads to an increase in fossil recognition during spring lantern event.,Yes,paleontology digs,fossil recognition,spring lantern event,O_A
+An increase in city council debate leads to an increase in both practice matches and team cohesion.,No,practice matches,team cohesion,city council debate,O_A
+An increase in cartoon drawing leads to an increase in animation accuracy during civic ribbon cutting.,Yes,cartoon drawing,animation accuracy,civic ribbon cutting,O_A
+An increase in tax season leads to an increase in both music rehearsals and performance quality.,No,music rehearsals,performance quality,tax season,O_A
+An increase in economics case studies leads to an increase in policy insight during cultural storytelling night.,Yes,economics case studies,policy insight,cultural storytelling night,O_A
+An increase in theater premiere leads to an increase in both swimming drills and water confidence.,No,swimming drills,water confidence,theater premiere,O_A
+An increase in software deployment drills leads to an increase in system stability during city choir gala.,Yes,software deployment drills,system stability,city choir gala,O_A
+An increase in cycling expo leads to an increase in both sleep planning and alertness.,No,sleep planning,alertness,cycling expo,O_A
+An increase in programming puzzles leads to an increase in concept reasoning during autumn lecture.,Yes,programming puzzles,concept reasoning,autumn lecture,O_A
+An increase in construction week leads to an increase in both speech writing and rhetorical skill.,No,speech writing,rhetorical skill,construction week,O_A
+An increase in astronomy readings leads to an increase in constellation recall during regional sports awards.,Yes,astronomy readings,constellation recall,regional sports awards,O_A
+An increase in spring carnival leads to an increase in both software testing and code stability.,No,software testing,code stability,spring carnival,O_A
+An increase in economic modeling leads to an increase in forecasting accuracy during science film night.,Yes,economic modeling,forecasting accuracy,science film night,O_A
+An increase in food tasting festival leads to an increase in both walking sessions and calorie burning.,No,walking sessions,calorie burning,food tasting festival,O_A
+An increase in opera rehearsals leads to an increase in vocal discipline during student invention fair.,Yes,opera rehearsals,vocal discipline,student invention fair,O_A
+An increase in tech product launch leads to an increase in both singing lessons and vocal range.,No,singing lessons,vocal range,tech product launch,O_A
+An increase in team projects leads to an increase in collaboration fluency during spring flower contest.,Yes,team projects,collaboration fluency,spring flower contest,O_A
+An increase in parade rehearsal leads to an increase in both CPR training and survival skill.,No,CPR training,survival skill,parade rehearsal,O_A
+An increase in zoology field practice leads to an increase in species data during fashion show event.,Yes,zoology field practice,species data,fashion show event,O_A
+An increase in art award ceremony leads to an increase in both jogging drills and breathing efficiency.,No,jogging drills,breathing efficiency,art award ceremony,O_A
+An increase in documentary filming leads to an increase in editing skill during museum gala.,Yes,documentary filming,editing skill,museum gala,O_A
+An increase in annual poetry slam leads to an increase in both stretching routines and back strength.,No,stretching routines,back strength,annual poetry slam,O_A
+An increase in poetry readings leads to an increase in literary recall during town picnic.,Yes,poetry readings,literary recall,town picnic,O_A
+An increase in music recital leads to an increase in both hydration planning and athletic readiness.,No,hydration planning,athletic readiness,music recital,O_A
+An increase in economics debates leads to an increase in analytical foresight during autumn lantern walk.,Yes,economics debates,analytical foresight,autumn lantern walk,O_A
+An increase in photography contest leads to an increase in both safety drills and survival chances.,No,safety drills,survival chances,photography contest,O_A
+An increase in medical simulations leads to an increase in clinical readiness during historic marketplace.,Yes,medical simulations,clinical readiness,historic marketplace,O_A
+An increase in flower planting day leads to an increase in both coding exercises and algorithm precision.,No,coding exercises,algorithm precision,flower planting day,O_A
+An increase in calligraphy etudes leads to an increase in brush elegance during local storytelling event.,Yes,calligraphy etudes,brush elegance,local storytelling event,O_A
+An increase in theater rehearsal leads to an increase in both first aid kits and injury prevention.,No,first aid kits,injury prevention,theater rehearsal,O_A
+An increase in archaeology digs leads to an increase in artifact recognition during art showcase night.,Yes,archaeology digs,artifact recognition,art showcase night,O_A
+An increase in history museum opening leads to an increase in both soccer drills and kicking accuracy.,No,soccer drills,kicking accuracy,history museum opening,O_A
+An increase in piano improvisations leads to an increase in musical variety during spring lantern walk.,Yes,piano improvisations,musical variety,spring lantern walk,O_A
+An increase in city cleanup day leads to an increase in both algorithm practice and coding efficiency.,No,algorithm practice,coding efficiency,city cleanup day,O_A
+An increase in glass blowing leads to an increase in heat control during summer food gala.,Yes,glass blowing,heat control,summer food gala,O_A
+An increase in theater rehearsal week leads to an increase in both pottery lessons and sculpting skill.,No,pottery lessons,sculpting skill,theater rehearsal week,O_A
+An increase in sailing drills leads to an increase in wind navigation during city craft fair.,Yes,sailing drills,wind navigation,city craft fair,O_A
+An increase in neighborhood clean-up day leads to an increase in both gardening hours and vegetable yield.,No,gardening hours,vegetable yield,neighborhood clean-up day,O_A
+An increase in textile dyeing leads to an increase in color variation during annual music awards.,Yes,textile dyeing,color variation,annual music awards,O_A
+An increase in comic book convention leads to an increase in both sketchbook practice and shading precision.,No,sketchbook practice,shading precision,comic book convention,O_A
+An increase in astronomy mapping leads to an increase in planet recognition during youth festival.,Yes,astronomy mapping,planet recognition,youth festival,O_A
+An increase in city chess finals leads to an increase in both cooking trials and recipe mastery.,No,cooking trials,recipe mastery,city chess finals,O_A
+An increase in flower arranging leads to an increase in bouquet symmetry during city heritage week.,Yes,flower arranging,bouquet symmetry,city heritage week,O_A
+An increase in business expo week leads to an increase in both flute rehearsal and note accuracy.,No,flute rehearsal,note accuracy,business expo week,O_A
+An increase in chemistry experiments leads to an increase in reaction knowledge during river parade.,Yes,chemistry experiments,reaction knowledge,river parade,O_A
+An increase in marathon registration week leads to an increase in both sprint intervals and speed.,No,sprint intervals,speed,marathon registration week,O_A
+An increase in sculpture polishing leads to an increase in texture finish during book award ceremony.,Yes,sculpture polishing,texture finish,book award ceremony,O_A
+An increase in corporate board meeting leads to an increase in both cello practice and tone control.,No,cello practice,tone control,corporate board meeting,O_A
+An increase in meteorology data analysis leads to an increase in weather accuracy during spring lecture.,Yes,meteorology data analysis,weather accuracy,spring lecture,O_A
+An increase in city bicycle race leads to an increase in both pronunciation drills and fluency.,No,pronunciation drills,fluency,city bicycle race,O_A
+An increase in novel writing leads to an increase in character development during comedy festival.,Yes,novel writing,character development,comedy festival,O_A
+An increase in book release party leads to an increase in both choir rehearsals and vocal harmony.,No,choir rehearsals,vocal harmony,book release party,O_A
+An increase in fire drills leads to an increase in evacuation readiness during craft night.,Yes,fire drills,evacuation readiness,craft night,O_A
+An increase in regional dance festival leads to an increase in both drama rehearsals and stage presence.,No,drama rehearsals,stage presence,regional dance festival,O_A
+An increase in debate preparation leads to an increase in speech clarity during lantern march.,Yes,debate preparation,speech clarity,lantern march,O_A
+An increase in historic landmark unveiling leads to an increase in both sanitation workshops and disease prevention.,No,sanitation workshops,disease prevention,historic landmark unveiling,O_A
+An increase in digital sculpting leads to an increase in 3D modeling skill during theater festival.,Yes,digital sculpting,3D modeling skill,theater festival,O_A
+An increase in city council ceremony leads to an increase in both painting lessons and color blending.,No,painting lessons,color blending,city council ceremony,O_A
+An increase in leadership mentoring leads to an increase in decision clarity during annual art awards.,Yes,leadership mentoring,decision clarity,annual art awards,O_A
+An increase in school anniversary week leads to an increase in both storytelling exercises and imagination.,No,storytelling exercises,imagination,school anniversary week,O_A
+An increase in embroidery detail work leads to an increase in stitch finesse during charity play.,Yes,embroidery detail work,stitch finesse,charity play,O_A
+An increase in harbor construction week leads to an increase in both breathing drills and lung strength.,No,breathing drills,lung strength,harbor construction week,O_A
+An increase in paleontology labs leads to an increase in fossil accuracy during cultural forum.,Yes,paleontology labs,fossil accuracy,cultural forum,O_A
+An increase in gardening expo leads to an increase in both interval training and sprinting speed.,No,interval training,sprinting speed,gardening expo,O_A
+An increase in food preservation practice leads to an increase in storage safety during equestrian show.,Yes,food preservation practice,storage safety,equestrian show,O_A
+An increase in academic conference leads to an increase in both baking classes and pastry skill.,No,baking classes,pastry skill,academic conference,O_A
+An increase in ceramics painting leads to an increase in glaze uniformity during summer carnival.,Yes,ceramics painting,glaze uniformity,summer carnival,O_A
+An increase in film set week leads to an increase in both singing scales and pitch accuracy.,No,singing scales,pitch accuracy,film set week,O_A
+An increase in website coding leads to an increase in interface stability during author reading.,Yes,website coding,interface stability,author reading,O_A
+An increase in dog show event leads to an increase in both carpentry projects and woodworking skill.,No,carpentry projects,woodworking skill,dog show event,O_A
+An increase in flute lessons leads to an increase in note fluidity during historical tribute.,Yes,flute lessons,note fluidity,historical tribute,O_A
+An increase in art unveiling ceremony leads to an increase in both rescue rehearsals and emergency readiness.,No,rescue rehearsals,emergency readiness,art unveiling ceremony,O_A
+An increase in astronomy essays leads to an increase in space analysis during student concert.,Yes,astronomy essays,space analysis,student concert,O_A
+An increase in childrens museum day leads to an increase in both cello scales and bowing precision.,No,cello scales,bowing precision,childrens museum day,O_A
+An increase in vocal training leads to an increase in pitch steadiness during seaside gala.,Yes,vocal training,pitch steadiness,seaside gala,O_A
+An increase in heritage parade leads to an increase in both code debugging and software stability.,No,code debugging,software stability,heritage parade,O_A
+An increase in caving expeditions leads to an increase in depth navigation during political forum.,Yes,caving expeditions,depth navigation,political forum,O_A
+An increase in literature symposium leads to an increase in both soccer drills and passing precision.,No,soccer drills,passing precision,literature symposium,O_A
+An increase in journalism projects leads to an increase in reporting skill during spring dance.,Yes,journalism projects,reporting skill,spring dance,O_A
+An increase in rail station ceremony leads to an increase in both robotics workshops and engineering ability.,No,robotics workshops,engineering ability,rail station ceremony,O_A
+An increase in pottery carving leads to an increase in surface detailing during coastal music night.,Yes,pottery carving,surface detailing,coastal music night,O_A
+An increase in music rehearsal week leads to an increase in both emergency classes and safety knowledge.,No,emergency classes,safety knowledge,music rehearsal week,O_A
+An increase in economics experiments leads to an increase in trade insight during university exhibition.,Yes,economics experiments,trade insight,university exhibition,O_A
+An increase in art history lecture leads to an increase in both jump squats and aerobic capacity.,No,jump squats,aerobic capacity,art history lecture,O_A
+An increase in digital illustration leads to an increase in graphic narration during coastal parade.,Yes,digital illustration,graphic narration,coastal parade,O_A
+An increase in neighborhood block party leads to an increase in both clay sculpting and fine motor skill.,No,clay sculpting,fine motor skill,neighborhood block party,O_A
+An increase in drone navigation drills leads to an increase in aerial accuracy during autumn heritage fair.,Yes,drone navigation drills,aerial accuracy,autumn heritage fair,O_A
+An increase in library anniversary week leads to an increase in both digital painting and brush control.,No,digital painting,brush control,library anniversary week,O_A
+An increase in digital photography labs leads to an increase in exposure control during winter sculpture gala.,Yes,digital photography labs,exposure control,winter sculpture gala,O_A
+An increase in garden contest day leads to an increase in both oboe practice and tone stability.,No,oboe practice,tone stability,garden contest day,O_A
+An increase in culinary fermentation leads to an increase in flavor depth during harbor parade.,Yes,culinary fermentation,flavor depth,harbor parade,O_A
+An increase in antique car fair leads to an increase in both stair sprints and lower-body power.,No,stair sprints,lower-body power,antique car fair,O_A
+An increase in ice skating lessons leads to an increase in balance agility during river regatta.,Yes,ice skating lessons,balance agility,river regatta,O_A
+An increase in cultural poetry slam leads to an increase in both debate rehearsals and debate confidence.,No,debate rehearsals,debate confidence,cultural poetry slam,O_A
+An increase in landscape painting leads to an increase in perspective accuracy during cultural banquet.,Yes,landscape painting,perspective accuracy,cultural banquet,O_A
+An increase in spring fashion show leads to an increase in both machine learning labs and data modeling skill.,No,machine learning labs,data modeling skill,spring fashion show,O_A
+An increase in coding refactoring leads to an increase in software clarity during artisan showcase.,Yes,coding refactoring,software clarity,artisan showcase,O_A
+An increase in historic landmark lecture leads to an increase in both cooking workshops and recipe innovation.,No,cooking workshops,recipe innovation,historic landmark lecture,O_A
+An increase in woodturning lessons leads to an increase in carving detail during annual crafts exhibition.,Yes,woodturning lessons,carving detail,annual crafts exhibition,O_A
+An increase in sculpture unveiling ceremony leads to an increase in both online flashcards and recall accuracy.,No,online flashcards,recall accuracy,sculpture unveiling ceremony,O_A
+An increase in sailing navigation charts leads to an increase in route accuracy during comedy fundraiser.,Yes,sailing navigation charts,route accuracy,comedy fundraiser,O_A
+An increase in food tasting fair leads to an increase in both jazz improvisation and musical creativity.,No,jazz improvisation,musical creativity,food tasting fair,O_A
+An increase in steel forging lessons leads to an increase in alloy strength during school reunion.,Yes,steel forging lessons,alloy strength,school reunion,O_A
+An increase in municipal budget meeting leads to an increase in both sketch animation and visual storytelling.,No,sketch animation,visual storytelling,municipal budget meeting,O_A
+An increase in sewing projects leads to an increase in fabric control during spring kite festival.,Yes,sewing projects,fabric control,spring kite festival,O_A
+An increase in open mic comedy night leads to an increase in both budgeting apps and financial tracking.,No,budgeting apps,financial tracking,open mic comedy night,O_A
+An increase in philosophy essays leads to an increase in reasoning depth during lantern festival.,Yes,philosophy essays,reasoning depth,lantern festival,O_A
+An increase in harbor dedication ceremony leads to an increase in both fencing drills and sword accuracy.,No,fencing drills,sword accuracy,harbor dedication ceremony,O_A
+An increase in calligraphy ink drills leads to an increase in stroke precision during community feast.,Yes,calligraphy ink drills,stroke precision,community feast,O_A
+An increase in election results night leads to an increase in both digital typing games and reaction speed.,No,digital typing games,reaction speed,election results night,O_A
+An increase in biology dissections leads to an increase in anatomy knowledge during autumn fundraiser week.,Yes,biology dissections,anatomy knowledge,autumn fundraiser week,O_A
+An increase in software launch week leads to an increase in both glassblowing practice and craftsmanship.,No,glassblowing practice,craftsmanship,software launch week,O_A
+An increase in mountain running drills leads to an increase in hill endurance during equestrian fair.,Yes,mountain running drills,hill endurance,equestrian fair,O_A
+An increase in city fireworks night leads to an increase in both oil painting classes and blending mastery.,No,oil painting classes,blending mastery,city fireworks night,O_A
+An increase in singing harmony practice leads to an increase in melody synchronization during farmer celebration.,Yes,singing harmony practice,melody synchronization,farmer celebration,O_A
+An increase in winter film premiere leads to an increase in both choir warmups and harmony control.,No,choir warmups,harmony control,winter film premiere,O_A
+An increase in literature analysis groups leads to an increase in thematic insight during town festival.,Yes,literature analysis groups,thematic insight,town festival,O_A
+An increase in anniversary banquet leads to an increase in both web development lessons and coding fluency.,No,web development lessons,coding fluency,anniversary banquet,O_A
+An increase in textile weaving leads to an increase in pattern alignment during sports opening ceremony.,Yes,textile weaving,pattern alignment,sports opening ceremony,O_A
+An increase in community fundraiser leads to an increase in both poetry recitals and linguistic fluency.,No,poetry recitals,linguistic fluency,community fundraiser,O_A
+An increase in animation design projects leads to an increase in storyboard skill during civic dance.,Yes,animation design projects,storyboard skill,civic dance,O_A
+An increase in neighborhood clean-up week leads to an increase in both tap dancing drills and rhythm balance.,No,tap dancing drills,rhythm balance,neighborhood clean-up week,O_A
+An increase in watercolor practice leads to an increase in blending smoothness during village dinner.,Yes,watercolor practice,blending smoothness,village dinner,O_A
+An increase in tech showcase day leads to an increase in both pottery wheel practice and shaping accuracy.,No,pottery wheel practice,shaping accuracy,tech showcase day,O_A
+An increase in ballet pointe work leads to an increase in balance strength during film screening.,Yes,ballet pointe work,balance strength,film screening,O_A
+An increase in food festival leads to an increase in both physics labs and experiment accuracy.,No,physics labs,experiment accuracy,food festival,O_A
+An increase in textile repair drills leads to an increase in garment durability during spring book fair.,Yes,textile repair drills,garment durability,spring book fair,O_A
+An increase in childrens book fair leads to an increase in both archery tournaments and aim precision.,No,archery tournaments,aim precision,childrens book fair,O_A
+An increase in metal engraving leads to an increase in detailing finesse during light parade.,Yes,metal engraving,detailing finesse,light parade,O_A
+An increase in art museum lecture leads to an increase in both improv acting and spontaneity.,No,improv acting,spontaneity,art museum lecture,O_A
+An increase in animation rendering practice leads to an increase in frame stability during business expo.,Yes,animation rendering practice,frame stability,business expo,O_A
+An increase in car expo leads to an increase in both ecology field trips and sustainability awareness.,No,ecology field trips,sustainability awareness,car expo,O_A
+An increase in urban farming leads to an increase in crop knowledge during fashion expo.,Yes,urban farming,crop knowledge,fashion expo,O_A
+An increase in film showcase leads to an increase in both hackathon projects and coding experience.,No,hackathon projects,coding experience,film showcase,O_A
+An increase in jewelry crafting leads to an increase in gem setting skill during spring lantern dinner.,Yes,jewelry crafting,gem setting skill,spring lantern dinner,O_A
+An increase in regional car auction leads to an increase in both meditation journaling and self-awareness.,No,meditation journaling,self-awareness,regional car auction,O_A
+An increase in digital cartooning leads to an increase in panel design during spring music contest.,Yes,digital cartooning,panel design,spring music contest,O_A
+An increase in botanical showcase leads to an increase in both fencing lessons and reaction timing.,No,fencing lessons,reaction timing,botanical showcase,O_A
+An increase in candle art practice leads to an increase in wax shaping during autumn crafts gala.,Yes,candle art practice,wax shaping,autumn crafts gala,O_A
+An increase in civic award banquet leads to an increase in both watercolor sketches and blending ability.,No,watercolor sketches,blending ability,civic award banquet,O_A
+An increase in programming debugging tasks leads to an increase in error resolution during student festival.,Yes,programming debugging tasks,error resolution,student festival,O_A
+An increase in charity gala leads to an increase in both storytelling circles and narrative skill.,No,storytelling circles,narrative skill,charity gala,O_A
+An increase in geology mapping leads to an increase in terrain analysis during lantern fair.,Yes,geology mapping,terrain analysis,lantern fair,O_A
+An increase in community potluck leads to an increase in both data visualization practice and chart clarity.,No,data visualization practice,chart clarity,community potluck,O_A
+An increase in storytelling festivals leads to an increase in oral tradition skill during heritage march.,Yes,storytelling festivals,oral tradition skill,heritage march,O_A
+An increase in mayoral speech leads to an increase in both ballroom practice and dance coordination.,No,ballroom practice,dance coordination,mayoral speech,O_A
+An increase in data entry drills leads to an increase in typing accuracy during political dinner.,Yes,data entry drills,typing accuracy,political dinner,O_A
+An increase in town hall debate leads to an increase in both guitar improvisation and melody creation.,No,guitar improvisation,melody creation,town hall debate,O_A
+An increase in digital collage practice leads to an increase in layout creativity during fashion award show.,Yes,digital collage practice,layout creativity,fashion award show,O_A
+An increase in local council session leads to an increase in both pottery firing and kiln safety skill.,No,pottery firing,kiln safety skill,local council session,O_A
+An increase in radio hosting drills leads to an increase in speech timing during charity concert.,Yes,radio hosting drills,speech timing,charity concert,O_A
+An increase in jazz concert leads to an increase in both coding hackathons and teamwork ability.,No,coding hackathons,teamwork ability,jazz concert,O_A
+An increase in astronomy calculations leads to an increase in orbital prediction during spring lecture series.,Yes,astronomy calculations,orbital prediction,spring lecture series,O_A
+An increase in garden party leads to an increase in both guitar scales and finger agility.,No,guitar scales,finger agility,garden party,O_A
+An increase in chess tournaments leads to an increase in tactical foresight during garden festival.,Yes,chess tournaments,tactical foresight,garden festival,O_A
+An increase in classical lecture leads to an increase in both rowing lessons and upper-body power.,No,rowing lessons,upper-body power,classical lecture,O_A
+An increase in landscape sketching leads to an increase in shading detail during spring film preview.,Yes,landscape sketching,shading detail,spring film preview,O_A
+An increase in musical rehearsal leads to an increase in both photography lighting practice and portrait clarity.,No,photography lighting practice,portrait clarity,musical rehearsal,O_A
+An increase in ballet stretching leads to an increase in body alignment during seaside fair.,Yes,ballet stretching,body alignment,seaside fair,O_A
+An increase in local talent show leads to an increase in both digital marketing tasks and campaign reach.,No,digital marketing tasks,campaign reach,local talent show,O_A
+An increase in environmental case studies leads to an increase in sustainability reasoning during sculpture contest.,Yes,environmental case studies,sustainability reasoning,sculpture contest,O_A
+An increase in sports banquet leads to an increase in both software testing drills and bug detection.,No,software testing drills,bug detection,sports banquet,O_A
+An increase in zoology dissections leads to an increase in specimen accuracy during equestrian contest.,Yes,zoology dissections,specimen accuracy,equestrian contest,O_A
+An increase in civic ceremony leads to an increase in both hiking expeditions and terrain adaptation.,No,hiking expeditions,terrain adaptation,civic ceremony,O_A
+An increase in flute duets leads to an increase in tone blending during harvest festival.,Yes,flute duets,tone blending,harvest festival,O_A
+An increase in farmers contest leads to an increase in both podcast hosting and speaking fluency.,No,podcast hosting,speaking fluency,farmers contest,O_A
+An increase in woodworking repairs leads to an increase in furniture durability during opera night.,Yes,woodworking repairs,furniture durability,opera night,O_A
+An increase in theater practice leads to an increase in both sculpting drills and material control.,No,sculpting drills,material control,theater practice,O_A
+An increase in digital poster design leads to an increase in visual layout skill during spring lantern show.,Yes,digital poster design,visual layout skill,spring lantern show,O_A
+An increase in popstar concert leads to an increase in both drone piloting drills and navigation accuracy.,No,drone piloting drills,navigation accuracy,popstar concert,O_A
+An increase in sculpture restoration leads to an increase in artifact preservation during light festival.,Yes,sculpture restoration,artifact preservation,light festival,O_A
+An increase in historic lecture leads to an increase in both map drawing and geography skills.,No,map drawing,geography skills,historic lecture,O_A
+An increase in oratory practice leads to an increase in delivery confidence during mayors banquet.,Yes,oratory practice,delivery confidence,mayors banquet,O_A
+An increase in civic showcase leads to an increase in both machine repair lessons and technical ability.,No,machine repair lessons,technical ability,civic showcase,O_A
+An increase in paleography studies leads to an increase in script interpretation during autumn concert.,Yes,paleography studies,script interpretation,autumn concert,O_A
+An increase in food tasting night leads to an increase in both calligraphy practice and handwriting elegance.,No,calligraphy practice,handwriting elegance,food tasting night,O_A
+An increase in film production tasks leads to an increase in scene planning during childrens festival.,Yes,film production tasks,scene planning,childrens festival,O_A
+An increase in holiday parade leads to an increase in both software architecture drills and system design skill.,No,software architecture drills,system design skill,holiday parade,O_A
+An increase in public speaking courses leads to an increase in rhetorical clarity during art contest.,Yes,public speaking courses,rhetorical clarity,art contest,O_A
+An increase in book signing leads to an increase in both violin duets and harmony blending.,No,violin duets,harmony blending,book signing,O_A
+An increase in graphic novel writing leads to an increase in plot structuring during student reception.,Yes,graphic novel writing,plot structuring,student reception,O_A
+An increase in summer lecture leads to an increase in both drawing workshops and artistic output.,No,drawing workshops,artistic output,summer lecture,O_A
+An increase in mathematics puzzles leads to an increase in logical fluency during winter banquet.,Yes,mathematics puzzles,logical fluency,winter banquet,O_A
+An increase in charity dinner leads to an increase in both creative writing exercises and storytelling skill.,No,creative writing exercises,storytelling skill,charity dinner,O_A
+An increase in violin quartets leads to an increase in musical cohesion during village celebration.,Yes,violin quartets,musical cohesion,village celebration,O_A
+An increase in regional wine festival leads to an increase in both digital storytelling and narrative clarity.,No,digital storytelling,narrative clarity,regional wine festival,O_A
+An increase in marketing emails leads to an increase in product sales during monthly team meeting.,Yes,marketing emails,product sales,monthly team meeting,O_A
+An increase in mayors town meeting leads to an increase in both carpentry lessons and wood shaping skill.,No,carpentry lessons,wood shaping skill,mayors town meeting,O_A
+An increase in bug fixes leads to an increase in app stability during weekend office maintenance.,Yes,bug fixes,app stability,weekend office maintenance,O_A
+An increase in city mural unveiling leads to an increase in both origami folding and precision focus.,No,origami folding,precision focus,city mural unveiling,O_A
+An increase in code commits leads to an increase in deployment success during internal dev showcase.,Yes,code commits,deployment success,internal dev showcase,O_A
+An increase in state fair week leads to an increase in both jazz ensemble practice and rhythm blending.,No,jazz ensemble practice,rhythm blending,state fair week,O_A
+An increase in sales training leads to an increase in conversion rate during regional sales update.,Yes,sales training,conversion rate,regional sales update,O_A
+An increase in community sports banquet leads to an increase in both mosaic art and visual creativity.,No,mosaic art,visual creativity,community sports banquet,O_A
+An increase in practice quizzes leads to an increase in exam readiness during semester.,Yes,practice quizzes,exam readiness,semester,O_A
+An increase in regional crafts fair leads to an increase in both puzzle tournaments and concept analysis.,No,puzzle tournaments,concept analysis,regional crafts fair,O_A
+An increase in sleep tracking leads to an increase in mood improvement during company town hall.,Yes,sleep tracking,mood improvement,company town hall,O_A
+An increase in autumn harvest festival leads to an increase in both cycling sprints and stamina recovery.,No,cycling sprints,stamina recovery,autumn harvest festival,O_A
+An increase in vocabulary drills leads to an increase in language fluency during linguistics seminar.,Yes,vocabulary drills,language fluency,linguistics seminar,O_A
+An increase in culinary contest leads to an increase in both mountain climbing practice and altitude tolerance.,No,mountain climbing practice,altitude tolerance,culinary contest,O_A
+An increase in debug logs leads to an increase in error diagnosis during engineering demo day.,Yes,debug logs,error diagnosis,engineering demo day,O_A
+An increase in conference reception leads to an increase in both logic board games and reasoning sharpness.,No,logic board games,reasoning sharpness,conference reception,O_A
+An increase in mental health workshops leads to an increase in employee morale during mental health month.,Yes,mental health workshops,employee morale,mental health month,O_A
+An increase in historic reading leads to an increase in both storytelling podcasts and oral fluency.,No,storytelling podcasts,oral fluency,historic reading,O_A
+An increase in refill stations leads to an increase in water bottles during outdoor tour.,Yes,refill stations,water bottles,outdoor tour,O_A
+An increase in naval parade leads to an increase in both birdwatching logs and species recognition.,No,birdwatching logs,species recognition,naval parade,O_A
+An increase in self-assessments leads to an increase in learning outcomes during internal QA summit.,Yes,self-assessments,learning outcomes,internal QA summit,O_A
+An increase in astronomy panel leads to an increase in both glass engraving and design accuracy.,No,glass engraving,design accuracy,astronomy panel,O_A
+An increase in street mural repainting leads to an increase in traffic calming behavior during local storytelling festival.,Yes,street mural repainting,traffic calming behavior,local storytelling festival,O_A
+An increase in community garden event leads to an increase in both archery stance drills and target steadiness.,No,archery stance drills,target steadiness,community garden event,O_A
+An increase in soap dispenser use leads to an increase in wet floor incidents during online shopping breaks.,Yes,soap dispenser use,wet floor incidents,online shopping breaks,O_A
+An increase in historical panel leads to an increase in both pottery glazing and surface finish.,No,pottery glazing,surface finish,historical panel,O_A
+An increase in directional signs at the entrance leads to an increase in first-time visitor satisfaction during open mic poetry night.,Yes,directional signs at the entrance,first-time visitor satisfaction,open mic poetry night,O_A
+An increase in library awards ceremony leads to an increase in both coding whiteboard practice and syntax fluency.,No,coding whiteboard practice,syntax fluency,library awards ceremony,O_A
+An increase in hydration stations leads to an increase in heat exhaustion during open mic poetry night.,Yes,hydration stations,heat exhaustion,open mic poetry night,O_A
+An increase in autumn marathon leads to an increase in both digital presentations and clarity delivery.,No,digital presentations,clarity delivery,autumn marathon,O_A
+An increase in automated backups leads to an increase in data recovery rate during cybersecurity awareness week.,Yes,automated backups,data recovery rate,cybersecurity awareness week,O_A
+An increase in lecture week leads to an increase in both culinary knife drills and cutting precision.,No,culinary knife drills,cutting precision,lecture week,O_A
+An increase in bee-friendly garden signs leads to an increase in pollinator plantings during neighborhood sidewalk chalk day.,Yes,bee-friendly garden signs,pollinator plantings,neighborhood sidewalk chalk day,O_A
+An increase in public music session leads to an increase in both emergency simulations and hazard resilience.,No,emergency simulations,hazard resilience,public music session,O_A
+An increase in bug bounty reports leads to an increase in security coverage during security patch announcement.,Yes,bug bounty reports,security coverage,security patch announcement,O_A
+An increase in business summit leads to an increase in both meteorology projects and climate knowledge.,No,meteorology projects,climate knowledge,business summit,O_A
+An increase in ice cream sales leads to an increase in sticky table incidents during classical music concerts.,Yes,ice cream sales,sticky table incidents,classical music concerts,O_A
+An increase in folk storytelling night leads to an increase in both sculpture exhibitions and creative vision.,No,sculpture exhibitions,creative vision,folk storytelling night,O_A
+An increase in mindfulness sessions leads to an increase in focus retention during sprint review morning.,Yes,mindfulness sessions,focus retention,sprint review morning,O_A
+An increase in regional art banquet leads to an increase in both reading comprehension workshops and literacy awareness.,No,reading comprehension workshops,literacy awareness,regional art banquet,O_A
+An increase in editing passes leads to an increase in writing clarity during content revision period.,Yes,editing passes,writing clarity,content revision period,O_A
+An increase in civic inauguration leads to an increase in both digital mapping and spatial analysis.,No,digital mapping,spatial analysis,civic inauguration,O_A
+An increase in reading logs leads to an increase in comprehension accuracy during reading circle recap.,Yes,reading logs,comprehension accuracy,reading circle recap,O_A
+An increase in historical commemoration leads to an increase in both chess club practice and tactical vision.,No,chess club practice,tactical vision,historical commemoration,O_A
+An increase in time audits leads to an increase in task prioritization during team priority update.,Yes,time audits,task prioritization,team priority update,O_A
+An increase in robotics expo leads to an increase in both graphic design projects and layout balance.,No,graphic design projects,layout balance,robotics expo,O_A
+An increase in bike safety campaigns leads to an increase in helmet purchases during indoor gardening promotion month.,Yes,bike safety campaigns,helmet purchases,indoor gardening promotion month,O_A
+An increase in garden conference leads to an increase in both astronomy clubs and star identification.,No,astronomy clubs,star identification,garden conference,O_A
+An increase in online reviews leads to an increase in product purchases during spelling bee finals.,Yes,online reviews,product purchases,spelling bee finals,O_A

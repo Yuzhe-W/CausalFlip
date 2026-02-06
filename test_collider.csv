@@ -1,0 +1,1001 @@
+data,label,X,Y,Z,Classification
+Will the increase of pilot strike cause flight cancellation and the increase of volcanic ash cause flight cancellation?,Yes,pilot strike,volcanic ash,flight cancellation,B_D
+Will the increase of wire snap cause bulb dead during light off?,No,wire snap,bulb dead,light off,B_D
+Will the increase of bulb loose cause light off and the increase of fuse blow cause light off?,Yes,bulb loose,fuse blow,light off,B_D
+Will the increase of venue flood cause permit dispute during show cancellation?,No,venue flood,permit dispute,show cancellation,B_D
+Will the increase of router misconfig cause network outage and the increase of fiber cut cause network outage?,Yes,router misconfig,fiber cut,network outage,B_D
+Will the increase of database corruption cause license expiry during system downtime?,No,database corruption,license expiry,system downtime,B_D
+Will the increase of billing error cause checkout failure and the increase of fraud alert cause checkout failure?,Yes,billing error,fraud alert,checkout failure,B_D
+Will the increase of strong wind cause old tree during branch fall?,No,strong wind,old tree,branch fall,B_D
+Will the increase of lock jam cause entry delay and the increase of key loss cause entry delay?,Yes,lock jam,key loss,entry delay,B_D
+Will the increase of printer jam cause wifi outage during print delay?,No,printer jam,wifi outage,print delay,B_D
+Will the increase of sensor failure cause engine shutdown and the increase of coolant leak cause engine shutdown?,Yes,sensor failure,coolant leak,engine shutdown,B_D
+Will the increase of pollen surge cause dust exposure during sneezing episode?,No,pollen surge,dust exposure,sneezing episode,B_D
+Will the increase of stage damage cause concert cancellation and the increase of permit dispute cause concert cancellation?,Yes,stage damage,permit dispute,concert cancellation,B_D
+Will the increase of referee absence cause thunderstorm risk during game postponement?,No,referee absence,thunderstorm risk,game postponement,B_D
+Will the increase of vendor recall cause product return and the increase of shipping damage cause product return?,Yes,vendor recall,shipping damage,product return,B_D
+Will the increase of payment outage cause inventory error during order cancellation?,No,payment outage,inventory error,order cancellation,B_D
+Will the increase of road ice cause slow drive and the increase of fog bank cause slow drive?,Yes,road ice,fog bank,slow drive,B_D
+Will the increase of camera failure cause badge outage during gate slowdown?,No,camera failure,badge outage,gate slowdown,B_D
+Will the increase of power surge cause device reboot and the increase of firmware bug cause device reboot?,Yes,power surge,firmware bug,device reboot,B_D
+Will the increase of courier shortage cause address error during delivery delay?,No,courier shortage,address error,delivery delay,B_D
+Will the increase of ingredient shortage cause bakery closure and the increase of oven failure cause bakery closure?,Yes,ingredient shortage,oven failure,bakery closure,B_D
+Will the increase of speaker failure cause projector fault during lecture cancellation?,No,speaker failure,projector fault,lecture cancellation,B_D
+Will the increase of staffing shortage cause clinic closure and the increase of equipment breakdown cause clinic closure?,Yes,staffing shortage,equipment breakdown,clinic closure,B_D
+Will the increase of principal amount cause time period during interest accrual?,No,principal amount,time period,interest accrual,B_D
+Will the increase of bug swarm cause crop fail and the increase of dry heat cause crop fail?,Yes,bug swarm,dry heat,crop fail,B_D
+Will the increase of inspection failure cause lease dispute during building closure?,No,inspection failure,lease dispute,building closure,B_D
+Will the increase of cable theft cause service interruption and the increase of config error cause service interruption?,Yes,cable theft,config error,service interruption,B_D
+Will the increase of supply shortage cause machine breakdown during factory shutdown?,No,supply shortage,machine breakdown,factory shutdown,B_D
+Will the increase of language barrier cause travel cancellation and the increase of visa delay cause travel cancellation?,Yes,language barrier,visa delay,travel cancellation,B_D
+Will the increase of engine failure cause harbor closure during ferry cancellation?,No,engine failure,harbor closure,ferry cancellation,B_D
+Will the increase of bad food cause stomach pain and the increase of virus bug cause stomach pain?,Yes,bad food,virus bug,stomach pain,B_D
+Will the increase of headset shortage cause microphone fault during webinar cancellation?,No,headset shortage,microphone fault,webinar cancellation,B_D
+Will the increase of data breach cause site shutdown and the increase of compliance audit cause site shutdown?,Yes,data breach,compliance audit,site shutdown,B_D
+Will the increase of insect swarm cause smoke fumes during picnic cancellation?,No,insect swarm,smoke fumes,picnic cancellation,B_D
+Will the increase of tire puncture cause car stop and the increase of brake lock cause car stop?,Yes,tire puncture,brake lock,car stop,B_D
+Will the increase of ticket outage cause staff shortage during tour cancellation?,No,ticket outage,staff shortage,tour cancellation,B_D
+Will the increase of smoke odor cause hallway closure and the increase of ceiling leak cause hallway closure?,Yes,smoke odor,ceiling leak,hallway closure,B_D
+Will the increase of freight backlog cause crane failure during port slowdown?,No,freight backlog,crane failure,port slowdown,B_D
+Will the increase of permit delay cause project pause and the increase of materials shortage cause project pause?,Yes,permit delay,materials shortage,project pause,B_D
+Will the increase of keyboard failure cause screen crack during device replacement?,No,keyboard failure,screen crack,device replacement,B_D
+Will the increase of cup drop cause mess made and the increase of plate slip cause mess made?,Yes,cup drop,plate slip,mess made,B_D
+Will the increase of passport loss cause ticket error during checkin delay?,No,passport loss,ticket error,checkin delay,B_D
+Will the increase of yeast rise cause bread bake and the increase of oven heat cause bread bake?,Yes,yeast rise,oven heat,bread bake,B_D
+Will the increase of generator failure cause transformer fire during power blackout?,No,generator failure,transformer fire,power blackout,B_D
+Will the increase of steel fatigue cause bridge closure and the increase of barge impact cause bridge closure?,Yes,steel fatigue,barge impact,bridge closure,B_D
+Will the increase of drum rip cause stick snap during beat stop?,No,drum rip,stick snap,beat stop,B_D
+Will the increase of ice shortage cause pool closure and the increase of boiler fault cause pool closure?,Yes,ice shortage,boiler fault,pool closure,B_D
+Will the increase of instructor illness cause bus strike during exam postponement?,No,instructor illness,bus strike,exam postponement,B_D
+Will the increase of paper shortage cause print cancellation and the increase of ink spill cause print cancellation?,Yes,paper shortage,ink spill,print cancellation,B_D
+Will the increase of gas leak cause bomb threat during venue evacuation?,No,gas leak,bomb threat,venue evacuation,B_D
+Will the increase of hail fall cause roof dent and the increase of gale blow cause roof dent?,Yes,hail fall,gale blow,roof dent,B_D
+Will the increase of wind gust cause oar snap during boat drift?,No,wind gust,oar snap,boat drift,B_D
+Will the increase of software rollout cause onboarding session and the increase of facility tour cause onboarding session?,Yes,software rollout,facility tour,onboarding session,B_D
+Will the increase of policy change cause executive visit during staff meeting?,No,policy change,executive visit,staff meeting,B_D
+Will the increase of contract dispute cause team briefing and the increase of safety concern cause team briefing?,Yes,contract dispute,safety concern,team briefing,B_D
+Will the increase of feature request cause hardware constraint during design review?,No,feature request,hardware constraint,design review,B_D
+Will the increase of building repair cause schedule planning and the increase of holiday change cause schedule planning?,Yes,building repair,holiday change,schedule planning,B_D
+Will the increase of lens crack cause film tear during photo ruin?,No,lens crack,film tear,photo ruin,B_D
+Will the increase of captcha bug cause login lockout and the increase of ssl expiry cause login lockout?,Yes,captcha bug,ssl expiry,login lockout,B_D
+Will the increase of microphone failure cause platform update during webinar pause?,No,microphone failure,platform update,webinar pause,B_D
+Will the increase of vendor visit cause policy review and the increase of audit request cause policy review?,Yes,vendor visit,audit request,policy review,B_D
+Will the increase of equipment upgrade cause new hire during training session?,No,equipment upgrade,new hire,training session,B_D
+Will the increase of rain drop cause lawn flood and the increase of sprinkler spray cause lawn flood?,Yes,rain drop,sprinkler spray,lawn flood,B_D
+Will the increase of salt add cause lime squeeze during taste odd?,No,salt add,lime squeeze,taste odd,B_D
+Will the increase of cat play cause vase drop and the increase of wind blow cause vase drop?,Yes,cat play,wind blow,vase drop,B_D
+Will the increase of salt spill cause pepper dump during meal spoil?,No,salt spill,pepper dump,meal spoil,B_D
+Will the increase of transformer fault cause power blackout and the increase of heat wave cause power blackout?,Yes,transformer fault,heat wave,power blackout,B_D
+Will the increase of chemical leak cause forest fire during air advisory?,No,chemical leak,forest fire,air advisory,B_D
+Will the increase of security sweep cause gate closure and the increase of fuel spill cause gate closure?,Yes,security sweep,fuel spill,gate closure,B_D
+Will the increase of printer queue cause paper shortage during copy delay?,No,printer queue,paper shortage,copy delay,B_D
+Will the increase of artist illness cause show postponement and the increase of storm warning cause show postponement?,Yes,artist illness,storm warning,show postponement,B_D
+Will the increase of gas leak cause spark fly during house fire?,No,gas leak,spark fly,house fire,B_D
+Will the increase of engine trouble cause bus delay and the increase of route blockade cause bus delay?,Yes,engine trouble,route blockade,bus delay,B_D
+Will the increase of ant invasion cause fly swarm during picnic mess?,No,ant invasion,fly swarm,picnic mess,B_D
+Will the increase of payment glitch cause order review and the increase of address mismatch cause order review?,Yes,payment glitch,address mismatch,order review,B_D
+Will the increase of database upgrade cause fire drill during schedule change?,No,database upgrade,fire drill,schedule change,B_D
+Will the increase of shipping surge cause dock queue and the increase of dock repair cause dock queue?,Yes,shipping surge,dock repair,dock queue,B_D
+Will the increase of marathon event cause bridge repair during route diversion?,No,marathon event,bridge repair,route diversion,B_D
+Will the increase of charge dispute cause refund delay and the increase of address error cause refund delay?,Yes,charge dispute,address error,refund delay,B_D
+Will the increase of ink blot cause paper rip during letter ruin?,No,ink blot,paper rip,letter ruin,B_D
+Will the increase of menu rotation cause lunch slowdown and the increase of cash shortage cause lunch slowdown?,Yes,menu rotation,cash shortage,lunch slowdown,B_D
+Will the increase of hail storm cause ball hit during glass shatter?,No,hail storm,ball hit,glass shatter,B_D
+Will the increase of library event cause room conflict and the increase of power test cause room conflict?,Yes,library event,power test,room conflict,B_D
+Will the increase of flu virus cause leg break during work miss?,No,flu virus,leg break,work miss,B_D
+Will the increase of elevator service cause stair crowd and the increase of fire inspection cause stair crowd?,Yes,elevator service,fire inspection,stair crowd,B_D
+Will the increase of disk rot cause port dust during load fail?,No,disk rot,port dust,load fail,B_D
+Will the increase of sun shine cause room heat and the increase of heater on cause room heat?,Yes,sun shine,heater on,room heat,B_D
+Will the increase of chef flu cause stove bust during food late?,No,chef flu,stove bust,food late,B_D
+Will the increase of pipe burst cause water restriction and the increase of drought warning cause water restriction?,Yes,pipe burst,drought warning,water restriction,B_D
+Will the increase of tooth ache cause ear infection during sleep loss?,No,tooth ache,ear infection,sleep loss,B_D
+Will the increase of tripod slip cause recording restart and the increase of audio distortion cause recording restart?,Yes,tripod slip,audio distortion,recording restart,B_D
+Will the increase of bee sting cause sun burn during beach pain?,No,bee sting,sun burn,beach pain,B_D
+Will the increase of garage closure cause commute delay and the increase of shuttle strike cause commute delay?,Yes,garage closure,shuttle strike,commute delay,B_D
+Will the increase of time change cause calendar error during meeting confusion?,No,time change,calendar error,meeting confusion,B_D
+Will the increase of label misprint cause checkout delay and the increase of keypad fault cause checkout delay?,Yes,label misprint,keypad fault,checkout delay,B_D
+Will the increase of mouse eat cause mold grow during cheese bad?,No,mouse eat,mold grow,cheese bad,B_D
+Will the increase of network test cause system pause and the increase of patch rollout cause system pause?,Yes,network test,patch rollout,system pause,B_D
+Will the increase of weather advisory cause crew shortage during takeoff wait?,No,weather advisory,crew shortage,takeoff wait,B_D
+Will the increase of routing bug cause call outage and the increase of switch failure cause call outage?,Yes,routing bug,switch failure,call outage,B_D
+Will the increase of promo campaign cause password reset during login queue?,No,promo campaign,password reset,login queue,B_D
+Will the increase of permit backlog cause site shutdown and the increase of generator failure cause site shutdown?,Yes,permit backlog,generator failure,site shutdown,B_D
+Will the increase of fox run cause rabbit hop during grass move?,No,fox run,rabbit hop,grass move,B_D
+Will the increase of gas leak cause hall evacuation and the increase of sprinkler test cause hall evacuation?,Yes,gas leak,sprinkler test,hall evacuation,B_D
+Will the increase of loud noise cause bright light during baby wake?,No,loud noise,bright light,baby wake,B_D
+Will the increase of snow squall cause train delay and the increase of track repair cause train delay?,Yes,snow squall,track repair,train delay,B_D
+Will the increase of speaker illness cause projector failure during talk reschedule?,No,speaker illness,projector failure,talk reschedule,B_D
+Will the increase of frost bite cause hand hurt and the increase of skin cut cause hand hurt?,Yes,frost bite,skin cut,hand hurt,B_D
+Will the increase of road accident cause bridge lift during traffic jam?,No,road accident,bridge lift,traffic jam,B_D
+Will the increase of parcel surge cause sorting delay and the increase of scanner jam cause sorting delay?,Yes,parcel surge,scanner jam,sorting delay,B_D
+Will the increase of depth perception cause color contrast during visual clarity?,No,depth perception,color contrast,visual clarity,B_D
+Will the increase of permit revision cause safety meeting and the increase of speaker crackle cause safety meeting?,Yes,permit revision,speaker crackle,safety meeting,B_D
+Will the increase of stage damage cause weather warning during event delay?,No,stage damage,weather warning,event delay,B_D
+Will the increase of port congestion cause cargo hold and the increase of document error cause cargo hold?,Yes,port congestion,document error,cargo hold,B_D
+Will the increase of bear sight cause snake hiss during hike fear?,No,bear sight,snake hiss,hike fear,B_D
+Will the increase of ball hit cause glass crack and the increase of stone throw cause glass crack?,Yes,ball hit,stone throw,glass crack,B_D
+Will the increase of runway repair cause crew shortage during flight delay?,No,runway repair,crew shortage,flight delay,B_D
+Will the increase of drum bang cause loud music and the increase of guitar twang cause loud music?,Yes,drum bang,guitar twang,loud music,B_D
+Will the increase of printer jam cause paper shortage during copy backlog?,No,printer jam,paper shortage,copy backlog,B_D
+Will the increase of main break cause water cutoff and the increase of valve failure cause water cutoff?,Yes,main break,valve failure,water cutoff,B_D
+Will the increase of construction noise cause fire drill during class interruption?,No,construction noise,fire drill,class interruption,B_D
+Will the increase of bus strike cause service disruption and the increase of signal failure cause service disruption?,Yes,bus strike,signal failure,service disruption,B_D
+Will the increase of equipment recall cause safety complaint during policy review?,No,equipment recall,safety complaint,policy review,B_D
+Will the increase of lime juice cause tongue sting and the increase of hot pepper cause tongue sting?,Yes,lime juice,hot pepper,tongue sting,B_D
+Will the increase of festival parade cause lane repaint during street closure?,No,festival parade,lane repaint,street closure,B_D
+Will the increase of office renovation cause shift change and the increase of budget cut cause shift change?,Yes,office renovation,budget cut,shift change,B_D
+Will the increase of ink spill cause coffee drop during shirt stain?,No,ink spill,coffee drop,shirt stain,B_D
+Will the increase of budget anomaly cause board hearing and the increase of ethics complaint cause board hearing?,Yes,budget anomaly,ethics complaint,board hearing,B_D
+Will the increase of antenna damage cause satellite drift during signal dropout?,No,antenna damage,satellite drift,signal dropout,B_D
+Will the increase of trade embargo cause fuel rationing and the increase of pipeline rupture cause fuel rationing?,Yes,trade embargo,pipeline rupture,fuel rationing,B_D
+Will the increase of red paint cause blue ink during art mess?,No,red paint,blue ink,art mess,B_D
+Will the increase of visa backlog cause trip reschedule and the increase of gale warning cause trip reschedule?,Yes,visa backlog,gale warning,trip reschedule,B_D
+Will the increase of cable fray cause tower upgrade during call drops?,No,cable fray,tower upgrade,call drops,B_D
+Will the increase of wage dispute cause plant slowdown and the increase of parts recall cause plant slowdown?,Yes,wage dispute,parts recall,plant slowdown,B_D
+Will the increase of headline rumor cause rate hike during market dip?,No,headline rumor,rate hike,market dip,B_D
+Will the increase of toner spill cause report delay and the increase of file corruption cause report delay?,Yes,toner spill,file corruption,report delay,B_D
+Will the increase of soap slip cause mat slide during bath fall?,No,soap slip,mat slide,bath fall,B_D
+Will the increase of water main cause street flooding and the increase of hydrant burst cause street flooding?,Yes,water main,hydrant burst,street flooding,B_D
+Will the increase of lab spill cause audit visit during hazard huddle?,No,lab spill,audit visit,hazard huddle,B_D
+Will the increase of server patch cause login errors and the increase of storage crash cause login errors?,Yes,server patch,storage crash,login errors,B_D
+Will the increase of barcode error cause sorting backlog during parcel misroute?,No,barcode error,sorting backlog,parcel misroute,B_D
+Will the increase of ticket overflow cause gate congestion and the increase of seat change cause gate congestion?,Yes,ticket overflow,seat change,gate congestion,B_D
+Will the increase of tour group cause floor repair during aisle crowding?,No,tour group,floor repair,aisle crowding,B_D
+Will the increase of fog advisory cause departure hold and the increase of deicing delay cause departure hold?,Yes,fog advisory,deicing delay,departure hold,B_D
+Will the increase of zoning appeal cause insurance dispute during site freeze?,No,zoning appeal,insurance dispute,site freeze,B_D
+Will the increase of software defect cause service notice and the increase of vendor merger cause service notice?,Yes,software defect,vendor merger,service notice,B_D
+Will the increase of heater failure cause window crack during class relocation?,No,heater failure,window crack,class relocation,B_D
+Will the increase of catering delay cause show shuffle and the increase of stage setup cause show shuffle?,Yes,catering delay,stage setup,show shuffle,B_D
+Will the increase of union walkout cause fleet recall during schedule shift?,No,union walkout,fleet recall,schedule shift,B_D
+Will the increase of coin shortage cause register slowdown and the increase of scanner upgrade cause register slowdown?,Yes,coin shortage,scanner upgrade,register slowdown,B_D
+Will the increase of circuit trip cause motor heat during pump shutdown?,No,circuit trip,motor heat,pump shutdown,B_D
+Will the increase of scope change cause strategy session and the increase of support roster cause strategy session?,Yes,scope change,support roster,strategy session,B_D
+Will the increase of staff transfer cause topic queue during vendor meeting?,No,staff transfer,topic queue,vendor meeting,B_D
+Will the increase of venue revision cause project briefing and the increase of training notes cause project briefing?,Yes,venue revision,training notes,project briefing,B_D
+Will the increase of policy draft cause task assignment during policy forum?,No,policy draft,task assignment,policy forum,B_D
+Will the increase of budget amendment cause audit session and the increase of handoff notes cause audit session?,Yes,budget amendment,handoff notes,audit session,B_D
+Will the increase of humidity level cause pollen count during allergy reaction?,No,humidity level,pollen count,allergy reaction,B_D
+Will the increase of deadline shift cause schedule forum and the increase of room booking cause schedule forum?,Yes,deadline shift,room booking,schedule forum,B_D
+Will the increase of tire wear cause glass cut during flat tire?,No,tire wear,glass cut,flat tire,B_D
+Will the increase of nut loose cause drive risk and the increase of tire bald cause drive risk?,Yes,nut loose,tire bald,drive risk,B_D
+Will the increase of meeting request cause summary report during status meeting?,No,meeting request,summary report,status meeting,B_D
+Will the increase of travel advisory cause risk briefing and the increase of compliance note cause risk briefing?,Yes,travel advisory,compliance note,risk briefing,B_D
+Will the increase of audit request cause schedule grid during planning call?,No,audit request,schedule grid,planning call,B_D
+Will the increase of permit update cause training seminar and the increase of attendance list cause training seminar?,Yes,permit update,attendance list,training seminar,B_D
+Will the increase of inventory audit cause action plan during design workshop?,No,inventory audit,action plan,design workshop,B_D
+Will the increase of security notice cause update meeting and the increase of materials list cause update meeting?,Yes,security notice,materials list,update meeting,B_D
+Will the increase of service request cause agenda update during review meeting?,No,service request,agenda update,review meeting,B_D
+Will the increase of system upgrade cause audit meeting and the increase of risk memo cause audit meeting?,Yes,system upgrade,risk memo,audit meeting,B_D
+Will the increase of route revision cause checklist update during routing briefing?,No,route revision,checklist update,routing briefing,B_D
+Will the increase of schedule change cause planning session and the increase of meeting notes cause planning session?,Yes,schedule change,meeting notes,planning session,B_D
+Will the increase of policy update cause design notes during support clinic?,No,policy update,design notes,support clinic,B_D
+Will the increase of budget request cause briefing session and the increase of minutes review cause briefing session?,Yes,budget request,minutes review,briefing session,B_D
+Will the increase of note accuracy cause rhythm sense during musical performance?,No,note accuracy,rhythm sense,musical performance,B_D
+Will the increase of portfolio quality cause interview invitation and the increase of skill strength cause interview invitation?,Yes,portfolio quality,skill strength,interview invitation,B_D
+Will the increase of badge renewal cause session outline during orientation forum?,No,badge renewal,session outline,orientation forum,B_D
+Will the increase of supply reorder cause budget workshop and the increase of topic list cause budget workshop?,Yes,supply reorder,topic list,budget workshop,B_D
+Will the increase of ethics complaint cause finance anomaly during committee hearing?,No,ethics complaint,finance anomaly,committee hearing,B_D
+Will the increase of snow load cause roof crash and the increase of wind force cause roof crash?,Yes,snow load,wind force,roof crash,B_D
+Will the increase of license expiry cause policy update during compliance summit?,No,license expiry,policy update,compliance summit,B_D
+Will the increase of vendor protest cause public forum and the increase of road repair cause public forum?,Yes,vendor protest,road repair,public forum,B_D
+Will the increase of data subpoena cause tenant petition during legal session?,No,data subpoena,tenant petition,legal session,B_D
+Will the increase of chemical odor cause safety briefing and the increase of alarm malfunction cause safety briefing?,Yes,chemical odor,alarm malfunction,safety briefing,B_D
+Will the increase of parking dispute cause noise complaint during council meeting?,No,parking dispute,noise complaint,council meeting,B_D
+Will the increase of server slowdown cause support triage and the increase of billing mismatch cause support triage?,Yes,server slowdown,billing mismatch,support triage,B_D
+Will the increase of shipment backlog cause forklift breakdown during logistics briefing?,No,shipment backlog,forklift breakdown,logistics briefing,B_D
+Will the increase of classroom leak cause maintenance meeting and the increase of heater failure cause maintenance meeting?,Yes,classroom leak,heater failure,maintenance meeting,B_D
+Will the increase of grant reduction cause invoice error during budget meeting?,No,grant reduction,invoice error,budget meeting,B_D
+Will the increase of harbor dredging cause schedule planning and the increase of bridge repaint cause schedule planning?,Yes,harbor dredging,bridge repaint,schedule planning,B_D
+Will the increase of lab incident cause privacy complaint during review meeting?,No,lab incident,privacy complaint,review meeting,B_D
+Will the increase of key snap cause door stuck and the increase of lock rust cause door stuck?,Yes,key snap,lock rust,door stuck,B_D
+Will the increase of tax audit cause contract renewal during finance huddle?,No,tax audit,contract renewal,finance huddle,B_D
+Will the increase of roof damage cause repair visit and the increase of pipe corrosion cause repair visit?,Yes,roof damage,pipe corrosion,repair visit,B_D
+Will the increase of temperature breach cause label error during menu review?,No,temperature breach,label error,menu review,B_D
+Will the increase of drone sighting cause security briefing and the increase of crowd surge cause security briefing?,Yes,drone sighting,crowd surge,security briefing,B_D
+Will the increase of shaft vibration cause cable fray during elevator inspection?,No,shaft vibration,cable fray,elevator inspection,B_D
+Will the increase of fan break cause hot room and the increase of vent clog cause hot room?,Yes,fan break,vent clog,hot room,B_D
+Will the increase of policy draft cause union request during board briefing?,No,policy draft,union request,board briefing,B_D
+Will the increase of permit appeal cause planning summit and the increase of traffic study cause planning summit?,Yes,permit appeal,traffic study,planning summit,B_D
+Will the increase of accessibility report cause lighting defect during inspection huddle?,No,accessibility report,lighting defect,inspection huddle,B_D
+Will the increase of customs complaint cause vendor meeting and the increase of billing dispute cause vendor meeting?,Yes,customs complaint,billing dispute,vendor meeting,B_D
+Will the increase of curriculum proposal cause lab shortage during faculty meeting?,No,curriculum proposal,lab shortage,faculty meeting,B_D
+Will the increase of lost roster cause safety workshop and the increase of scratched lens cause safety workshop?,Yes,lost roster,scratched lens,safety workshop,B_D
+Will the increase of unsigned invoice cause jammed printer during policy hearing?,No,unsigned invoice,jammed printer,policy hearing,B_D
+Will the increase of delayed appeal cause facilities inspection and the increase of cracked railing cause facilities inspection?,Yes,delayed appeal,cracked railing,facilities inspection,B_D
+Will the increase of misfiled memo cause flickering monitor during incident debrief?,No,misfiled memo,flickering monitor,incident debrief,B_D
+Will the increase of expired permit cause compliance review and the increase of sagging ceiling cause compliance review?,Yes,expired permit,sagging ceiling,compliance review,B_D
+Will the increase of duplicate report cause muted speaker during service forum?,No,duplicate report,muted speaker,service forum,B_D
+Will the increase of wrong contract cause repair briefing and the increase of warped door cause repair briefing?,Yes,wrong contract,warped door,repair briefing,B_D
+Will the increase of pending request cause tangled router during network roundtable?,No,pending request,tangled router,network roundtable,B_D
+Will the increase of unclear notice cause community meeting and the increase of loose vent cause community meeting?,Yes,unclear notice,loose vent,community meeting,B_D
+Will the increase of rejected proposal cause chipped tile during tenant huddle?,No,rejected proposal,chipped tile,tenant huddle,B_D
+Will the increase of lost receipt cause support session and the increase of frayed keyboard cause support session?,Yes,lost receipt,frayed keyboard,support session,B_D
+Will the increase of conflicting agenda cause moldy carpet during health screening?,No,conflicting agenda,moldy carpet,health screening,B_D
+Will the increase of revised schedule cause security briefing and the increase of stuck latch cause security briefing?,Yes,revised schedule,stuck latch,security briefing,B_D
+Will the increase of late ticket cause overheated router during audit seminar?,No,late ticket,overheated router,audit seminar,B_D
+Will the increase of missing record cause budget workshop and the increase of rusted pipe cause budget workshop?,Yes,missing record,rusted pipe,budget workshop,B_D
+Will the increase of unsigned form cause glitched switch during quality review?,No,unsigned form,glitched switch,quality review,B_D
+Will the increase of delayed notice cause safety walkthrough and the increase of damp window cause safety walkthrough?,Yes,delayed notice,damp window,safety walkthrough,B_D
+Will the increase of misfiled ticket cause blurred camera during policy seminar?,No,misfiled ticket,blurred camera,policy seminar,B_D
+Will the increase of expired request cause repair roundtable and the increase of frozen duct cause repair roundtable?,Yes,expired request,frozen duct,repair roundtable,B_D
+Will the increase of duplicate memo cause unstable sensor during incident forum?,No,duplicate memo,unstable sensor,incident forum,B_D
+Will the increase of wrong invoice cause facilities briefing and the increase of cracked stair cause facilities briefing?,Yes,wrong invoice,cracked stair,facilities briefing,B_D
+Will the increase of pending appeal cause loose window during compliance workshop?,No,pending appeal,loose window,compliance workshop,B_D
+Will the increase of unclear proposal cause service huddle and the increase of jammed touchpad cause service huddle?,Yes,unclear proposal,jammed touchpad,service huddle,B_D
+Will the increase of rejected contract cause warped floor during community forum?,No,rejected contract,warped floor,community forum,B_D
+Will the increase of late roster cause network training and the increase of muted microphone cause network training?,Yes,late roster,muted microphone,network training,B_D
+Will the increase of policy overhaul cause circuit scorch during inspection visit?,No,policy overhaul,circuit scorch,inspection visit,B_D
+Will the increase of license renewal cause maintenance call and the increase of lubricant seep cause maintenance call?,Yes,license renewal,lubricant seep,maintenance call,B_D
+Will the increase of cable unplug cause thread stall during restart cycle?,No,cable unplug,thread stall,restart cycle,B_D
+Will the increase of rule update cause safety check and the increase of brake squeal cause safety check?,Yes,rule update,brake squeal,safety check,B_D
+Will the increase of funding cap cause parts shortage during service triage?,No,funding cap,parts shortage,service triage,B_D
+Will the increase of route redesign cause schedule revision and the increase of signal drift cause schedule revision?,Yes,route redesign,signal drift,schedule revision,B_D
+Will the increase of permit rewrite cause pipe rupture during site review?,No,permit rewrite,pipe rupture,site review,B_D
+Will the increase of tax change cause billing review and the increase of pricing error cause billing review?,Yes,tax change,pricing error,billing review,B_D
+Will the increase of tea spill cause milk sour during bad drink?,No,tea spill,milk sour,bad drink,B_D
+Will the increase of weather bulletin cause flight briefing and the increase of radar failure cause flight briefing?,Yes,weather bulletin,radar failure,flight briefing,B_D
+Will the increase of policy memo cause software deadlock during support huddle?,No,policy memo,software deadlock,support huddle,B_D
+Will the increase of contract update cause quality inspection and the increase of seal failure cause quality inspection?,Yes,contract update,seal failure,quality inspection,B_D
+Will the increase of server hot cause code bug during site down?,No,server hot,code bug,site down,B_D
+Will the increase of route alert cause driver notice and the increase of map error cause driver notice?,Yes,route alert,map error,driver notice,B_D
+Will the increase of room shortage cause grading bug during makeup exam?,No,room shortage,grading bug,makeup exam,B_D
+Will the increase of code bug cause app crash and the increase of disk full cause app crash?,Yes,code bug,disk full,app crash,B_D
+Will the increase of shift policy cause scanner break during checkout slowdown?,No,shift policy,scanner break,checkout slowdown,B_D
+Will the increase of dns change cause page reload and the increase of script error cause page reload?,Yes,dns change,script error,page reload,B_D
+Will the increase of statute notice cause hinge seize during entry queue?,No,statute notice,hinge seize,entry queue,B_D
+Will the increase of storm advisory cause train reroute and the increase of track defect cause train reroute?,Yes,storm advisory,track defect,train reroute,B_D
+Will the increase of lens blur cause hand shake during photo bad?,No,lens blur,hand shake,photo bad,B_D
+Will the increase of safety mandate cause work stoppage and the increase of ladder crack cause work stoppage?,Yes,safety mandate,ladder crack,work stoppage,B_D
+Will the increase of hiring pause cause kernel upgrade during release delay?,No,hiring pause,kernel upgrade,release delay,B_D
+Will the increase of referendum call cause public session and the increase of parking petition cause public session?,Yes,referendum call,parking petition,public session,B_D
+Will the increase of holiday surge cause receipt mismatch during help backlog?,No,holiday surge,receipt mismatch,help backlog,B_D
+An increase in pilot strike leads to more flight cancellation and an increase in volcanic ash leads to more flight cancellation.,Yes,pilot strike,volcanic ash,flight cancellation,B_A
+An increase in crew shortage leads to more signal failure during train delay.,No,crew shortage,signal failure,train delay,B_A
+An increase in length value leads to more rectangle area and an increase in width value leads to more rectangle area.,Yes,length value,width value,rectangle area,B_A
+An increase in ddos attack leads to more fiber cut during network outage.,No,ddos attack,fiber cut,network outage,B_A
+An increase in gas leak leads to more campus closure and an increase in snowstorm warning leads to more campus closure.,Yes,gas leak,snowstorm warning,campus closure,B_A
+An increase in storm cloud leads to more night fall during sky dark.,No,storm cloud,night fall,sky dark,B_A
+An increase in runway debris leads to more flight delay and an increase in crew shortage leads to more flight delay.,Yes,runway debris,crew shortage,flight delay,B_A
+An increase in payment outage leads to more barcode error during checkout delay.,No,payment outage,barcode error,checkout delay,B_A
+An increase in dust pile leads to more sneeze fit and an increase in pollen float leads to more sneeze fit.,Yes,dust pile,pollen float,sneeze fit,B_A
+An increase in ice melt leads to more pipe leak during floor wet.,No,ice melt,pipe leak,floor wet,B_A
+An increase in teacher strike leads to more class cancellation and an increase in flu outbreak leads to more class cancellation.,Yes,teacher strike,flu outbreak,class cancellation,B_A
+An increase in dns failure leads to more certificate expiry during website downtime.,No,dns failure,certificate expiry,website downtime,B_A
+An increase in alarm fail leads to more theft risk and an increase in guard sleep leads to more theft risk.,Yes,alarm fail,guard sleep,theft risk,B_A
+An increase in baggage backlog leads to more runway closure during departure delay.,No,baggage backlog,runway closure,departure delay,B_A
+An increase in cooling failure leads to more facility shutdown and an increase in security breach leads to more facility shutdown.,Yes,cooling failure,security breach,facility shutdown,B_A
+An increase in inspection failure leads to more cargo backlog during container hold.,No,inspection failure,cargo backlog,container hold,B_A
+An increase in operator error leads to more power blackout and an increase in transformer fire leads to more power blackout.,Yes,operator error,transformer fire,power blackout,B_A
+An increase in laboratory spill leads to more ventilation failure during lab shutdown.,No,laboratory spill,ventilation failure,lab shutdown,B_A
+An increase in union strike leads to more delivery delay and an increase in fuel shortage leads to more delivery delay.,Yes,union strike,fuel shortage,delivery delay,B_A
+An increase in seat shortage leads to more security screening during boarding delay.,No,seat shortage,security screening,boarding delay,B_A
+An increase in icy road leads to more car slide and an increase in bald tire leads to more car slide.,Yes,icy road,bald tire,car slide,B_A
+An increase in budget freeze leads to more safety violation during project halt.,No,budget freeze,safety violation,project halt,B_A
+An increase in phishing report leads to more security review and an increase in audit finding leads to more security review.,Yes,phishing report,audit finding,security review,B_A
+An increase in storm warning leads to more bridge collapse during transit suspension.,No,storm warning,bridge collapse,transit suspension,B_A
+An increase in electrical fire leads to more site closure and an increase in structural crack leads to more site closure.,Yes,electrical fire,structural crack,site closure,B_A
+An increase in water contamination leads to more pump failure during water advisory.,No,water contamination,pump failure,water advisory,B_A
+An increase in memory leak leads to more app crash and an increase in driver conflict leads to more app crash.,Yes,memory leak,driver conflict,app crash,B_A
+An increase in customs strike leads to more paperwork error during border delay.,No,customs strike,paperwork error,border delay,B_A
+An increase in late bus leads to more work delay and an increase in slow walk leads to more work delay.,Yes,late bus,slow walk,work delay,B_A
+An increase in smoke puff leads to more dust cloud during air grey.,No,smoke puff,dust cloud,air grey,B_A
+An increase in heatwave warning leads to more power shutdown and an increase in transformer repair leads to more power shutdown.,Yes,heatwave warning,transformer repair,power shutdown,B_A
+An increase in gas low leads to more tire soft during trip delay.,No,gas low,tire soft,trip delay,B_A
+An increase in runway icing leads to more flight delay and an increase in aircraft repair leads to more flight delay.,Yes,runway icing,aircraft repair,flight delay,B_A
+An increase in software outage leads to more flu outbreak during clinic backlog.,No,software outage,flu outbreak,clinic backlog,B_A
+An increase in weather advisory leads to more safety briefing and an increase in security incident leads to more safety briefing.,Yes,weather advisory,security incident,safety briefing,B_A
+An increase in budget revision leads to more weather advisory during staff briefing.,No,budget revision,weather advisory,staff briefing,B_A
+An increase in shipping delay leads to more order hold and an increase in quality audit leads to more order hold.,Yes,shipping delay,quality audit,order hold,B_A
+An increase in structural crack leads to more permit suspension during site shutdown.,No,structural crack,permit suspension,site shutdown,B_A
+An increase in requirement change leads to more project delay and an increase in hardware shortage leads to more project delay.,Yes,requirement change,hardware shortage,project delay,B_A
+An increase in utility repair leads to more parade permit during street closure.,No,utility repair,parade permit,street closure,B_A
+An increase in security threat leads to more evacuation order and an increase in chemical spill leads to more evacuation order.,Yes,security threat,chemical spill,evacuation order,B_A
+An increase in cable theft leads to more router failure during service outage.,No,cable theft,router failure,service outage,B_A
+An increase in heavy box leads to more box split and an increase in weak tape leads to more box split.,Yes,heavy box,weak tape,box split,B_A
+An increase in bank outage leads to more fraud review during payment hold.,No,bank outage,fraud review,payment hold,B_A
+An increase in fraud allegation leads to more court hearing and an increase in contract dispute leads to more court hearing.,Yes,fraud allegation,contract dispute,court hearing,B_A
+An increase in wind advisory leads to more engine failure during ferry cancellation.,No,wind advisory,engine failure,ferry cancellation,B_A
+An increase in pipe burst leads to more water shutdown and an increase in chlorine spill leads to more water shutdown.,Yes,pipe burst,chlorine spill,water shutdown,B_A
+An increase in baggage fire leads to more bomb threat during airport evacuation.,No,baggage fire,bomb threat,airport evacuation,B_A
+An increase in server upgrade leads to more site downtime and an increase in certificate expiry leads to more site downtime.,Yes,server upgrade,certificate expiry,site downtime,B_A
+An increase in heat advisory leads to more lightning warning during beach closure.,No,heat advisory,lightning warning,beach closure,B_A
+An increase in inventory shrink leads to more protocol session and an increase in safety citation leads to more protocol session.,Yes,inventory shrink,safety citation,protocol session,B_A
+An increase in cyber extortion leads to more dam rupture during crisis briefing.,No,cyber extortion,dam rupture,crisis briefing,B_A
+An increase in court verdict leads to more media briefing and an increase in factory recall leads to more media briefing.,Yes,court verdict,factory recall,media briefing,B_A
+An increase in ant crawl leads to more fly land during picnic ruin.,No,ant crawl,fly land,picnic ruin,B_A
+An increase in data subpoena leads to more legal session and an increase in labor grievance leads to more legal session.,Yes,data subpoena,labor grievance,legal session,B_A
+An increase in permit renewal leads to more grant reduction during budget summit.,No,permit renewal,grant reduction,budget summit,B_A
+An increase in market analysis leads to more planning summit and an increase in staffing gap leads to more planning summit.,Yes,market analysis,staffing gap,planning summit,B_A
+An increase in belt rip leads to more zip stuck during pant fall.,No,belt rip,zip stuck,pant fall,B_A
+An increase in tariff change leads to more logistics briefing and an increase in forklift breakdown leads to more logistics briefing.,Yes,tariff change,forklift breakdown,logistics briefing,B_A
+An increase in pen dry leads to more page tear during note fail.,No,pen dry,page tear,note fail,B_A
+An increase in equipment shipment leads to more lab briefing and an increase in research audit leads to more lab briefing.,Yes,equipment shipment,research audit,lab briefing,B_A
+An increase in marathon permit leads to more tunnel repair during traffic briefing.,No,marathon permit,tunnel repair,traffic briefing,B_A
+An increase in passport delay leads to more travel workshop and an increase in security advisory leads to more travel workshop.,Yes,passport delay,security advisory,travel workshop,B_A
+An increase in vaccine shortage leads to more heatwave warning during health seminar.,No,vaccine shortage,heatwave warning,health seminar,B_A
+An increase in parking dispute leads to more policy summit and an increase in privacy complaint leads to more policy summit.,Yes,parking dispute,privacy complaint,policy summit,B_A
+An increase in rent increase leads to more utility billing during tenant forum.,No,rent increase,utility billing,tenant forum,B_A
+An increase in earthquake risk leads to more risk workshop and an increase in fraud risk leads to more risk workshop.,Yes,earthquake risk,fraud risk,risk workshop,B_A
+An increase in shift vacancy leads to more training mandate during staffing briefing.,No,shift vacancy,training mandate,staffing briefing,B_A
+An increase in mold report leads to more inspection huddle and an increase in wiring fault leads to more inspection huddle.,Yes,mold report,wiring fault,inspection huddle,B_A
+An increase in sensor anomaly leads to more patent filing during engineering forum.,No,sensor anomaly,patent filing,engineering forum,B_A
+An increase in billing mismatch leads to more finance huddle and an increase in tax audit leads to more finance huddle.,Yes,billing mismatch,tax audit,finance huddle,B_A
+An increase in export violation leads to more antitrust inquiry during compliance summit.,No,export violation,antitrust inquiry,compliance summit,B_A
+An increase in noise complaint leads to more neighborhood forum and an increase in park proposal leads to more neighborhood forum.,Yes,noise complaint,park proposal,neighborhood forum,B_A
+An increase in theft loss leads to more hail damage during claims briefing.,No,theft loss,hail damage,claims briefing,B_A
+An increase in deadline slip leads to more project workshop and an increase in donor visit leads to more project workshop.,Yes,deadline slip,donor visit,project workshop,B_A
+An increase in belt snap leads to more zip jam during coat open.,No,belt snap,zip jam,coat open,B_A
+An increase in software bug leads to more system restart and an increase in power surge leads to more system restart.,Yes,software bug,power surge,system restart,B_A
+An increase in glue dry leads to more tape rip during box open.,No,glue dry,tape rip,box open,B_A
+An increase in signal failure leads to more train delay and an increase in engine issue leads to more train delay.,Yes,signal failure,engine issue,train delay,B_A
+An increase in storm wind leads to more termite rot during roof collapse.,No,storm wind,termite rot,roof collapse,B_A
+An increase in relay fault leads to more power outage and an increase in operator error leads to more power outage.,Yes,relay fault,operator error,power outage,B_A
+An increase in radius size leads to more height size during cylinder volume.,No,radius size,height size,cylinder volume,B_A
+An increase in storm warning leads to more safety briefing and an increase in chemical shipment leads to more safety briefing.,Yes,storm warning,chemical shipment,safety briefing,B_A
+An increase in map lost leads to more gps dead during way lost.,No,map lost,gps dead,way lost,B_A
+An increase in roof leak leads to more inspection day and an increase in gas odor leads to more inspection day.,Yes,roof leak,gas odor,inspection day,B_A
+An increase in router upgrade leads to more database patch during maintenance window.,No,router upgrade,database patch,maintenance window,B_A
+An increase in lease renewal leads to more planning meeting and an increase in grant deadline leads to more planning meeting.,Yes,lease renewal,grant deadline,planning meeting,B_A
+An increase in patient surge leads to more staff absence during clinic backlog.,No,patient surge,staff absence,clinic backlog,B_A
+An increase in order surge leads to more order backlog and an increase in carrier shortage leads to more order backlog.,Yes,order surge,carrier shortage,order backlog,B_A
+An increase in runway repair leads to more baggage jam during departure delay.,No,runway repair,baggage jam,departure delay,B_A
+An increase in fuel shortage leads to more traffic slowdown and an increase in lane closure leads to more traffic slowdown.,Yes,fuel shortage,lane closure,traffic slowdown,B_A
+An increase in dust storm leads to more chemical odor during air advisory.,No,dust storm,chemical odor,air advisory,B_A
+An increase in precipitation level leads to more river volume and an increase in temperature range leads to more river volume.,Yes,precipitation level,temperature range,river volume,B_A
+An increase in staffing gap leads to more system glitch during call queue.,No,staffing gap,system glitch,call queue,B_A
+An increase in barcode smear leads to more checkout pause and an increase in price mismatch leads to more checkout pause.,Yes,barcode smear,price mismatch,checkout pause,B_A
+An increase in cat scratch leads to more dog bite during vet visit.,No,cat scratch,dog bite,vet visit,B_A
+An increase in speaker cancel leads to more event postponement and an increase in power issue leads to more event postponement.,Yes,speaker cancel,power issue,event postponement,B_A
+An increase in loud dog leads to more thin wall during sleep loss.,No,loud dog,thin wall,sleep loss,B_A
+An increase in schedule conflict leads to more meeting reschedule and an increase in room repair leads to more meeting reschedule.,Yes,schedule conflict,room repair,meeting reschedule,B_A
+An increase in truck shortage leads to more permit delay during move delay.,No,truck shortage,permit delay,move delay,B_A
+An increase in airline strike leads to more flight cancellation and an increase in storm front leads to more flight cancellation.,Yes,airline strike,storm front,flight cancellation,B_A
+An increase in cable cut leads to more power surge during network outage.,No,cable cut,power surge,network outage,B_A
+An increase in rockslide risk leads to more route closure and an increase in tunnel repair leads to more route closure.,Yes,rockslide risk,tunnel repair,route closure,B_A
+An increase in policy error leads to more bank holiday during refund backlog.,No,policy error,bank holiday,refund backlog,B_A
+An increase in bug bite leads to more skin rash and an increase in poison ivy leads to more skin rash.,Yes,bug bite,poison ivy,skin rash,B_A
+An increase in policy change leads to more skill gap during training workshop.,No,policy change,skill gap,training workshop,B_A
+An increase in festival permit leads to more public notice and an increase in water advisory leads to more public notice.,Yes,festival permit,water advisory,public notice,B_A
+An increase in printer jam leads to more login error during service ticket.,No,printer jam,login error,service ticket,B_A
+An increase in machine vibration leads to more safety audit and an increase in policy update leads to more safety audit.,Yes,machine vibration,policy update,safety audit,B_A
+An increase in price spike leads to more quality issue during supply review.,No,price spike,quality issue,supply review,B_A
+An increase in parking change leads to more campus briefing and an increase in storm warning leads to more campus briefing.,Yes,parking change,storm warning,campus briefing,B_A
+An increase in meditation practice leads to more hydration habits during mindfulness state.,No,meditation practice,hydration habits,mindfulness state,B_A
+An increase in wifi off leads to more net lag and an increase in data cap leads to more net lag.,Yes,wifi off,data cap,net lag,B_A
+An increase in bus late leads to more rain fall during mood bad.,No,bus late,rain fall,mood bad,B_A
+An increase in chargeback surge leads to more account freeze and an increase in identity mismatch leads to more account freeze.,Yes,chargeback surge,identity mismatch,account freeze,B_A
+An increase in heating failure leads to more staff shortage during library closure.,No,heating failure,staff shortage,library closure,B_A
+An increase in bus strike leads to more class cancellation and an increase in power outage leads to more class cancellation.,Yes,bus strike,power outage,class cancellation,B_A
+An increase in chemical odor leads to more stage collapse during event pause.,No,chemical odor,stage collapse,event pause,B_A
+An increase in judge illness leads to more court delay and an increase in security search leads to more court delay.,Yes,judge illness,security search,court delay,B_A
+An increase in stomach ache leads to more ankle sprain during medical visit.,No,stomach ache,ankle sprain,medical visit,B_A
+An increase in concept gap leads to more help session and an increase in grading change leads to more help session.,Yes,concept gap,grading change,help session,B_A
+An increase in cake burn leads to more pie drop during dessert ruin.,No,cake burn,pie drop,dessert ruin,B_A
+An increase in smoke plume leads to more weather alert and an increase in heat index leads to more weather alert.,Yes,smoke plume,heat index,weather alert,B_A
+An increase in vendor audit leads to more storm warning during staff briefing.,No,vendor audit,storm warning,staff briefing,B_A
+An increase in leaky faucet leads to more repair visit and an increase in broken latch leads to more repair visit.,Yes,leaky faucet,broken latch,repair visit,B_A
+An increase in nose bleed leads to more eye tear during face mess.,No,nose bleed,eye tear,face mess,B_A
+An increase in sock hole leads to more foot sore and an increase in shoe rock leads to more foot sore.,Yes,sock hole,shoe rock,foot sore,B_A
+An increase in software patch leads to more disk failure during system reboot.,No,software patch,disk failure,system reboot,B_A
+An increase in gas odor leads to more building evacuation and an increase in chemical fumes leads to more building evacuation.,Yes,gas odor,chemical fumes,building evacuation,B_A
+An increase in wildfire smoke leads to more trail washout during park closure.,No,wildfire smoke,trail washout,park closure,B_A
+An increase in power shortage leads to more factory shutdown and an increase in union strike leads to more factory shutdown.,Yes,power shortage,union strike,factory shutdown,B_A
+An increase in passport loss leads to more flight strike during trip cancellation.,No,passport loss,flight strike,trip cancellation,B_A
+An increase in router outage leads to more service suspension and an increase in billing fraud leads to more service suspension.,Yes,router outage,billing fraud,service suspension,B_A
+An increase in lease dispute leads to more fire damage during store closing.,No,lease dispute,fire damage,store closing,B_A
+An increase in crew shortage leads to more flight delay and an increase in storm front leads to more flight delay.,Yes,crew shortage,storm front,flight delay,B_A
+An increase in mouse chew leads to more moth eat during shirt hole.,No,mouse chew,moth eat,shirt hole,B_A
+An increase in rust spot leads to more bike ugly and an increase in paint chip leads to more bike ugly.,Yes,rust spot,paint chip,bike ugly,B_A
+An increase in circuit trip leads to more pump seizure during heater shutdown.,No,circuit trip,pump seizure,heater shutdown,B_A
+An increase in badge failure leads to more gate slowdown and an increase in turnstile jam leads to more gate slowdown.,Yes,badge failure,turnstile jam,gate slowdown,B_A
+An increase in dust storm leads to more smoke plume during air advisory.,No,dust storm,smoke plume,air advisory,B_A
+An increase in card rejection leads to more checkout delay and an increase in scanner failure leads to more checkout delay.,Yes,card rejection,scanner failure,checkout delay,B_A
+An increase in food allergy leads to more temperature breach during menu recall.,No,food allergy,temperature breach,menu recall,B_A
+An increase in bridge lift leads to more route detour and an increase in tree fall leads to more route detour.,Yes,bridge lift,tree fall,route detour,B_A
+An increase in microphone buzz leads to more power flicker during speech restart.,No,microphone buzz,power flicker,speech restart,B_A
+An increase in sample thaw leads to more test rerun and an increase in instrument fault leads to more test rerun.,Yes,sample thaw,instrument fault,test rerun,B_A
+An increase in fiber kink leads to more cache thrash during server lag.,No,fiber kink,cache thrash,server lag,B_A
+An increase in cake burn leads to more treat lost and an increase in tart drop leads to more treat lost.,Yes,cake burn,tart drop,treat lost,B_A
+An increase in cloud cover leads to more inverter fault during solar drop.,No,cloud cover,inverter fault,solar drop,B_A
+An increase in smoke alert leads to more hall clearing and an increase in fire drill leads to more hall clearing.,Yes,smoke alert,fire drill,hall clearing,B_A
+An increase in storm surge leads to more customs hold during cargo backlog.,No,storm surge,customs hold,cargo backlog,B_A
+An increase in rat chew leads to more wall gap and an increase in rot wood leads to more wall gap.,Yes,rat chew,rot wood,wall gap,B_A
+An increase in permit appeal leads to more vendor complaint during committee meeting.,No,permit appeal,vendor complaint,committee meeting,B_A
+An increase in policy rewrite leads to more compliance briefing and an increase in router swap leads to more compliance briefing.,Yes,policy rewrite,router swap,compliance briefing,B_A
+An increase in privacy complaint leads to more wiring fault during policy workshop.,No,privacy complaint,wiring fault,policy workshop,B_A
+An increase in parking closure leads to more town meeting and an increase in elevator failure leads to more town meeting.,Yes,parking closure,elevator failure,town meeting,B_A
+An increase in data breach leads to more safety citation during incident meeting.,No,data breach,safety citation,incident meeting,B_A
+An increase in wifi loss leads to more news miss and an increase in phone dead leads to more news miss.,Yes,wifi loss,phone dead,news miss,B_A
+An increase in ink spill leads to more paper tear during document ruin.,No,ink spill,paper tear,document ruin,B_A
+An increase in travel ban leads to more planning forum and an increase in venue loss leads to more planning forum.,Yes,travel ban,venue loss,planning forum,B_A
+An increase in route change leads to more vehicle recall during driver briefing.,No,route change,vehicle recall,driver briefing,B_A
+An increase in software rollout leads to more training workshop and an increase in instructor absence leads to more training workshop.,Yes,software rollout,instructor absence,training workshop,B_A
+An increase in permit update leads to more equipment shortage during planning forum.,No,permit update,equipment shortage,planning forum,B_A
+An increase in vendor switch leads to more quality meeting and an increase in contamination report leads to more quality meeting.,Yes,vendor switch,contamination report,quality meeting,B_A
+An increase in policy draft leads to more budget motion during briefing session.,No,policy draft,budget motion,briefing session,B_A
+An increase in algorithm efficiency leads to more model accuracy and an increase in data quality leads to more model accuracy.,Yes,algorithm efficiency,data quality,model accuracy,B_A
+An increase in sock hole leads to more shoe tight during foot sore.,No,sock hole,shoe tight,foot sore,B_A
+An increase in lid stuck leads to more jam trap and an increase in jar crack leads to more jam trap.,Yes,lid stuck,jar crack,jam trap,B_A
+An increase in mentor guidance leads to more self-study during knowledge depth.,No,mentor guidance,self-study,knowledge depth,B_A
+An increase in access request leads to more access workshop and an increase in badge failure leads to more access workshop.,Yes,access request,badge failure,access workshop,B_A
+An increase in training policy leads to more venue change during orientation forum.,No,training policy,venue change,orientation forum,B_A
+An increase in map loss leads to more way lost and an increase in sign fade leads to more way lost.,Yes,map loss,sign fade,way lost,B_A
+An increase in hail dent leads to more scratch mark during car flaw.,No,hail dent,scratch mark,car flaw,B_A
+An increase in tide height leads to more coastal erosion and an increase in wind strength leads to more coastal erosion.,Yes,tide height,wind strength,coastal erosion,B_A
+An increase in service request leads to more training question during support clinic.,No,service request,training question,support clinic,B_A
+An increase in roadmap change leads to more strategy session and an increase in staff transfer leads to more strategy session.,Yes,roadmap change,staff transfer,strategy session,B_A
+An increase in warranty claim leads to more quality defect during claims review.,No,warranty claim,quality defect,claims review,B_A
+An increase in dust mite leads to more sneeze fit and an increase in cat hair leads to more sneeze fit.,Yes,dust mite,cat hair,sneeze fit,B_A
+An increase in enrollment surge leads to more staff absence during capacity review.,No,enrollment surge,staff absence,capacity review,B_A
+An increase in budget overrun leads to more funding meeting and an increase in donor request leads to more funding meeting.,Yes,budget overrun,donor request,funding meeting,B_A
+An increase in software incident leads to more hardware defect during incident briefing.,No,software incident,hardware defect,incident briefing,B_A
+An increase in fire alarm leads to more safety huddle and an increase in exit blockage leads to more safety huddle.,Yes,fire alarm,exit blockage,safety huddle,B_A
+An increase in speaker cancellation leads to more venue damage during event reschedule.,No,speaker cancellation,venue damage,event reschedule,B_A
+An increase in billing dispute leads to more finance review and an increase in invoice error leads to more finance review.,Yes,billing dispute,invoice error,finance review,B_A
+An increase in engine power leads to more driver skill during race victory.,No,engine power,driver skill,race victory,B_A
+An increase in lease renewal leads to more staff briefing and an increase in payroll error leads to more staff briefing.,Yes,lease renewal,payroll error,staff briefing,B_A
+An increase in supplier switch leads to more spec change during contract review.,No,supplier switch,spec change,contract review,B_A
+An increase in hard rain leads to more yard flood and an increase in clog drain leads to more yard flood.,Yes,hard rain,clog drain,yard flood,B_A
+An increase in spice variety leads to more cooking technique during flavor complexity.,No,spice variety,cooking technique,flavor complexity,B_A
+An increase in bridge repair leads to more traffic briefing and an increase in signal upgrade leads to more traffic briefing.,Yes,bridge repair,signal upgrade,traffic briefing,B_A
+An increase in medical recall leads to more lab audit during health seminar.,No,medical recall,lab audit,health seminar,B_A
+An increase in passport backlog leads to more travel workshop and an increase in security advisory leads to more travel workshop.,Yes,passport backlog,security advisory,travel workshop,B_A
+An increase in feature scope leads to more bug report during launch meeting.,No,feature scope,bug report,launch meeting,B_A
+An increase in pipe corrosion leads to more maintenance briefing and an increase in pump vibration leads to more maintenance briefing.,Yes,pipe corrosion,pump vibration,maintenance briefing,B_A
+An increase in zoning proposal leads to more transit petition during community forum.,No,zoning proposal,transit petition,community forum,B_A
+An increase in backup failure leads to more incident review and an increase in credential leak leads to more incident review.,Yes,backup failure,credential leak,incident review,B_A
+An increase in scholarship change leads to more housing shortage during student forum.,No,scholarship change,housing shortage,student forum,B_A
+An increase in bell fail leads to more wait long and an increase in knock soft leads to more wait long.,Yes,bell fail,knock soft,wait long,B_A
+An increase in permit revision leads to more signage complaint during public forum.,No,permit revision,signage complaint,public forum,B_A
+An increase in server migration leads to more maintenance meeting and an increase in storage alert leads to more maintenance meeting.,Yes,server migration,storage alert,maintenance meeting,B_A
+An increase in weather radar leads to more runway repair during safety briefing.,No,weather radar,runway repair,safety briefing,B_A
+An increase in missing permit leads to more compliance seminar and an increase in scratched router leads to more compliance seminar.,Yes,missing permit,scratched router,compliance seminar,B_A
+An increase in unsigned report leads to more flickering monitor during quality briefing.,No,unsigned report,flickering monitor,quality briefing,B_A
+An increase in delayed invoice leads to more audit workshop and an increase in cracked window leads to more audit workshop.,Yes,delayed invoice,cracked window,audit workshop,B_A
+An increase in misfiled contract leads to more jammed printer during service review.,No,misfiled contract,jammed printer,service review,B_A
+An increase in duplicate agenda leads to more facilities forum and an increase in sagging ceiling leads to more facilities forum.,Yes,duplicate agenda,sagging ceiling,facilities forum,B_A
+An increase in rejected appeal leads to more muted speaker during support roundtable.,No,rejected appeal,muted speaker,support roundtable,B_A
+An increase in bell ring leads to more wake up and an increase in knock loud leads to more wake up.,Yes,bell ring,knock loud,wake up,B_A
+An increase in wrong roster leads to more blurred camera during security hearing.,No,wrong roster,blurred camera,security hearing,B_A
+An increase in expired ticket leads to more safety session and an increase in loose vent leads to more safety session.,Yes,expired ticket,loose vent,safety session,B_A
+An increase in unclear memo leads to more warped door during incident workshop.,No,unclear memo,warped door,incident workshop,B_A
+An increase in paper pile leads to more fire risk and an increase in candle lit leads to more fire risk.,Yes,paper pile,candle lit,fire risk,B_A
+An increase in late proposal leads to more moldy carpet during health briefing.,No,late proposal,moldy carpet,health briefing,B_A
+An increase in missing record leads to more facilities review and an increase in stuck latch leads to more facilities review.,Yes,missing record,stuck latch,facilities review,B_A
+An increase in unsigned schedule leads to more tangled router during policy roundtable.,No,unsigned schedule,tangled router,policy roundtable,B_A
+An increase in delayed contract leads to more community forum and an increase in chipped tile leads to more community forum.,Yes,delayed contract,chipped tile,community forum,B_A
+An increase in duplicate form leads to more overheated router during audit session.,No,duplicate form,overheated router,audit session,B_A
+An increase in wrong notice leads to more support workshop and an increase in frayed keyboard leads to more support workshop.,Yes,wrong notice,frayed keyboard,support workshop,B_A
+An increase in pending appeal leads to more damp window during safety inspection.,No,pending appeal,damp window,safety inspection,B_A
+An increase in rejected invoice leads to more quality forum and an increase in unstable sensor leads to more quality forum.,Yes,rejected invoice,unstable sensor,quality forum,B_A
+An increase in expired request leads to more frozen duct during repair briefing.,No,expired request,frozen duct,repair briefing,B_A
+An increase in budget allocation leads to more project outcome and an increase in staff training leads to more project outcome.,Yes,budget allocation,staff training,project outcome,B_A
+An increase in glue old leads to more tape weak during box open.,No,glue old,tape weak,box open,B_A
+An increase in misfiled agenda leads to more community meeting and an increase in warped floor leads to more community meeting.,Yes,misfiled agenda,warped floor,community meeting,B_A
+An increase in lost contract leads to more muted microphone during network forum.,No,lost contract,muted microphone,network forum,B_A
+An increase in conflicting report leads to more compliance roundtable and an increase in loose window leads to more compliance roundtable.,Yes,conflicting report,loose window,compliance roundtable,B_A
+An increase in regulation memo leads to more engine recall during training module.,No,regulation memo,engine recall,training module,B_A
+An increase in warehouse lock leads to more order reschedule and an increase in spec update leads to more order reschedule.,Yes,warehouse lock,spec update,order reschedule,B_A
+An increase in repair budget leads to more seat damage during repair request.,No,repair budget,seat damage,repair request,B_A
+An increase in citizen petition leads to more council workshop and an increase in funding revision leads to more council workshop.,Yes,citizen petition,funding revision,council workshop,B_A
+An increase in policy notice leads to more machine jam during inspection round.,No,policy notice,machine jam,inspection round,B_A
+An increase in badge rollout leads to more access training and an increase in privacy rule leads to more access training.,Yes,badge rollout,privacy rule,access training,B_A
+An increase in service contract leads to more supply recall during service campaign.,No,service contract,supply recall,service campaign,B_A
+An increase in mail bounce leads to more correction filing and an increase in form mistake leads to more correction filing.,Yes,mail bounce,form mistake,correction filing,B_A
+An increase in storm forecast leads to more taxiway repair during flight reroute.,No,storm forecast,taxiway repair,flight reroute,B_A
+An increase in staff influx leads to more onboarding class and an increase in platform upgrade leads to more onboarding class.,Yes,staff influx,platform upgrade,onboarding class,B_A
+An increase in supply embargo leads to more lab relocation during project standby.,No,supply embargo,lab relocation,project standby,B_A
+An increase in street blockade leads to more commute scramble and an increase in tram strike leads to more commute scramble.,Yes,street blockade,tram strike,commute scramble,B_A
+An increase in sun burn leads to more wasp sting during skin hurt.,No,sun burn,wasp sting,skin hurt,B_A
+An increase in chef absence leads to more kitchen briefing and an increase in allergen report leads to more kitchen briefing.,Yes,chef absence,allergen report,kitchen briefing,B_A
+An increase in liability waiver leads to more ladder wobble during safety clinic.,No,liability waiver,ladder wobble,safety clinic,B_A
+An increase in storage limit leads to more inventory reorder and an increase in price change leads to more inventory reorder.,Yes,storage limit,price change,inventory reorder,B_A
+An increase in safety decree leads to more union contract during policy clinic.,No,safety decree,union contract,policy clinic,B_A
+An increase in holiday deadline leads to more deadline extension and an increase in tool outage leads to more deadline extension.,Yes,holiday deadline,tool outage,deadline extension,B_A
+An increase in account merger leads to more credential reset during account review.,No,account merger,credential reset,account review,B_A
+An increase in regulator letter leads to more repair approval and an increase in insurance claim leads to more repair approval.,Yes,regulator letter,insurance claim,repair approval,B_A
+An increase in transmission fault leads to more power demand during grid curtailment.,No,transmission fault,power demand,grid curtailment,B_A
+An increase in equipment tow leads to more gate reassignment and an increase in crew request leads to more gate reassignment.,Yes,equipment tow,crew request,gate reassignment,B_A
+An increase in code update leads to more alarm test during building inspection.,No,code update,alarm test,building inspection,B_A
+An increase in zoning notice leads to more permit hearing and an increase in pavement repair leads to more permit hearing.,Yes,zoning notice,pavement repair,permit hearing,B_A
+An increase in quota limit leads to more quality complaint during supplier huddle.,No,quota limit,quality complaint,supplier huddle,B_A
+Will the increase of sun heat cause tax law and the increase of sweat drop cause tax law?,No,sun heat,sweat drop,tax law,O_D
+Will the increase of study practice cause test scores during parking hours?,Yes,study practice,test scores,parking hours,O_D
+Will the increase of exercise routine cause library closing and the increase of stamina gain cause library closing?,No,exercise routine,stamina gain,library closing,O_D
+Will the increase of press key cause screen type during exam test?,Yes,press key,screen type,exam test,O_D
+Will the increase of piano practice cause printer window and the increase of finger agility cause printer window?,No,piano practice,finger agility,printer window,O_D
+Will the increase of reading habit cause vocab growth during cafeteria hours?,Yes,reading habit,vocab growth,cafeteria hours,O_D
+Will the increase of stretching routine cause shuttle hours and the increase of flexibility gain cause shuttle hours?,No,stretching routine,flexibility gain,shuttle hours,O_D
+Will the increase of budget tracking cause spending awareness during office hours?,Yes,budget tracking,spending awareness,office hours,O_D
+Will the increase of code review cause clinic hours and the increase of bug reduction cause clinic hours?,No,code review,bug reduction,clinic hours,O_D
+Will the increase of sunscreen use cause skin protection during museum hours?,Yes,sunscreen use,skin protection,museum hours,O_D
+Will the increase of rain fall cause stock price and the increase of grass grow cause stock price?,No,rain fall,grass grow,stock price,O_D
+Will the increase of snow fall cause ski speed during book sale?,Yes,snow fall,ski speed,book sale,O_D
+Will the increase of dust exposure cause evening shift and the increase of eye itching cause evening shift?,No,dust exposure,eye itching,evening shift,O_D
+Will the increase of pollen count cause sneezing fits during morning shift?,Yes,pollen count,sneezing fits,morning shift,O_D
+Will the increase of spin top cause play time and the increase of toy turn cause play time?,No,spin top,toy turn,play time,O_D
+Will the increase of spicy meal cause stomach burn during exam week?,Yes,spicy meal,stomach burn,exam week,O_D
+Will the increase of joke tell cause floor wax and the increase of laugh loud cause floor wax?,No,joke tell,laugh loud,floor wax,O_D
+Will the increase of poor posture cause neck strain during repair window?,Yes,poor posture,neck strain,repair window,O_D
+Will the increase of missed meals cause maintenance day and the increase of sugar crash cause maintenance day?,No,missed meals,sugar crash,maintenance day,O_D
+Will the increase of weak battery cause screen dimming during audit period?,Yes,weak battery,screen dimming,audit period,O_D
+Will the increase of caffeine consumption cause fire drill and the increase of energy level cause fire drill?,No,caffeine consumption,energy level,fire drill,O_D
+Will the increase of cracked screen cause touch failure during pickup hours?,Yes,cracked screen,touch failure,pickup hours,O_D
+Will the increase of frayed cable cause cleaning day and the increase of charger failure cause cleaning day?,No,frayed cable,charger failure,cleaning day,O_D
+Will the increase of cut finger cause bleed red during cloud drift?,Yes,cut finger,bleed red,cloud drift,O_D
+Will the increase of broken zipper cause training session and the increase of jacket tear cause training session?,No,broken zipper,jacket tear,training session,O_D
+Will the increase of dirty filter cause airflow drop during lab meeting?,Yes,dirty filter,airflow drop,lab meeting,O_D
+Will the increase of loose screw cause bus layover and the increase of panel rattle cause bus layover?,No,loose screw,panel rattle,bus layover,O_D
+Will the increase of faulty sensor cause false alarm during gate boarding?,Yes,faulty sensor,false alarm,gate boarding,O_D
+Will the increase of broken belt cause ticket window and the increase of machine noise cause ticket window?,No,broken belt,machine noise,ticket window,O_D
+Will the increase of clogged drain cause water backup during service window?,Yes,clogged drain,water backup,service window,O_D
+Will the increase of stale milk cause hotline hours and the increase of stomach upset cause hotline hours?,No,stale milk,stomach upset,hotline hours,O_D
+Will the increase of smoke exposure cause coughing fits during campus tour?,Yes,smoke exposure,coughing fits,campus tour,O_D
+Will the increase of salt intake cause chess match and the increase of high thirst cause chess match?,No,salt intake,high thirst,chess match,O_D
+Will the increase of eat cake cause weight gain during mars orbit?,Yes,eat cake,weight gain,mars orbit,O_D
+Will the increase of salt intake cause router reboot and the increase of thirst increase cause router reboot?,No,salt intake,thirst increase,router reboot,O_D
+Will the increase of water intake cause hydration level during hallway repaint?,Yes,water intake,hydration level,hallway repaint,O_D
+Will the increase of heavy lifting cause ceiling repair and the increase of muscle soreness cause ceiling repair?,No,heavy lifting,muscle soreness,ceiling repair,O_D
+Will the increase of alcohol intake cause coordination loss during power outage?,Yes,alcohol intake,coordination loss,power outage,O_D
+Will the increase of long sitting cause store hours and the increase of leg stiffness cause store hours?,No,long sitting,leg stiffness,store hours,O_D
+Will the increase of screen glare cause eye strain during road resurfacing?,Yes,screen glare,eye strain,road resurfacing,O_D
+Will the increase of bright lights cause sidewalk repair and the increase of headache onset cause sidewalk repair?,No,bright lights,headache onset,sidewalk repair,O_D
+Will the increase of cold virus cause cough symptoms during pipeline inspection?,Yes,cold virus,cough symptoms,pipeline inspection,O_D
+Will the increase of iron deficiency cause antenna alignment and the increase of fatigue symptoms cause antenna alignment?,No,iron deficiency,fatigue symptoms,antenna alignment,O_D
+Will the increase of cardio training cause heart endurance during software rollout?,Yes,cardio training,heart endurance,software rollout,O_D
+Will the increase of meditation habit cause policy briefing and the increase of anxiety reduction cause policy briefing?,No,meditation habit,anxiety reduction,policy briefing,O_D
+Will the increase of practice drills cause skill improvement during schedule posting?,Yes,practice drills,skill improvement,schedule posting,O_D
+Will the increase of language practice cause badge renewal and the increase of speaking confidence cause badge renewal?,No,language practice,speaking confidence,badge renewal,O_D
+Will the increase of meal planning cause diet consistency during badge printing?,Yes,meal planning,diet consistency,badge printing,O_D
+Will the increase of breathing practice cause key exchange and the increase of stress relief cause key exchange?,No,breathing practice,stress relief,key exchange,O_D
+Will the increase of journaling habit cause self awareness during room inspection?,Yes,journaling habit,self awareness,room inspection,O_D
+Will the increase of coffee intake cause printer outage and the increase of sleep delay cause printer outage?,No,coffee intake,sleep delay,printer outage,O_D
+Will the increase of router reboot cause session reset during lunch break?,Yes,router reboot,session reset,lunch break,O_D
+Will the increase of spicy meal cause audit meeting and the increase of stomach ache cause audit meeting?,No,spicy meal,stomach ache,audit meeting,O_D
+Will the increase of lamp glare cause eye redness during server downtime?,Yes,lamp glare,eye redness,server downtime,O_D
+Will the increase of run fast cause tea price and the increase of heart beat cause tea price?,No,run fast,heart beat,tea price,O_D
+Will the increase of exercise volume cause endorphin release during lunch break?,Yes,exercise volume,endorphin release,lunch break,O_D
+Will the increase of summer heat cause tax law and the increase of ice consumption cause tax law?,No,summer heat,ice consumption,tax law,O_D
+Will the increase of rain storm cause traffic jam during badge pickup?,Yes,rain storm,traffic jam,badge pickup,O_D
+Will the increase of monitor flicker cause signal blackout and the increase of eye strain cause signal blackout?,No,monitor flicker,eye strain,signal blackout,O_D
+Will the increase of oil leak cause engine smoke during budget review?,Yes,oil leak,engine smoke,budget review,O_D
+Will the increase of piano practice cause train delay and the increase of finger agility cause train delay?,No,piano practice,finger agility,train delay,O_D
+Will the increase of study practice cause score increase during elevator outage?,Yes,study practice,score increase,elevator outage,O_D
+Will the increase of stretching routine cause committee meeting and the increase of flexibility gain cause committee meeting?,No,stretching routine,flexibility gain,committee meeting,O_D
+Will the increase of fire burn cause wood ash during fish swim?,Yes,fire burn,wood ash,fish swim,O_D
+Will the increase of road salt cause project kickoff and the increase of rust spots cause project kickoff?,No,road salt,rust spots,project kickoff,O_D
+Will the increase of cache flush cause memory release during weekend window?,Yes,cache flush,memory release,weekend window,O_D
+Will the increase of tight boots cause museum closure and the increase of heel blisters cause museum closure?,No,tight boots,heel blisters,museum closure,O_D
+Will the increase of cold virus cause cough symptoms during road shutdown?,Yes,cold virus,cough symptoms,road shutdown,O_D
+Will the increase of firmware update cause lunch meeting and the increase of device restart cause lunch meeting?,No,firmware update,device restart,lunch meeting,O_D
+Will the increase of bug report cause ticket creation during power blackout?,Yes,bug report,ticket creation,power blackout,O_D
+Will the increase of quiet breathing cause airport delay and the increase of stress drop cause airport delay?,No,quiet breathing,stress drop,airport delay,O_D
+Will the increase of fast driving cause brake heating during inventory check?,Yes,fast driving,brake heating,inventory check,O_D
+Will the increase of poor posture cause show postponement and the increase of neck strain cause show postponement?,No,poor posture,neck strain,show postponement,O_D
+Will the increase of light match cause fire start during camp night?,Yes,light match,fire start,camp night,O_D
+Will the increase of turn page cause rain drop and the increase of story read cause rain drop?,No,turn page,story read,rain drop,O_D
+Will the increase of tea brewing cause alertness lift during museum visit?,Yes,tea brewing,alertness lift,museum visit,O_D
+Will the increase of software install cause lunch hour and the increase of system reboot cause lunch hour?,No,software install,system reboot,lunch hour,O_D
+Will the increase of dust inhalation cause sneeze burst during parking hours?,Yes,dust inhalation,sneeze burst,parking hours,O_D
+Will the increase of workout session cause website outage and the increase of stamina gain cause website outage?,No,workout session,stamina gain,website outage,O_D
+Will the increase of router reset cause connection restore during staff picnic?,Yes,router reset,connection restore,staff picnic,O_D
+Will the increase of chili eating cause archive day and the increase of mouth tingling cause archive day?,No,chili eating,mouth tingling,archive day,O_D
+Will the increase of stress exposure cause cortisol production during staff meeting?,Yes,stress exposure,cortisol production,staff meeting,O_D
+Will the increase of salt reduction cause policy workshop and the increase of pressure drop cause policy workshop?,No,salt reduction,pressure drop,policy workshop,O_D
+Will the increase of oil refill cause engine smoothness during campus tour?,Yes,oil refill,engine smoothness,campus tour,O_D
+Will the increase of guitar practice cause network outage and the increase of chord accuracy cause network outage?,No,guitar practice,chord accuracy,network outage,O_D
+Will the increase of cold exposure cause shiver onset during calendar audit?,Yes,cold exposure,shiver onset,calendar audit,O_D
+Will the increase of driver update cause book club and the increase of display flicker cause book club?,No,driver update,display flicker,book club,O_D
+Will the increase of sugar intake cause energy surge during mail outage?,Yes,sugar intake,energy surge,mail outage,O_D
+Will the increase of breathing exercise cause ticket line and the increase of stress relief cause ticket line?,No,breathing exercise,stress relief,ticket line,O_D
+Will the increase of language study cause vocabulary growth during repair pause?,Yes,language study,vocabulary growth,repair pause,O_D
+Will the increase of tea sipping cause storm delay and the increase of calm focus cause storm delay?,No,tea sipping,calm focus,storm delay,O_D
+Will the increase of app reinstall cause crash removal during garden party?,Yes,app reinstall,crash removal,garden party,O_D
+Will the increase of helmet fitting cause parking audit and the increase of comfort increase cause parking audit?,No,helmet fitting,comfort increase,parking audit,O_D
+Will the increase of lens cleaning cause photo clarity during server pause?,Yes,lens cleaning,photo clarity,server pause,O_D
+Will the increase of noise exposure cause lobby concert and the increase of hearing fatigue cause lobby concert?,No,noise exposure,hearing fatigue,lobby concert,O_D
+Will the increase of firewall update cause port reopen during movie night?,Yes,firewall update,port reopen,movie night,O_D
+Will the increase of seat adjustment cause service outage and the increase of posture comfort cause service outage?,No,seat adjustment,posture comfort,service outage,O_D
+Will the increase of high altitude cause ear popping during office party?,Yes,high altitude,ear popping,office party,O_D
+Will the increase of cold shower cause checkout outage and the increase of alertness boost cause checkout outage?,No,cold shower,alertness boost,checkout outage,O_D
+Will the increase of kick door cause wood crack during police raid?,Yes,kick door,wood crack,police raid,O_D
+Will the increase of cat dander cause budget review and the increase of nose sneezing cause budget review?,No,cat dander,nose sneezing,budget review,O_D
+Will the increase of blue light cause eye fatigue during parking window?,Yes,blue light,eye fatigue,parking window,O_D
+Will the increase of tight waistband cause museum raffle and the increase of stomach pressure cause museum raffle?,No,tight waistband,stomach pressure,museum raffle,O_D
+Will the increase of bake dough cause bread rise during bus stop?,Yes,bake dough,bread rise,bus stop,O_D
+Will the increase of dry heater cause lecture break and the increase of lip chapping cause lecture break?,No,dry heater,lip chapping,lecture break,O_D
+Will the increase of bad cable cause signal loss during garden walk?,Yes,bad cable,signal loss,garden walk,O_D
+Will the increase of steep hiking cause lunch period and the increase of knee ache cause lunch period?,No,steep hiking,knee ache,lunch period,O_D
+Will the increase of bright headlights cause eye squinting during pantry audit?,Yes,bright headlights,eye squinting,pantry audit,O_D
+Will the increase of cut wood cause shoe tie and the increase of log split cause shoe tie?,No,cut wood,log split,shoe tie,O_D
+Will the increase of new detergent cause skin redness during gallery opening?,Yes,new detergent,skin redness,gallery opening,O_D
+Will the increase of energy gel cause ticket check and the increase of heart pounding cause ticket check?,No,energy gel,heart pounding,ticket check,O_D
+Will the increase of phone scrolling cause thumb soreness during office cleanup?,Yes,phone scrolling,thumb soreness,office cleanup,O_D
+Will the increase of pull rope cause church mass and the increase of bell ring cause church mass?,No,pull rope,bell ring,church mass,O_D
+Will the increase of cold dessert cause tooth twinge during power outage?,Yes,cold dessert,tooth twinge,power outage,O_D
+Will the increase of hot sauna cause weather delay and the increase of dizziness onset cause weather delay?,No,hot sauna,dizziness onset,weather delay,O_D
+Will the increase of tight tie cause neck discomfort during elevator inspection?,Yes,tight tie,neck discomfort,elevator inspection,O_D
+Will the increase of stale fish cause payroll review and the increase of nausea onset cause payroll review?,No,stale fish,nausea onset,payroll review,O_D
+Will the increase of glue fumes cause head spinning during road closure?,Yes,glue fumes,head spinning,road closure,O_D
+Will the increase of long standing cause service outage and the increase of foot swelling cause service outage?,No,long standing,foot swelling,service outage,O_D
+Will the increase of late transit cause mood irritation during library closing?,Yes,late transit,mood irritation,library closing,O_D
+Will the increase of sticky keys cause campus blackout and the increase of typing errors cause campus blackout?,No,sticky keys,typing errors,campus blackout,O_D
+Will the increase of weak signal cause call dropping during flight delay?,Yes,weak signal,call dropping,flight delay,O_D
+Will the increase of sun exposure cause mail sorting and the increase of skin tanning cause mail sorting?,No,sun exposure,skin tanning,mail sorting,O_D
+Will the increase of rough gravel cause shoe scuffing during transit detour?,Yes,rough gravel,shoe scuffing,transit detour,O_D
+Will the increase of warm soup cause fire drill and the increase of throat soothing cause fire drill?,No,warm soup,throat soothing,fire drill,O_D
+Will the increase of sun dazzle cause squint reflex during badge update?,Yes,sun dazzle,squint reflex,badge update,O_D
+Will the increase of stale air cause chair cleaning and the increase of cough fit cause chair cleaning?,No,stale air,cough fit,chair cleaning,O_D
+Will the increase of pepper fumes cause throat sting during paper audit?,Yes,pepper fumes,throat sting,paper audit,O_D
+Will the increase of tight corset cause garage sweep and the increase of rib pressure cause garage sweep?,No,tight corset,rib pressure,garage sweep,O_D
+Will the increase of loud bang cause flinch reflex during printer reboot?,Yes,loud bang,flinch reflex,printer reboot,O_D
+Will the increase of warm soda cause shift signup and the increase of burp increase cause shift signup?,No,warm soda,burp increase,shift signup,O_D
+Will the increase of damp socks cause foot chills during coffee break?,Yes,damp socks,foot chills,coffee break,O_D
+Will the increase of sew cloth cause cloud move and the increase of dress form cause cloud move?,No,sew cloth,dress form,cloud move,O_D
+Will the increase of motion sickness cause nausea surge during desk audit?,Yes,motion sickness,nausea surge,desk audit,O_D
+Will the increase of dry wind cause training slot and the increase of eye grit cause training slot?,No,dry wind,eye grit,training slot,O_D
+Will the increase of comb hair cause neat look during tea cup?,Yes,comb hair,neat look,tea cup,O_D
+Will the increase of strong perfume cause meeting rollout and the increase of migraine flare cause meeting rollout?,No,strong perfume,migraine flare,meeting rollout,O_D
+Will the increase of nicotine delivery cause heart acceleration during coffee break?,Yes,nicotine delivery,heart acceleration,coffee break,O_D
+Will the increase of wash dish cause night fall and the increase of plate clean cause night fall?,No,wash dish,plate clean,night fall,O_D
+Will the increase of harsh shampoo cause scalp itch during budget sync?,Yes,harsh shampoo,scalp itch,budget sync,O_D
+Will the increase of old contacts cause team workshop and the increase of vision haze cause team workshop?,No,old contacts,vision haze,team workshop,O_D
+Will the increase of tight grip cause wrist ache during supply check?,Yes,tight grip,wrist ache,supply check,O_D
+Will the increase of wind blow cause hair cut and the increase of leaf fall cause hair cut?,No,wind blow,leaf fall,hair cut,O_D
+Will the increase of metal fatigue cause spring snap during fire rehearsal?,Yes,metal fatigue,spring snap,fire rehearsal,O_D
+Will the increase of dirty lens cause system maintenance and the increase of photo blur cause system maintenance?,No,dirty lens,photo blur,system maintenance,O_D
+Will the increase of loose hinge cause door squeak during mail delivery?,Yes,loose hinge,door squeak,mail delivery,O_D
+Will the increase of wet floor cause menu update and the increase of slip risk cause menu update?,No,wet floor,slip risk,menu update,O_D
+Will the increase of broken seal cause leak seep during invoice review?,Yes,broken seal,leak seep,invoice review,O_D
+Will the increase of new tattoo cause visitor tour and the increase of skin swelling cause visitor tour?,No,new tattoo,skin swelling,visitor tour,O_D
+Will the increase of eat salt cause thirst rise during desert hike?,Yes,eat salt,thirst rise,desert hike,O_D
+Will the increase of worn cable cause audit huddle and the increase of ear buzzing cause audit huddle?,No,worn cable,ear buzzing,audit huddle,O_D
+Will the increase of engine vibration cause nasal congestion during vendor workshop?,Yes,engine vibration,nasal congestion,vendor workshop,O_D
+Will the increase of old perfume cause staff checkin and the increase of hand shaking cause staff checkin?,No,old perfume,hand shaking,staff checkin,O_D
+Will the increase of paper dust cause lip dryness during weekly roundup?,Yes,paper dust,lip dryness,weekly roundup,O_D
+Will the increase of sugar ingestion cause recess period and the increase of insulin secretion cause recess period?,No,sugar ingestion,insulin secretion,recess period,O_D
+Will the increase of bright lamp cause vision blur during team checkin?,Yes,bright lamp,vision blur,team checkin,O_D
+Will the increase of dog bark cause pen ink and the increase of cat run cause pen ink?,No,dog bark,cat run,pen ink,O_D
+Will the increase of ball hit cause glass break during song play?,Yes,ball hit,glass break,song play,O_D
+Will the increase of lamp on cause ant hill and the increase of room bright cause ant hill?,No,lamp on,room bright,ant hill,O_D
+Will the increase of heat lamp cause skin tingling during handoff meeting?,Yes,heat lamp,skin tingling,handoff meeting,O_D
+Will the increase of loose buckle cause monthly checkin and the increase of finger numbness cause monthly checkin?,No,loose buckle,finger numbness,monthly checkin,O_D
+Will the increase of warm blanket cause sleepiness rise during morning checkin?,Yes,warm blanket,sleepiness rise,morning checkin,O_D
+Will the increase of short sleep cause process review and the increase of focus drift cause process review?,No,short sleep,focus drift,process review,O_D
+Will the increase of fertilizer dosage cause biomass accumulation during system maintenance?,Yes,fertilizer dosage,biomass accumulation,system maintenance,O_D
+Will the increase of wet pavement cause budget huddle and the increase of ankle soreness cause budget huddle?,No,wet pavement,ankle soreness,budget huddle,O_D
+Will the increase of wear hat cause head warm during ski trip?,Yes,wear hat,head warm,ski trip,O_D
+Will the increase of fresh paint cause safety huddle and the increase of eye burning cause safety huddle?,No,fresh paint,eye burning,safety huddle,O_D
+Will the increase of soapy residue cause skin rash during training huddle?,Yes,soapy residue,skin rash,training huddle,O_D
+Will the increase of heavy coat cause access review and the increase of shoulder tension cause access review?,No,heavy coat,shoulder tension,access review,O_D
+Will the increase of car wash cause shine bright during war news?,Yes,car wash,shine bright,war news,O_D
+Will the increase of humid air cause weekly checkin and the increase of sinus ache cause weekly checkin?,No,humid air,sinus ache,weekly checkin,O_D
+Will the increase of greasy pizza cause chest tightness during topic briefing?,Yes,greasy pizza,chest tightness,topic briefing,O_D
+Will the increase of cold wind cause afternoon briefing and the increase of head dizziness cause afternoon briefing?,No,cold wind,head dizziness,afternoon briefing,O_D
+Will the increase of rough seams cause toe numbness during staff luncheon?,Yes,rough seams,toe numbness,staff luncheon,O_D
+Will the increase of smoke odor cause shift handoff and the increase of ear pressure cause shift handoff?,No,smoke odor,ear pressure,shift handoff,O_D
+Will the increase of caffeine tablets cause heart racing during lunch break?,Yes,caffeine tablets,heart racing,lunch break,O_D
+Will the increase of dust inhalation cause night shift and the increase of throat itching cause night shift?,No,dust inhalation,throat itching,night shift,O_D
+Will the increase of book read cause mind grow during cup shape?,Yes,book read,mind grow,cup shape,O_D
+Will the increase of tight helmet cause weekend window and the increase of head pressure cause weekend window?,No,tight helmet,head pressure,weekend window,O_D
+Will the increase of bright sunlight cause eye squint during noon picnic?,Yes,bright sunlight,eye squint,noon picnic,O_D
+Will the increase of perfume mist cause library hours and the increase of allergy flare cause library hours?,No,perfume mist,allergy flare,library hours,O_D
+Will the increase of rough fabric cause skin rash during parking window?,Yes,rough fabric,skin rash,parking window,O_D
+Will the increase of stale seafood cause holiday weekend and the increase of stomach nausea cause holiday weekend?,No,stale seafood,stomach nausea,holiday weekend,O_D
+Will the increase of late caffeine cause sleep delay during evening shift?,Yes,late caffeine,sleep delay,evening shift,O_D
+Will the increase of code refactor cause training day and the increase of build failure cause training day?,No,code refactor,build failure,training day,O_D
+Will the increase of driver update cause audio crackle during audit day?,Yes,driver update,audio crackle,audit day,O_D
+Will the increase of battery drain cause review week and the increase of screen dimming cause review week?,No,battery drain,screen dimming,review week,O_D
+Will the increase of oil shortage cause engine sputter during pickup window?,Yes,oil shortage,engine sputter,pickup window,O_D
+Will the increase of mold spores cause summer session and the increase of nose congestion cause summer session?,No,mold spores,nose congestion,summer session,O_D
+Will the increase of bright sunlight cause squinting reflex during morning shift?,Yes,bright sunlight,squinting reflex,morning shift,O_D
+Will the increase of heavy backpack cause meeting slot and the increase of shoulder ache cause meeting slot?,No,heavy backpack,shoulder ache,meeting slot,O_D
+Will the increase of lock gate cause home safe during fish swim?,Yes,lock gate,home safe,fish swim,O_D
+Will the increase of fast scrolling cause orientation week and the increase of focus drop cause orientation week?,No,fast scrolling,focus drop,orientation week,O_D
+Will the increase of study duration cause memory consolidation during network failure?,Yes,study duration,memory consolidation,network failure,O_D
+Will the increase of sleep debt cause school recess and the increase of morning fatigue cause school recess?,No,sleep debt,morning fatigue,school recess,O_D
+Will the increase of sugar binge cause energy crash during clinic hours?,Yes,sugar binge,energy crash,clinic hours,O_D
+Will the increase of turn knob cause dance party and the increase of volume up cause dance party?,No,turn knob,volume up,dance party,O_D
+Will the increase of tight boots cause heel blisters during study period?,Yes,tight boots,heel blisters,study period,O_D
+Will the increase of hot shower cause payday cycle and the increase of skin dryness cause payday cycle?,No,hot shower,skin dryness,payday cycle,O_D
+Will the increase of keyboard smash cause finger soreness during maintenance day?,Yes,keyboard smash,finger soreness,maintenance day,O_D
+Will the increase of static antenna cause museum tour and the increase of signal jitter cause museum tour?,No,static antenna,signal jitter,museum tour,O_D
+Will the increase of faulty router cause packet lag during cloudy morning?,Yes,faulty router,packet lag,cloudy morning,O_D
+Will the increase of flashing screen cause autumn lecture and the increase of video flicker cause autumn lecture?,No,flashing screen,video flicker,autumn lecture,O_D
+Will the increase of humming speaker cause audio buzz during river stroll?,Yes,humming speaker,audio buzz,river stroll,O_D
+Will the increase of miswired socket cause sunny picnic and the increase of voltage surge cause sunny picnic?,No,miswired socket,voltage surge,sunny picnic,O_D
+Will the increase of unstable sensor cause tracking drift during garden seminar?,Yes,unstable sensor,tracking drift,garden seminar,O_D
+Will the increase of erratic camera cause winter parade and the increase of focus blur cause winter parade?,No,erratic camera,focus blur,winter parade,O_D
+Will the increase of noisy microphone cause audio whine during local meeting?,Yes,noisy microphone,audio whine,local meeting,O_D
+Will the increase of weak terminal cause foggy evening and the increase of current ripple cause foggy evening?,No,weak terminal,current ripple,foggy evening,O_D
+Will the increase of sporadic duct cause thermal lag during weekend break?,Yes,sporadic duct,thermal lag,weekend break,O_D
+Will the increase of unstable valve cause campus festival and the increase of pressure wobble cause campus festival?,No,unstable valve,pressure wobble,campus festival,O_D
+Will the increase of static pump cause pressure ripple during busy afternoon?,Yes,static pump,pressure ripple,busy afternoon,O_D
+Will the increase of drifting lens cause online class and the increase of focus jitter cause online class?,No,drifting lens,focus jitter,online class,O_D
+Will the increase of intermittent antenna cause signal stutter during city walk?,Yes,intermittent antenna,signal stutter,city walk,O_D
+Will the increase of buzzing monitor cause spring rehearsal and the increase of frame stutter cause spring rehearsal?,No,buzzing monitor,frame stutter,spring rehearsal,O_D
+Will the increase of silent router cause packet jitter during rainy session?,Yes,silent router,packet jitter,rainy session,O_D
+Will the increase of static connector cause mountain tour and the increase of signal smear cause mountain tour?,No,static connector,signal smear,mountain tour,O_D
+Will the increase of flashing terminal cause voltage flicker during public lecture?,Yes,flashing terminal,voltage flicker,public lecture,O_D
+Will the increase of unstable pump cause summer night and the increase of pressure flutter cause summer night?,No,unstable pump,pressure flutter,summer night,O_D
+Will the increase of weak speaker cause audio hum during quiet weekend?,Yes,weak speaker,audio hum,quiet weekend,O_D
+Will the increase of erratic socket cause cloudy shift and the increase of current surge cause cloudy shift?,No,erratic socket,current surge,cloudy shift,O_D
+Will the increase of intermittent sensor cause alignment jitter during museum visit?,Yes,intermittent sensor,alignment jitter,museum visit,O_D
+Will the increase of noisy screen cause city parade and the increase of video stutter cause city parade?,No,noisy screen,video stutter,city parade,O_D
+Will the increase of humming antenna cause signal surge during garden tour?,Yes,humming antenna,signal surge,garden tour,O_D
+Will the increase of sporadic router cause winter morning and the increase of packet blur cause winter morning?,No,sporadic router,packet blur,winter morning,O_D
+Will the increase of training frequency cause strength gain during surprise inspection?,Yes,training frequency,strength gain,surprise inspection,O_D
+Will the increase of neon shimmer cause comet passage and the increase of eye flutter cause comet passage?,No,neon shimmer,eye flutter,comet passage,O_D
+Will the increase of glacier water cause tooth zing during harbor dawn?,Yes,glacier water,tooth zing,harbor dawn,O_D
+Will the increase of linen collar cause orchard dusk and the increase of neck prickle cause orchard dusk?,No,linen collar,neck prickle,orchard dusk,O_D
+Will the increase of sunlight hours cause melanin production during building lockdown?,Yes,sunlight hours,melanin production,building lockdown,O_D
+Will the increase of soaked socks cause theater night and the increase of foot chill cause theater night?,No,soaked socks,foot chill,theater night,O_D
+Will the increase of thunder clap cause startle jolt during garden brunch?,Yes,thunder clap,startle jolt,garden brunch,O_D
+Will the increase of chili broth cause winter pageant and the increase of mouth sweat cause winter pageant?,No,chili broth,mouth sweat,winter pageant,O_D
+Will the increase of fresh varnish cause nose sting during summer bonfire?,Yes,fresh varnish,nose sting,summer bonfire,O_D
+Will the increase of firm mattress cause valley sunset and the increase of back twinge cause valley sunset?,No,firm mattress,back twinge,valley sunset,O_D
+Will the increase of long kneeling cause leg numbness during mountain sunrise?,Yes,long kneeling,leg numbness,mountain sunrise,O_D
+Will the increase of push switch cause dog sleep and the increase of light on cause dog sleep?,No,push switch,light on,dog sleep,O_D
+Will the increase of spicy dip cause tongue burn during fireworks night?,Yes,spicy dip,tongue burn,fireworks night,O_D
+Will the increase of musky perfume cause sunset ferry and the increase of head swirl cause sunset ferry?,No,musky perfume,head swirl,sunset ferry,O_D
+Will the increase of strobe burst cause pupil shrink during moonlit stroll?,Yes,strobe burst,pupil shrink,moonlit stroll,O_D
+Will the increase of stale espresso cause parade afternoon and the increase of stomach lurch cause parade afternoon?,No,stale espresso,stomach lurch,parade afternoon,O_D
+Will the increase of climb hill cause view far during phone ring?,Yes,climb hill,view far,phone ring,O_D
+Will the increase of sharp garlic cause carnival evening and the increase of eye water cause carnival evening?,No,sharp garlic,eye water,carnival evening,O_D
+Will the increase of sweet donut cause energy rush during market afternoon?,Yes,sweet donut,energy rush,market afternoon,O_D
+Will the increase of smoky incense cause opera night and the increase of cough spell cause opera night?,No,smoky incense,cough spell,opera night,O_D
+Will the increase of cold plunge cause breath gasp during rainy evening?,Yes,cold plunge,breath gasp,rainy evening,O_D
+Will the increase of plant rose cause book read and the increase of yard nice cause book read?,No,plant rose,yard nice,book read,O_D
+Will the increase of dig hole cause dirt pile during song sing?,Yes,dig hole,dirt pile,song sing,O_D
+Will the increase of steamy sauna cause desert twilight and the increase of sweat drip cause desert twilight?,No,steamy sauna,sweat drip,desert twilight,O_D
+Will the increase of screen sparkle cause blink surge during quiet morning?,Yes,screen sparkle,blink surge,quiet morning,O_D
+An increase in sun glare leads to more printer window and an increase in vision strain leads to more printer window.,No,sun glare,vision strain,printer window,O_A
+An increase in lift weight leads to more muscle big during sky blue.,Yes,lift weight,muscle big,sky blue,O_A
+An increase in loud music leads to more library closing and an increase in sleep disruption leads to more library closing.,No,loud music,sleep disruption,library closing,O_A
+An increase in drink water leads to more thirst gone during cat nap.,Yes,drink water,thirst gone,cat nap,O_A
+An increase in late caffeine leads to more fire drill and an increase in heart racing leads to more fire drill.,No,late caffeine,heart racing,fire drill,O_A
+An increase in tight helmet leads to more head pressure during cafeteria hours.,Yes,tight helmet,head pressure,cafeteria hours,O_A
+An increase in dry shampoo leads to more shuttle hours and an increase in scalp itching leads to more shuttle hours.,No,dry shampoo,scalp itching,shuttle hours,O_A
+An increase in read book leads to more smart mind during quiet hour.,Yes,read book,smart mind,quiet hour,O_A
+An increase in clean room leads to more sun set and an increase in mom glad leads to more sun set.,No,clean room,mom glad,sun set,O_A
+An increase in config change leads to more cache reset during bus schedule.,Yes,config change,cache reset,bus schedule,O_A
+An increase in lamp flicker leads to more campus tour and an increase in headache onset leads to more campus tour.,No,lamp flicker,headache onset,campus tour,O_A
+An increase in spice overload leads to more mouth burning during badge renewal.,Yes,spice overload,mouth burning,badge renewal,O_A
+An increase in heavy backpack leads to more desk cleanup and an increase in shoulder ache leads to more desk cleanup.,No,heavy backpack,shoulder ache,desk cleanup,O_A
+An increase in eat fruit leads to more health boost during summer break.,Yes,eat fruit,health boost,summer break,O_A
+An increase in temperature rise leads to more material lengthening and an increase in expansion rate leads to more material lengthening.,No,temperature rise,material lengthening,fire drill,O_A
+An increase in tell joke leads to more friend laugh during road trip.,Yes,tell joke,friend laugh,road trip,O_A
+An increase in oil spill leads to more printer window and an increase in engine smoke leads to more printer window.,No,oil spill,engine smoke,printer window,O_A
+An increase in metal scratch leads to more paint peel during bridge inspection.,Yes,metal scratch,paint peel,bridge inspection,O_A
+An increase in dust exposure leads to more garden festival and an increase in cough symptoms leads to more garden festival.,No,dust exposure,cough symptoms,garden festival,O_A
+An increase in late bedtime leads to more daytime drowsiness during maintenance window.,Yes,late bedtime,daytime drowsiness,maintenance window,O_A
+An increase in tight shoes leads to more training session and an increase in toe blisters leads to more training session.,No,tight shoes,toe blisters,training session,O_A
+An increase in plant tree leads to more shade grow during spring thaw.,Yes,plant tree,shade grow,spring thaw,O_A
+An increase in short temper leads to more server outage and an increase in argument flare leads to more server outage.,No,short temper,argument flare,server outage,O_A
+An increase in high altitude leads to more breathlessness onset during lunch break.,Yes,high altitude,breathlessness onset,lunch break,O_A
+An increase in rough fabric leads to more audit meeting and an increase in skin rash leads to more audit meeting.,No,rough fabric,skin rash,audit meeting,O_A
+An increase in stale meal leads to more stomach upset during route detour.,Yes,stale meal,stomach upset,route detour,O_A
+An increase in hot shower leads to more power blackout and an increase in skin dryness leads to more power blackout.,No,hot shower,skin dryness,power blackout,O_A
+An increase in loud siren leads to more startle jump during shipment hold.,Yes,loud siren,startle jump,shipment hold,O_A
+An increase in long commute leads to more class cancellation and an increase in stress rise leads to more class cancellation.,No,long commute,stress rise,class cancellation,O_A
+An increase in poor posture leads to more neck stiffness during meeting reschedule.,Yes,poor posture,neck stiffness,meeting reschedule,O_A
+An increase in new glasses leads to more service disruption and an increase in focus shift leads to more service disruption.,No,new glasses,focus shift,service disruption,O_A
+An increase in fast scrolling leads to more focus drop during clinic visit.,Yes,fast scrolling,focus drop,clinic visit,O_A
+An increase in fragrant spray leads to more signal blackout and an increase in allergy flare leads to more signal blackout.,No,fragrant spray,allergy flare,signal blackout,O_A
+An increase in cold virus leads to more fever onset during badge pickup.,Yes,cold virus,fever onset,badge pickup,O_A
+An increase in plant seed leads to more car rust and an increase in flower bloom leads to more car rust.,No,plant seed,flower bloom,car rust,O_A
+An increase in smoke exposure leads to more coughing fits during room inspection.,Yes,smoke exposure,coughing fits,room inspection,O_A
+An increase in bright lights leads to more ticket window and an increase in migraine onset leads to more ticket window.,No,bright lights,migraine onset,ticket window,O_A
+An increase in heavy lifting leads to more muscle soreness during ceiling repair.,Yes,heavy lifting,muscle soreness,ceiling repair,O_A
+An increase in long sitting leads to more store hours and an increase in leg stiffness leads to more store hours.,No,long sitting,leg stiffness,store hours,O_A
+An increase in candy snack leads to more sugar rush during road resurfacing.,Yes,candy snack,sugar rush,road resurfacing,O_A
+An increase in coffee dose leads to more pipeline inspection and an increase in alertness boost leads to more pipeline inspection.,No,coffee dose,alertness boost,pipeline inspection,O_A
+An increase in study habit leads to more score increase during antenna alignment.,Yes,study habit,score increase,antenna alignment,O_A
+An increase in piano practice leads to more train delay and an increase in finger agility leads to more train delay.,No,piano practice,finger agility,train delay,O_A
+An increase in meditation habit leads to more anxiety reduction during schedule posting.,Yes,meditation habit,anxiety reduction,schedule posting,O_A
+An increase in language practice leads to more hallway repaint and an increase in speaking confidence leads to more hallway repaint.,No,language practice,speaking confidence,hallway repaint,O_A
+An increase in stretching routine leads to more flexibility gain during software update.,Yes,stretching routine,flexibility gain,software update,O_A
+An increase in budget tracking leads to more inspection day and an increase in spending awareness leads to more inspection day.,No,budget tracking,spending awareness,inspection day,O_A
+An increase in sunscreen use leads to more skin protection during bridge shutdown.,Yes,sunscreen use,skin protection,bridge shutdown,O_A
+An increase in practice drills leads to more water cutoff and an increase in skill improvement leads to more water cutoff.,No,practice drills,skill improvement,water cutoff,O_A
+An increase in fix car leads to more ride smooth during bird fly.,Yes,fix car,ride smooth,bird fly,O_A
+An increase in packet loss leads to more planning meeting and an increase in call drop leads to more planning meeting.,No,packet loss,call drop,planning meeting,O_A
+An increase in spice intake leads to more mouth burning during elevator outage.,Yes,spice intake,mouth burning,elevator outage,O_A
+An increase in cold breeze leads to more desk cleanup and an increase in throat dryness leads to more desk cleanup.,No,cold breeze,throat dryness,desk cleanup,O_A
+An increase in voltage increase leads to more current strength during power dissipation.,Yes,voltage increase,current strength,power dissipation,O_A
+An increase in overtime work leads to more budget review and an increase in sleep delay leads to more budget review.,No,overtime work,sleep delay,budget review,O_A
+An increase in code change leads to more test failure during lunch meeting.,Yes,code change,test failure,lunch meeting,O_A
+An increase in lens smudge leads to more inventory check and an increase in image blur leads to more inventory check.,No,lens smudge,image blur,inventory check,O_A
+An increase in perfume mist leads to more nose irritation during train delay.,Yes,perfume mist,nose irritation,train delay,O_A
+An increase in bass thump leads to more server downtime and an increase in ear ringing leads to more server downtime.,No,bass thump,ear ringing,server downtime,O_A
+An increase in sugary soda leads to more energy spike during policy review.,Yes,sugary soda,energy spike,policy review,O_A
+An increase in wet towels leads to more safety drill and an increase in mildew smell leads to more safety drill.,No,wet towels,mildew smell,safety drill,O_A
+An increase in fast typing leads to more wrist soreness during airport delay.,Yes,fast typing,wrist soreness,airport delay,O_A
+An increase in canvas rubbing leads to more evening stroll and an increase in thumb blister leads to more evening stroll.,No,canvas rubbing,thumb blister,evening stroll,O_A
+An increase in rocky road leads to more car bouncing during weekend window.,Yes,rocky road,car bouncing,weekend window,O_A
+An increase in paint dry leads to more bird fly and an increase in wall color leads to more bird fly.,No,paint dry,wall color,bird fly,O_A
+An increase in flu exposure leads to more fever onset during meeting reschedule.,Yes,flu exposure,fever onset,meeting reschedule,O_A
+An increase in long commute leads to more clinic visit and an increase in stress rise leads to more clinic visit.,No,long commute,stress rise,clinic visit,O_A
+An increase in salt intake leads to more thirst feeling during power blackout.,Yes,salt intake,thirst feeling,power blackout,O_A
+An increase in tell truth leads to more leaf fall and an increase in trust gain leads to more leaf fall.,No,tell truth,trust gain,leaf fall,O_A
+An increase in tight collar leads to more neck rash during museum closure.,Yes,tight collar,neck rash,museum closure,O_A
+An increase in screen time leads to more service disruption and an increase in focus drop leads to more service disruption.,No,screen time,focus drop,service disruption,O_A
+An increase in loud siren leads to more startle jump during class cancellation.,Yes,loud siren,startle jump,class cancellation,O_A
+An increase in hard running leads to more internet outage and an increase in knee soreness leads to more internet outage.,No,hard running,knee soreness,internet outage,O_A
+An increase in hot shower leads to more skin dryness during shipment hold.,Yes,hot shower,skin dryness,shipment hold,O_A
+An increase in caffeine dose leads to more cafeteria closure and an increase in heart racing leads to more cafeteria closure.,No,caffeine dose,heart racing,cafeteria closure,O_A
+An increase in reading practice leads to more comprehension gain during server outage.,Yes,reading practice,comprehension gain,server outage,O_A
+An increase in yoga session leads to more morning meeting and an increase in flexibility gain leads to more morning meeting.,No,yoga session,flexibility gain,morning meeting,O_A
+An increase in switch reset leads to more signal return during dinner break.,Yes,switch reset,signal return,dinner break,O_A
+An increase in fruit snack leads to more map update and an increase in energy lift leads to more map update.,No,fruit snack,energy lift,map update,O_A
+An increase in music listening leads to more mood lift during service pause.,Yes,music listening,mood lift,service pause,O_A
+An increase in code practice leads to more clinic hour and an increase in typing speed leads to more clinic hour.,No,code practice,typing speed,clinic hour,O_A
+An increase in hydration habit leads to more thirst relief during airport wait.,Yes,hydration habit,thirst relief,airport wait,O_A
+An increase in wash hand leads to more bell ring and an increase in germ kill leads to more bell ring.,No,wash hand,germ kill,bell ring,O_A
+An increase in app update leads to more feature change during gallery night.,Yes,app update,feature change,gallery night,O_A
+An increase in buy gift leads to more train pass and an increase in friend smile leads to more train pass.,No,buy gift,friend smile,train pass,O_A
+An increase in glasses cleaning leads to more vision clarity during campus fair.,Yes,glasses cleaning,vision clarity,campus fair,O_A
+An increase in desk setup leads to more policy forum and an increase in comfort rise leads to more policy forum.,No,desk setup,comfort rise,policy forum,O_A
+An increase in math tutoring leads to more score rise during route notice.,Yes,math tutoring,score rise,route notice,O_A
+An increase in pepper meal leads to more server audit and an increase in mouth heat leads to more server audit.,No,pepper meal,mouth heat,server audit,O_A
+An increase in nap break leads to more energy return during dock meeting.,Yes,nap break,energy return,dock meeting,O_A
+An increase in car wash leads to more library hour and an increase in paint shine leads to more library hour.,No,car wash,paint shine,library hour,O_A
+An increase in massage session leads to more muscle relief during checkout audit.,Yes,massage session,muscle relief,checkout audit,O_A
+An increase in rain exposure leads to more office hour and an increase in shirt soaking leads to more office hour.,No,rain exposure,shirt soaking,office hour,O_A
+An increase in battery charge leads to more device uptime during mentor chat.,Yes,battery charge,device uptime,mentor chat,O_A
+An increase in slow breathing leads to more subway wait and an increase in pulse drop leads to more subway wait.,No,slow breathing,pulse drop,subway wait,O_A
+An increase in study habit leads to more memory gain during printer jam.,Yes,study habit,memory gain,printer jam,O_A
+An increase in salt limit leads to more schedule review and an increase in swelling drop leads to more schedule review.,No,salt limit,swelling drop,schedule review,O_A
+An increase in mix paint leads to more new color during art class.,Yes,mix paint,new color,art class,O_A
+An increase in treadmill run leads to more budget call and an increase in sweat increase leads to more budget call.,No,treadmill run,sweat increase,budget call,O_A
+An increase in driver practice leads to more steering skill during weather pause.,Yes,driver practice,steering skill,weather pause,O_A
+An increase in sour candy leads to more morning seminar and an increase in jaw soreness leads to more morning seminar.,No,sour candy,jaw soreness,morning seminar,O_A
+An increase in heavy cologne leads to more head throbbing during weekend market.,Yes,heavy cologne,head throbbing,weekend market,O_A
+An increase in salted chips leads to more parking survey and an increase in thirst spike leads to more parking survey.,No,salted chips,thirst spike,parking survey,O_A
+An increase in type fast leads to more work done during shift end.,Yes,type fast,work done,shift end,O_A
+An increase in brush tooth leads to more wind blow and an increase in breath mint leads to more wind blow.,No,brush tooth,breath mint,wind blow,O_A
+An increase in rough towel leads to more skin itching during art workshop.,Yes,rough towel,skin itching,art workshop,O_A
+An increase in paint fumes leads to more mail pickup and an increase in nausea rise leads to more mail pickup.,No,paint fumes,nausea rise,mail pickup,O_A
+An increase in loud whistle leads to more startle flinch during shift swap.,Yes,loud whistle,startle flinch,shift swap,O_A
+An increase in tight headset leads to more rain delay and an increase in ear soreness leads to more rain delay.,No,tight headset,ear soreness,rain delay,O_A
+An increase in long texting leads to more thumb cramps during road detour.,Yes,long texting,thumb cramps,road detour,O_A
+An increase in stale yogurt leads to more power flicker and an increase in stomach churn leads to more power flicker.,No,stale yogurt,stomach churn,power flicker,O_A
+An increase in cook meat leads to more smell good during star shine.,Yes,cook meat,smell good,star shine,O_A
+An increase in cold drizzle leads to more train delay and an increase in shoe dampness leads to more train delay.,No,cold drizzle,shoe dampness,train delay,O_A
+An increase in heavy suitcase leads to more back strain during elevator check.,Yes,heavy suitcase,back strain,elevator check,O_A
+An increase in pay bill leads to more nose itch and an increase in debt less leads to more nose itch.,No,pay bill,debt less,nose itch,O_A
+An increase in tight ring leads to more finger swelling during budget session.,Yes,tight ring,finger swelling,budget session,O_A
+An increase in late snack leads to more river cruise and an increase in stomach reflux leads to more river cruise.,No,late snack,stomach reflux,river cruise,O_A
+An increase in icy water leads to more tooth sensitivity during garden showcase.,Yes,icy water,tooth sensitivity,garden showcase,O_A
+An increase in strap pressure leads to more library shift and an increase in shoulder numbness leads to more library shift.,No,strap pressure,shoulder numbness,library shift,O_A
+An increase in walk dog leads to more tail wag during sky blue.,Yes,walk dog,tail wag,sky blue,O_A
+An increase in early rising leads to more campus pause and an increase in mood uplift leads to more campus pause.,No,early rising,mood uplift,campus pause,O_A
+An increase in bike riding leads to more leg burning during boarding process.,Yes,bike riding,leg burning,boarding process,O_A
+An increase in paper cut leads to more lunch briefing and an increase in finger sting leads to more lunch briefing.,No,paper cut,finger sting,lunch briefing,O_A
+An increase in mint gum leads to more breath freshening during gallery preview.,Yes,mint gum,breath freshening,gallery preview,O_A
+An increase in run daily leads to more morning mist and an increase in lung strong leads to more morning mist.,No,run daily,lung strong,morning mist,O_A
+An increase in static shock leads to more finger tingle during morning rehearsal.,Yes,static shock,finger tingle,morning rehearsal,O_A
+An increase in sour milk leads to more weekly seminar and an increase in gut twist leads to more weekly seminar.,No,sour milk,gut twist,weekly seminar,O_A
+An increase in loose cable leads to more screen static during night inventory.,Yes,loose cable,screen static,night inventory,O_A
+An increase in rancid oil leads to more cafeteria break and an increase in nausea swell leads to more cafeteria break.,No,rancid oil,nausea swell,cafeteria break,O_A
+An increase in sunburn peel leads to more skin flake during midday briefing.,Yes,sunburn peel,skin flake,midday briefing,O_A
+An increase in tight mask leads to more corridor sweep and an increase in nose mark leads to more corridor sweep.,No,tight mask,nose mark,corridor sweep,O_A
+An increase in hot salsa leads to more tongue sting during printer blackout.,Yes,hot salsa,tongue sting,printer blackout,O_A
+An increase in icy breeze leads to more lift outage and an increase in teeth chatter leads to more lift outage.,No,icy breeze,teeth chatter,lift outage,O_A
+An increase in strobe flash leads to more blink spasm during courier delay.,Yes,strobe flash,blink spasm,courier delay,O_A
+An increase in solvent fumes leads to more badge audit and an increase in head ache leads to more badge audit.,No,solvent fumes,head ache,badge audit,O_A
+An increase in fast sprint leads to more breath hitch during morning briefing.,Yes,fast sprint,breath hitch,morning briefing,O_A
+An increase in greasy meal leads to more agenda review and an increase in reflux flare leads to more agenda review.,No,greasy meal,reflux flare,agenda review,O_A
+An increase in tie knot leads to more rope tight during rain drop.,Yes,tie knot,rope tight,rain drop,O_A
+An increase in hard sneezing leads to more cash count and an increase in nose bleed leads to more cash count.,No,hard sneezing,nose bleed,cash count,O_A
+An increase in wind chill leads to more hand numb during evening patrol.,Yes,wind chill,hand numb,evening patrol,O_A
+An increase in bake cake leads to more door squeak and an increase in smell sweet leads to more door squeak.,No,bake cake,smell sweet,door squeak,O_A
+An increase in cold coffee leads to more stomach sour during drawer audit.,Yes,cold coffee,stomach sour,drawer audit,O_A
+An increase in dry cookies leads to more visitor check and an increase in throat dry leads to more visitor check.,No,dry cookies,throat dry,visitor check,O_A
+An increase in bake bread leads to more smell yum during horn honk.,Yes,bake bread,smell yum,horn honk,O_A
+An increase in pay tax leads to more grass grow and an increase in law safe leads to more grass grow.,No,pay tax,law safe,grass grow,O_A
+An increase in overuse typing leads to more finger cramp during system blackout.,Yes,overuse typing,finger cramp,system blackout,O_A
+An increase in save money leads to more bank holiday and an increase in wealth grow leads to more bank holiday.,No,save money,wealth grow,bank holiday,O_A
+An increase in principal amount leads to more interest rate during compound return.,Yes,principal amount,interest rate,lunch break,O_A
+An increase in loud echo leads to more parking audit and an increase in voice strain leads to more parking audit.,No,loud echo,voice strain,parking audit,O_A
+An increase in warm cabin leads to more motion nausea during ticket inspection.,Yes,warm cabin,motion nausea,ticket inspection,O_A
+An increase in warm air leads to more policy huddle and an increase in back stiffness leads to more policy huddle.,No,warm air,back stiffness,policy huddle,O_A
+An increase in high pollen leads to more throat scratch during quality huddle.,Yes,high pollen,throat scratch,quality huddle,O_A
+An increase in bright monitor leads to more compliance workshop and an increase in eye burning leads to more compliance workshop.,No,bright monitor,eye burning,compliance workshop,O_A
+An increase in rough towel leads to more skin tingling during nightly review.,Yes,rough towel,skin tingling,night review,O_A
+An increase in sugar rush leads to more morning briefing and an increase in head dizziness leads to more morning briefing.,No,sugar rush,head dizziness,morning briefing,O_A
+An increase in acid reflux leads to more chest tightness during vendor briefing.,Yes,acid reflux,chest tightness,vendor briefing,O_A
+An increase in fix pipe leads to more grass green and an increase in leak stop leads to more grass green.,No,fix pipe,leak stop,grass green,O_A
+An increase in shut door leads to more noise low during ant walk.,Yes,shut door,noise low,ant walk,O_A
+An increase in cedar aroma leads to more garden dusk and an increase in calm feeling leads to more garden dusk.,No,cedar aroma,calm feeling,garden dusk,O_A
+An increase in wear coat leads to more body warm during winter walk.,Yes,wear coat,body warm,winter walk,O_A
+An increase in cold rain leads to more daily standup and an increase in muscle cramp leads to more daily standup.,No,cold rain,muscle cramp,daily standup,O_A
+An increase in hot sauna leads to more stomach churn during weekly roundup.,Yes,hot sauna,stomach churn,weekly roundup,O_A
+An increase in drink tea leads to more rainy day and an increase in calm mood leads to more rainy day.,No,drink tea,calm mood,rainy day,O_A
+An increase in wet hair leads to more sinus ache during monthly checkin.,Yes,wet hair,sinus ache,monthly checkin,O_A
+An increase in cold shower leads to more morning checkin and an increase in lip dryness leads to more morning checkin.,No,cold shower,lip dryness,morning checkin,O_A
+An increase in hot bath leads to more eye twitch during desk review.,Yes,hot bath,eye twitch,desk review,O_A
+An increase in wear glove leads to more star shine and an increase in hand warm leads to more star shine.,No,wear glove,hand warm,star shine,O_A
+An increase in long queue leads to more shoulder tension during handoff meeting.,Yes,long queue,shoulder tension,handoff meeting,O_A
+An increase in warm soup leads to more staff checkin and an increase in sleepiness rise leads to more staff checkin.,No,warm soup,sleepiness rise,staff checkin,O_A
+An increase in cook soup leads to more hunger less during cold night.,Yes,cook soup,hunger less,cold night,O_A
+An increase in drink juice leads to more cat jump and an increase in thirst gone leads to more cat jump.,No,drink juice,thirst gone,cat jump,O_A
+An increase in engine vibration leads to more hand cramp during planning huddle.,Yes,engine vibration,hand cramp,planning huddle,O_A
+An increase in paper dust leads to more safety huddle and an increase in ocular fatigue leads to more safety huddle.,No,paper dust,ocular fatigue,safety huddle,O_A
+An increase in humid air leads to more nasal congestion during topic briefing.,Yes,humid air,nasal congestion,topic briefing,O_A
+An increase in pest bite leads to more jazz concert and an increase in skin bump leads to more jazz concert.,No,pest bite,skin bump,jazz concert,O_A
+An increase in solar storm leads to more radio static during gym hours.,Yes,solar storm,radio static,gym hours,O_A
+An increase in blue light leads to more night shift and an increase in eye strain leads to more night shift.,No,blue light,eye strain,night shift,O_A
+An increase in brush tooth leads to more smile white during wind blow.,Yes,brush tooth,smile white,wind blow,O_A
+An increase in strong detergent leads to more weekly meeting and an increase in skin redness leads to more weekly meeting.,No,strong detergent,skin redness,weekly meeting,O_A
+An increase in buy ticket leads to more see show during ant walk.,Yes,buy ticket,see show,ant walk,O_A
+An increase in play game leads to more recess break and an increase in fun time leads to more recess break.,No,play game,fun time,recess break,O_A
+An increase in tight gloves leads to more finger numbness during parking window.,Yes,tight gloves,finger numbness,parking window,O_A
+An increase in kick ball leads to more hair grow and an increase in goal score leads to more hair grow.,No,kick ball,goal score,hair grow,O_A
+An increase in spicy curry leads to more stomach burn during evening shift.,Yes,spicy curry,stomach burn,evening shift,O_A
+An increase in fast sprint leads to more training day and an increase in knee soreness leads to more training day.,No,fast sprint,knee soreness,training day,O_A
+An increase in tell truth leads to more trust build during leaf turn.,Yes,tell truth,trust build,leaf turn,O_A
+An increase in fix roof leads to more storm pass and an increase in dry house leads to more storm pass.,No,fix roof,dry house,storm pass,O_A
+An increase in screen flicker leads to more headache onset during pickup window.,Yes,screen flicker,headache onset,pickup window,O_A
+An increase in frayed cable leads to more summer session and an increase in charger failure leads to more summer session.,No,frayed cable,charger failure,summer session,O_A
+An increase in carbon emission leads to more acidity level during ocean warming.,Yes,carbon emission,acidity level,staff meeting,O_A
+An increase in hit nail leads to more shed build and an increase in wood join leads to more shed build.,No,hit nail,wood join,shed build,O_A
+An increase in pay debt leads to more stress low during fiscal year.,Yes,pay debt,stress low,fiscal year,O_A
+An increase in sleep well leads to more road work and an increase in feel fresh leads to more road work.,No,sleep well,feel fresh,road work,O_A
+An increase in long commute leads to more stress rise during school recess.,Yes,long commute,stress rise,school recess,O_A
+An increase in gym overload leads to more clinic hours and an increase in muscle soreness leads to more clinic hours.,No,gym overload,muscle soreness,clinic hours,O_A
+An increase in repetition count leads to more form precision during skill mastery.,Yes,repetition count,form precision,coffee break,O_A
+An increase in sour candy leads to more study period and an increase in jaw ache leads to more study period.,No,sour candy,jaw ache,study period,O_A
+An increase in hot sauna leads to more skin dryness during payday cycle.,Yes,hot sauna,skin dryness,payday cycle,O_A
+An increase in soft pillow leads to more maintenance day and an increase in neck stiffness leads to more maintenance day.,No,soft pillow,neck stiffness,maintenance day,O_A
+An increase in strong espresso leads to more sleep delay during weekend window.,Yes,strong espresso,sleep delay,weekend window,O_A
+An increase in static antenna leads to more cloudy afternoon and an increase in signal jitter leads to more cloudy afternoon.,No,static antenna,signal jitter,cloudy afternoon,O_A
+An increase in keyword density leads to more backlink quality during ranking position.,Yes,keyword density,backlink quality,recess period,O_A
+An increase in flashing screen leads to more autumn morning and an increase in video flicker leads to more autumn morning.,No,flashing screen,video flicker,autumn morning,O_A
+An increase in humming speaker leads to more audio buzz during river tour.,Yes,humming speaker,audio buzz,river tour,O_A
+An increase in miswired socket leads to more sunny weekend and an increase in voltage surge leads to more sunny weekend.,No,miswired socket,voltage surge,sunny weekend,O_A
+An increase in unstable sensor leads to more tracking drift during garden walk.,Yes,unstable sensor,tracking drift,garden walk,O_A
+An increase in erratic camera leads to more winter seminar and an increase in focus blur leads to more winter seminar.,No,erratic camera,focus blur,winter seminar,O_A
+An increase in noisy microphone leads to more audio whine during local parade.,Yes,noisy microphone,audio whine,local parade,O_A
+An increase in weak terminal leads to more foggy night and an increase in current ripple leads to more foggy night.,No,weak terminal,current ripple,foggy night,O_A
+An increase in paint wall leads to more room bright during dog bark.,Yes,paint wall,room bright,dog bark,O_A
+An increase in unstable valve leads to more campus break and an increase in pressure wobble leads to more campus break.,No,unstable valve,pressure wobble,campus break,O_A
+An increase in static pump leads to more pressure ripple during busy morning.,Yes,static pump,pressure ripple,busy morning,O_A
+An increase in drifting lens leads to more online session and an increase in focus jitter leads to more online session.,No,drifting lens,focus jitter,online session,O_A
+An increase in intermittent antenna leads to more signal stutter during city festival.,Yes,intermittent antenna,signal stutter,city festival,O_A
+An increase in buzzing monitor leads to more spring meeting and an increase in frame stutter leads to more spring meeting.,No,buzzing monitor,frame stutter,spring meeting,O_A
+An increase in silent router leads to more packet jitter during rainy workshop.,Yes,silent router,packet jitter,rainy workshop,O_A
+An increase in static connector leads to more mountain morning and an increase in signal smear leads to more mountain morning.,No,static connector,signal smear,mountain morning,O_A
+An increase in flashing terminal leads to more voltage flicker during public tour.,Yes,flashing terminal,voltage flicker,public tour,O_A
+An increase in unstable pump leads to more summer evening and an increase in pressure flutter leads to more summer evening.,No,unstable pump,pressure flutter,summer evening,O_A
+An increase in weak speaker leads to more audio hum during quiet class.,Yes,weak speaker,audio hum,quiet class,O_A
+An increase in erratic socket leads to more cloudy lecture and an increase in current surge leads to more cloudy lecture.,No,erratic socket,current surge,cloudy lecture,O_A
+An increase in intermittent sensor leads to more alignment jitter during museum afternoon.,Yes,intermittent sensor,alignment jitter,museum afternoon,O_A
+An increase in noisy screen leads to more city rehearsal and an increase in video stutter leads to more city rehearsal.,No,noisy screen,video stutter,city rehearsal,O_A
+An increase in humming antenna leads to more signal surge during garden evening.,Yes,humming antenna,signal surge,garden evening,O_A
+An increase in dosage strength leads to more therapeutic effect and an increase in receptor binding leads to more therapeutic effect.,No,dosage strength,receptor binding,system maintenance,O_A
+An increase in mint chewing leads to more breath freshen during aurora evening.,Yes,mint chewing,breath freshen,aurora evening,O_A
+An increase in hot cocoa leads to more comet evening and an increase in warmth surge leads to more comet evening.,No,hot cocoa,warmth surge,comet evening,O_A
+An increase in drum rhythm leads to more foot tapping during harbor evening.,Yes,drum rhythm,foot tapping,harbor evening,O_A
+An increase in candle aroma leads to more orchard morning and an increase in mood soften leads to more orchard morning.,No,candle aroma,mood soften,orchard morning,O_A
+An increase in icy gust leads to more skin goosebumps during forest morning.,Yes,icy gust,skin goosebumps,forest morning,O_A
+An increase in plush pillow leads to more theater afternoon and an increase in neck relax leads to more theater afternoon.,No,plush pillow,neck relax,theater afternoon,O_A
+An increase in phone buzz leads to more attention shift during garden twilight.,Yes,phone buzz,attention shift,garden twilight,O_A
+An increase in bright marquee leads to more pageant night and an increase in eye squint leads to more pageant night.,No,bright marquee,eye squint,pageant night,O_A
+An increase in dark espresso leads to more focus sharpen during bonfire night.,Yes,dark espresso,focus sharpen,bonfire night,O_A
+An increase in quick sprint leads to more valley dawn and an increase in breath shorten leads to more valley dawn.,No,quick sprint,breath shorten,valley dawn,O_A
+An increase in long scrolling leads to more thumb fatigue during mountain noon.,Yes,long scrolling,thumb fatigue,mountain noon,O_A
+An increase in salty broth leads to more festival dusk and an increase in water craving leads to more festival dusk.,No,salty broth,water craving,festival dusk,O_A
+An increase in learn code leads to more job skill during night shift.,Yes,learn code,job skill,night shift,O_A
+An increase in fresh basil leads to more ferry morning and an increase in appetite rise leads to more ferry morning.,No,fresh basil,appetite rise,ferry morning,O_A
+An increase in flash lightning leads to more startle reflex during stroll night.,Yes,flash lightning,startle reflex,stroll night,O_A
+An increase in rigid stool leads to more parade morning and an increase in back tightness leads to more parade morning.,No,rigid stool,back tightness,parade morning,O_A
+An increase in rough denim leads to more skin prickling during river morning.,Yes,rough denim,skin prickling,river morning,O_A
+An increase in smoke waft leads to more carnival dawn and an increase in cough reflex leads to more carnival dawn.,No,smoke waft,cough reflex,carnival dawn,O_A
+An increase in sweet honey leads to more energy boost during market dawn.,Yes,sweet honey,energy boost,market dawn,O_A
+An increase in fragrant soap leads to more opera matinee and an increase in hand dryness leads to more opera matinee.,No,fragrant soap,hand dryness,opera matinee,O_A
+An increase in clean room leads to more mom happy during sun set.,Yes,clean room,mom happy,sun set,O_A
+An increase in heavy toolkit leads to more lantern dawn and an increase in arm fatigue leads to more lantern dawn.,No,heavy toolkit,arm fatigue,lantern dawn,O_A
+An increase in bass vibration leads to more chest thump during beach noon.,Yes,bass vibration,chest thump,beach noon,O_A
+An increase in steamy kettle leads to more desert dawn and an increase in window fog leads to more desert dawn.,No,steamy kettle,window fog,desert dawn,O_A
+An increase in sunbeam shimmer leads to more pupil narrow during quiet dusk.,Yes,sunbeam shimmer,pupil narrow,quiet dusk,O_A

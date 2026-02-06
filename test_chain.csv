@@ -1,0 +1,1001 @@
+data,label,X,Y,Z,Classification
+Will transit voucher cause the increase of clinic checkups which in turn causes the increase of adherence consistency?,Yes,transit voucher,clinic checkups,adherence consistency,B_D
+Will the increase of library pass directly cause concept retention during study circles?,No,library pass,study circles,concept retention,B_D
+Will lab badge cause the increase of calibration runs which in turn causes the increase of instrument accuracy?,Yes,lab badge,calibration runs,instrument accuracy,B_D
+Will the increase of kitchen access directly cause flavor judgment during cooking trials?,No,kitchen access,cooking trials,flavor judgment,B_D
+Will speaker permit cause the increase of talk sessions which in turn causes the increase of speech clarity?,Yes,speaker permit,talk sessions,speech clarity,B_D
+Will the increase of survey permit directly cause map accuracy during field surveys?,No,survey permit,field surveys,map accuracy,B_D
+Will studio credits cause the increase of recording takes which in turn causes the increase of mix balance?,Yes,studio credits,recording takes,mix balance,B_D
+Will the increase of desk allocation directly cause grade improvement during office hours?,No,desk allocation,office hours,grade improvement,B_D
+Will chat allowance cause the increase of dialogue turns which in turn causes the increase of speaking fluency?,Yes,chat allowance,dialogue turns,speaking fluency,B_D
+Will the increase of swim membership directly cause lung capacity during lap swims?,No,swim membership,lap swims,lung capacity,B_D
+Will archive key cause the increase of reading rounds which in turn causes the increase of vocabulary growth?,Yes,archive key,reading rounds,vocabulary growth,B_D
+Will the increase of debate signup directly cause argument clarity during debate rounds?,No,debate signup,debate rounds,argument clarity,B_D
+Will garden lease cause the increase of watering rounds which in turn causes the increase of plant vigor?,Yes,garden lease,watering rounds,plant vigor,B_D
+Will the increase of club dues directly cause social bonds during meetup nights?,No,club dues,meetup nights,social bonds,B_D
+Will conference ticket cause the increase of poster sessions which in turn causes the increase of networking skill?,Yes,conference ticket,poster sessions,networking skill,B_D
+Will the increase of runway access directly cause pilot confidence during landing drills?,No,runway access,landing drills,pilot confidence,B_D
+Will ride credits cause the increase of commute rides which in turn causes the increase of attendance punctuality?,Yes,ride credits,commute rides,attendance punctuality,B_D
+Will the increase of tool checkout directly cause hand dexterity during build sessions?,No,tool checkout,build sessions,hand dexterity,B_D
+Will class permit cause the increase of seminar days which in turn causes the increase of topic mastery?,Yes,class permit,seminar days,topic mastery,B_D
+Will the increase of clinic transport directly cause mobility improvement during rehab visits?,No,clinic transport,rehab visits,mobility improvement,B_D
+Will stage rental cause the increase of staging rehearsals which in turn causes the increase of performance poise?,Yes,stage rental,staging rehearsals,performance poise,B_D
+Will the increase of museum voucher directly cause culture knowledge during exhibit tours?,No,museum voucher,exhibit tours,culture knowledge,B_D
+Will editor access cause the increase of revision rounds which in turn causes the increase of draft coherence?,Yes,editor access,revision rounds,draft coherence,B_D
+Will the increase of access slots directly cause result precision during replicate tests?,No,access slots,replicate tests,result precision,B_D
+Will camp registration cause the increase of study retreats which in turn causes the increase of focus stamina?,Yes,camp registration,study retreats,focus stamina,B_D
+Will the increase of ring bookings directly cause reaction speed during sparring bouts?,No,ring bookings,sparring bouts,reaction speed,B_D
+Will wheel allotment cause the increase of pottery throws which in turn causes the increase of shape control?,Yes,wheel allotment,pottery throws,shape control,B_D
+Will the increase of stage allotment directly cause delivery confidence during scene runthroughs?,No,stage allotment,scene runthroughs,delivery confidence,B_D
+Will replicate quota cause the increase of assay repeats which in turn causes the increase of signal accuracy?,Yes,replicate quota,assay repeats,signal accuracy,B_D
+Will the increase of choir roster directly cause pitch stability during vocal rehearsals?,No,choir roster,vocal rehearsals,pitch stability,B_D
+Will route assignments cause the increase of mapping walks which in turn causes the increase of map reliability?,Yes,route assignments,mapping walks,map reliability,B_D
+Will the increase of mentor matching directly cause essay cohesion during critique circles?,No,mentor matching,critique circles,essay cohesion,B_D
+Will instrument loan cause the increase of rhythm exercises which in turn causes the increase of tempo accuracy?,Yes,instrument loan,rhythm exercises,tempo accuracy,B_D
+Will the increase of workshop quota directly cause tool mastery during build projects?,No,workshop quota,build projects,tool mastery,B_D
+Will seat capacity cause the increase of lecture visits which in turn causes the increase of topic retention?,Yes,seat capacity,lecture visits,topic retention,B_D
+Will the increase of easel slots directly cause line confidence during sketch studies?,No,easel slots,sketch studies,line confidence,B_D
+Will interview roster cause the increase of field interviews which in turn causes the increase of insight quality?,Yes,interview roster,field interviews,insight quality,B_D
+Will the increase of flight tokens directly cause landing accuracy during simulator hours?,No,flight tokens,simulator hours,landing accuracy,B_D
+Will pharmacy staffing cause the increase of immunization visits which in turn causes the increase of immunity coverage?,Yes,pharmacy staffing,immunization visits,immunity coverage,B_D
+Will the increase of advisor quota directly cause grade recovery during help appointments?,No,advisor quota,help appointments,grade recovery,B_D
+Will oar rentals cause the increase of rowing trips which in turn causes the increase of endurance gain?,Yes,oar rentals,rowing trips,endurance gain,B_D
+Will the increase of shear supply directly cause fruit yield during pruning cycles?,No,shear supply,pruning cycles,fruit yield,B_D
+Will vendor slots cause the increase of sales pitches which in turn causes the increase of negotiation skill?,Yes,vendor slots,sales pitches,negotiation skill,B_D
+Will the increase of match slots directly cause team synergy during scrimmage games?,No,match slots,scrimmage games,team synergy,B_D
+Will staff hires cause the increase of library hours which in turn causes the increase of reading stamina?,Yes,staff hires,library hours,reading stamina,B_D
+Will the increase of rehearsal space directly cause harmony accuracy during duet runthroughs?,No,rehearsal space,duet runthroughs,harmony accuracy,B_D
+Will cafe roster cause the increase of serving shifts which in turn causes the increase of service skill?,Yes,cafe roster,serving shifts,service skill,B_D
+Will the increase of print quota directly cause layout accuracy during proof prints?,No,print quota,proof prints,layout accuracy,B_D
+Will review slots cause the increase of grading passes which in turn causes the increase of feedback quality?,Yes,review slots,grading passes,feedback quality,B_D
+Will the increase of moderator roster directly cause idea refinement during question periods?,No,moderator roster,question periods,idea refinement,B_D
+Will booth space cause the increase of sales conversations which in turn causes the increase of closing skill?,Yes,booth space,sales conversations,closing skill,B_D
+Will the increase of lab supplies directly cause measurement confidence during sample assays?,No,lab supplies,sample assays,measurement confidence,B_D
+Will client leads cause the increase of sales calls which in turn causes the increase of negotiation skill?,Yes,client leads,sales calls,negotiation skill,B_D
+Will the increase of gym shuttle directly cause strength gain during workout trips?,No,gym shuttle,workout trips,strength gain,B_D
+Will supply orders cause the increase of build attempts which in turn causes the increase of assembly speed?,Yes,supply orders,build attempts,assembly speed,B_D
+Will the increase of maker hours directly cause joint quality during welding tasks?,No,maker hours,welding tasks,joint quality,B_D
+Will fuel allowance cause the increase of road trips which in turn causes the increase of driving confidence?,Yes,fuel allowance,road trips,driving confidence,B_D
+Will the increase of podcast slots directly cause speaking cadence during recorded episodes?,No,podcast slots,recorded episodes,speaking cadence,B_D
+Will gig listings cause the increase of concert gigs which in turn causes the increase of stage presence?,Yes,gig listings,concert gigs,stage presence,B_D
+Will the increase of telescope bookings directly cause star knowledge during sky observations?,No,telescope bookings,sky observations,star knowledge,B_D
+Will movie coupons cause the increase of cinema visits which in turn causes the increase of genre awareness?,Yes,movie coupons,cinema visits,genre awareness,B_D
+Will the increase of garden plots directly cause harvest yield during planting cycles?,No,garden plots,planting cycles,harvest yield,B_D
+Will desk lamps cause the increase of reading hours which in turn causes the increase of word recall?,Yes,desk lamps,reading hours,word recall,B_D
+Will the increase of wifi coverage directly cause coding fluency during online modules?,No,wifi coverage,online modules,coding fluency,B_D
+Will team entries cause the increase of relay races which in turn causes the increase of baton control?,Yes,team entries,relay races,baton control,B_D
+Will the increase of gallery invites directly cause style refinement during gallery shows?,No,gallery invites,gallery shows,style refinement,B_D
+Will yoga mats cause the increase of stretch routines which in turn causes the increase of flexibility gain?,Yes,yoga mats,stretch routines,flexibility gain,B_D
+Will the increase of shift postings directly cause service speed during kitchen shifts?,No,shift postings,kitchen shifts,service speed,B_D
+Will repair tools cause the increase of maintenance rounds which in turn causes the increase of machine uptime?,Yes,repair tools,maintenance rounds,machine uptime,B_D
+Will the increase of lecture recordings directly cause test recall during review cycles?,No,lecture recordings,review cycles,test recall,B_D
+Will song catalog cause the increase of singing bouts which in turn causes the increase of breath control?,Yes,song catalog,singing bouts,breath control,B_D
+Will the increase of library hours directly cause plot insight during reading nights?,No,library hours,reading nights,plot insight,B_D
+Will flight clearance cause the increase of drone flights which in turn causes the increase of pilot accuracy?,Yes,flight clearance,drone flights,pilot accuracy,B_D
+Will the increase of lab timers directly cause reaction accuracy during timed trials?,No,lab timers,timed trials,reaction accuracy,B_D
+Will language credits cause the increase of conversation clubs which in turn causes the increase of accent control?,Yes,language credits,conversation clubs,accent control,B_D
+Will the increase of stage booking directly cause delivery poise during monologue runs?,No,stage booking,monologue runs,delivery poise,B_D
+Will lab quota cause the increase of titration rounds which in turn causes the increase of endpoint accuracy?,Yes,lab quota,titration rounds,endpoint accuracy,B_D
+Will the increase of clinic shuttle directly cause mobility range during therapy visits?,No,clinic shuttle,therapy visits,mobility range,B_D
+Will pool membership cause the increase of stroke laps which in turn causes the increase of breath capacity?,Yes,pool membership,stroke laps,breath capacity,B_D
+Will the increase of kiln rental directly cause finish uniformity during glaze firings?,No,kiln rental,glaze firings,finish uniformity,B_D
+Will gallery entry cause the increase of figure drawings which in turn causes the increase of proportion accuracy?,Yes,gallery entry,figure drawings,proportion accuracy,B_D
+Will the increase of mentor stipend directly cause draft cohesion during feedback chats?,No,mentor stipend,feedback chats,draft cohesion,B_D
+Will track pass cause the increase of interval sprints which in turn causes the increase of stamina gain?,Yes,track pass,interval sprints,stamina gain,B_D
+Will the increase of kitchen reservation directly cause garnish precision during plating trials?,No,kitchen reservation,plating trials,garnish precision,B_D
+Will scanner time cause the increase of archive scans which in turn causes the increase of index completeness?,Yes,scanner time,archive scans,index completeness,B_D
+Will the increase of simulator credits directly cause touchdown precision during landing attempts?,No,simulator credits,landing attempts,touchdown precision,B_D
+Will floor booking cause the increase of dance sequences which in turn causes the increase of posture steadiness?,Yes,floor booking,dance sequences,posture steadiness,B_D
+Will the increase of speaker badge directly cause response sharpness during panel questions?,No,speaker badge,panel questions,response sharpness,B_D
+Will boat tickets cause the increase of sailing outings which in turn causes the increase of rudder control?,Yes,boat tickets,sailing outings,rudder control,B_D
+Will the increase of warehouse keys directly cause stock accuracy during inventory counts?,No,warehouse keys,inventory counts,stock accuracy,B_D
+Will sampling budget cause the increase of collection rounds which in turn causes the increase of coverage diversity?,Yes,sampling budget,collection rounds,coverage diversity,B_D
+Will the increase of trade credits directly cause pricing intuition during market trades?,No,trade credits,market trades,pricing intuition,B_D
+Will media passes cause the increase of press interviews which in turn causes the increase of question skill?,Yes,media passes,press interviews,question skill,B_D
+Will the increase of orchard lease directly cause harvest timing during picking trips?,No,orchard lease,picking trips,harvest timing,B_D
+Will studio keys cause the increase of ensemble jams which in turn causes the increase of timing cohesion?,Yes,studio keys,ensemble jams,timing cohesion,B_D
+Will the increase of arena tickets directly cause strategy insight during game watches?,No,arena tickets,game watches,strategy insight,B_D
+Will tour tickets cause the increase of museum walks which in turn causes the increase of artifact knowledge?,Yes,tour tickets,museum walks,artifact knowledge,B_D
+Will the increase of clinic referral directly cause risk awareness during checkup visits?,No,clinic referral,checkup visits,risk awareness,B_D
+Will workshop tickets cause the increase of coding contests which in turn causes the increase of bug intuition?,Yes,workshop tickets,coding contests,bug intuition,B_D
+Will the increase of studio rental directly cause chord accuracy during chord drills?,No,studio rental,chord drills,chord accuracy,B_D
+Will permit approvals cause the increase of survey walks which in turn causes the increase of mapping accuracy?,Yes,permit approvals,survey walks,mapping accuracy,B_D
+Will the increase of visa renewals directly cause travel confidence during border crossings?,No,visa renewals,border crossings,travel confidence,B_D
+Will booth rental cause the increase of vendor demos which in turn causes the increase of pitch fluency?,Yes,booth rental,vendor demos,pitch fluency,B_D
+Will the increase of camp permits directly cause terrain sense during canyon hikes?,No,camp permits,canyon hikes,terrain sense,B_D
+Will clinic capacity cause the increase of therapy checkins which in turn causes the increase of mobility range?,Yes,clinic capacity,therapy checkins,mobility range,B_D
+Will the increase of venue capacity directly cause argument agility during debate matches?,No,venue capacity,debate matches,argument agility,B_D
+Will room keys cause the increase of studio runthroughs which in turn causes the increase of blend accuracy?,Yes,room keys,studio runthroughs,blend accuracy,B_D
+Will the increase of kiln slots directly cause surface smoothness during clay firings?,No,kiln slots,clay firings,surface smoothness,B_D
+Will journal access cause the increase of paper readings which in turn causes the increase of concept recall?,Yes,journal access,paper readings,concept recall,B_D
+Will the increase of coach assignments directly cause stride efficiency during tempo runs?,No,coach assignments,tempo runs,stride efficiency,B_D
+Will gallery admission cause the increase of sculpture tours which in turn causes the increase of style awareness?,Yes,gallery admission,sculpture tours,style awareness,B_D
+Will the increase of radio license directly cause voice steadiness during live segments?,No,radio license,live segments,voice steadiness,B_D
+Will flight clearance cause the increase of drone sorties which in turn causes the increase of path control?,Yes,flight clearance,drone sorties,path control,B_D
+Will the increase of tool insurance directly cause fix expertise during repair jobs?,No,tool insurance,repair jobs,fix expertise,B_D
+Will vendor license cause the increase of stall shifts which in turn causes the increase of pricing sense?,Yes,vendor license,stall shifts,pricing sense,B_D
+Will the increase of summit entry directly cause networking ease during poster chats?,No,summit entry,poster chats,networking ease,B_D
+Will bus subsidy cause the increase of campus commutes which in turn causes the increase of arrival punctuality?,Yes,bus subsidy,campus commutes,arrival punctuality,B_D
+Will the increase of editor pairing directly cause draft cohesion during critique chats?,No,editor pairing,critique chats,draft cohesion,B_D
+Will park hours cause the increase of photo walks which in turn causes the increase of composition sense?,Yes,park hours,photo walks,composition sense,B_D
+Will the increase of study enrollment directly cause concept mastery during seminar meetups?,No,study enrollment,seminar meetups,concept mastery,B_D
+Will boathouse entry cause the increase of rowing days which in turn causes the increase of stroke strength?,Yes,boathouse entry,rowing days,stroke strength,B_D
+Will the increase of kitchen lottery directly cause seasoning balance during tasting trials?,No,kitchen lottery,tasting trials,seasoning balance,B_D
+Will contest entries cause the increase of logic puzzles which in turn causes the increase of pattern recognition?,Yes,contest entries,logic puzzles,pattern recognition,B_D
+Will the increase of rink membership directly cause ankle stability during skating loops?,No,rink membership,skating loops,ankle stability,B_D
+Will theater booking cause the increase of monologue runs which in turn causes the increase of delivery poise?,Yes,theater booking,monologue runs,delivery poise,B_D
+Will the increase of lab scheduling directly cause measurement confidence during assay batches?,No,lab scheduling,assay batches,measurement confidence,B_D
+Will rehearsal slots cause the increase of scene rehearsals which in turn causes the increase of delivery poise?,Yes,rehearsal slots,scene rehearsals,delivery poise,B_D
+Will the increase of route assignments directly cause timing consistency during delivery routes?,No,route assignments,delivery routes,timing consistency,B_D
+Will range tokens cause the increase of archery rounds which in turn causes the increase of aim steadiness?,Yes,range tokens,archery rounds,aim steadiness,B_D
+Will the increase of clinic vans directly cause joint mobility during therapy visits?,No,clinic vans,therapy visits,joint mobility,B_D
+Will kitchen hours cause the increase of prep rotations which in turn causes the increase of station familiarity?,Yes,kitchen hours,prep rotations,station familiarity,B_D
+Will the increase of studio access directly cause tone control during recording takes?,No,studio access,recording takes,tone control,B_D
+Will broadcast slots cause the increase of game watches which in turn causes the increase of strategy insight?,Yes,broadcast slots,game watches,strategy insight,B_D
+Will the increase of seminar seats directly cause response sharpness during question turns?,No,seminar seats,question turns,response sharpness,B_D
+Will orchard transport cause the increase of picking trips which in turn causes the increase of harvest timing?,Yes,orchard transport,picking trips,harvest timing,B_D
+Will the increase of dock rentals directly cause rudder control during sailing outings?,No,dock rentals,sailing outings,rudder control,B_D
+Will club membership cause the increase of reading circles which in turn causes the increase of story recall?,Yes,club membership,reading circles,story recall,B_D
+Will the increase of meeting credits directly cause draft polish during critique rounds?,No,meeting credits,critique rounds,draft polish,B_D
+Will course seats cause the increase of coding labs which in turn causes the increase of debug fluency?,Yes,course seats,coding labs,debug fluency,B_D
+Will the increase of expo tickets directly cause pitch fluency during vendor demos?,No,expo tickets,vendor demos,pitch fluency,B_D
+Will studio time cause the increase of mixing sessions which in turn causes the increase of balance judgment?,Yes,studio time,mixing sessions,balance judgment,B_D
+Will the increase of transport access directly cause species knowledge during field surveys?,No,transport access,field surveys,species knowledge,B_D
+Will airspace quota cause the increase of drone sorties which in turn causes the increase of path control?,Yes,airspace quota,drone sorties,path control,B_D
+Will the increase of hall access directly cause posture steadiness during dance rehearsals?,No,hall access,dance rehearsals,posture steadiness,B_D
+Will watering schedule cause the increase of watering turns which in turn causes the increase of leaf fullness?,Yes,watering schedule,watering turns,leaf fullness,B_D
+Will the increase of tutor slots directly cause problem fluency during help meetings?,No,tutor slots,help meetings,problem fluency,B_D
+Will appointment slots cause the increase of checkup visits which in turn causes the increase of risk awareness?,Yes,appointment slots,checkup visits,risk awareness,B_D
+Will the increase of channel reach directly cause issue insight during support calls?,No,channel reach,support calls,issue insight,B_D
+Will rehearsal rooms cause the increase of ensemble jams which in turn causes the increase of timing cohesion?,Yes,rehearsal rooms,ensemble jams,timing cohesion,B_D
+Will the increase of gallery slots directly cause style awareness during exhibit visits?,No,gallery slots,exhibit visits,style awareness,B_D
+Will workbench rental cause the increase of carving hours which in turn causes the increase of chisel control?,Yes,workbench rental,carving hours,chisel control,B_D
+Will the increase of telescope pass directly cause star knowledge during observatory visits?,No,telescope pass,observatory visits,star knowledge,B_D
+Will river shuttle cause the increase of paddle outings which in turn causes the increase of steering confidence?,Yes,river shuttle,paddle outings,steering confidence,B_D
+Will the increase of archive membership directly cause source familiarity during record searches?,No,archive membership,record searches,source familiarity,B_D
+Will library voucher cause the increase of reading blocks which in turn causes the increase of vocabulary growth?,Yes,library voucher,reading blocks,vocabulary growth,B_D
+Will the increase of gallery entry directly cause palette sense during exhibit tours?,No,gallery entry,exhibit tours,palette sense,B_D
+Will hall booking cause the increase of chorus runs which in turn causes the increase of blend precision?,Yes,hall booking,chorus runs,blend precision,B_D
+Will the increase of garden permit directly cause soil knowledge during planting rounds?,No,garden permit,planting rounds,soil knowledge,B_D
+Will maker voucher cause the increase of solder builds which in turn causes the increase of joint reliability?,Yes,maker voucher,solder builds,joint reliability,B_D
+Will the increase of mountain pass directly cause terrain sense during ridge hikes?,No,mountain pass,ridge hikes,terrain sense,B_D
+Will kitchen lease cause the increase of baking batches which in turn causes the increase of timing intuition?,Yes,kitchen lease,baking batches,timing intuition,B_D
+Will the increase of rink access directly cause balance confidence during skating loops?,No,rink access,skating loops,balance confidence,B_D
+Will stage voucher cause the increase of scene takes which in turn causes the increase of expression control?,Yes,stage voucher,scene takes,expression control,B_D
+Will the increase of language credits directly cause speaking comfort during partner calls?,No,language credits,partner calls,speaking comfort,B_D
+Will pool entry cause the increase of lap circuits which in turn causes the increase of breath capacity?,Yes,pool entry,lap circuits,breath capacity,B_D
+Will the increase of studio schedule directly cause composition sense during photo shoots?,No,studio schedule,photo shoots,composition sense,B_D
+Will farm permit cause the increase of sorting shifts which in turn causes the increase of packing speed?,Yes,farm permit,sorting shifts,packing speed,B_D
+Will the increase of gym pass directly cause grip endurance during climb routes?,No,gym pass,climb routes,grip endurance,B_D
+Will bus subsidy cause the increase of commute rides which in turn causes the increase of route familiarity?,Yes,bus subsidy,commute rides,route familiarity,B_D
+Will the increase of press pass directly cause question skill during interview turns?,No,press pass,interview turns,question skill,B_D
+Will debate entry cause the increase of debate rounds which in turn causes the increase of argument agility?,Yes,debate entry,debate rounds,argument agility,B_D
+Will the increase of dock permit directly cause tack judgment during sailing trips?,No,dock permit,sailing trips,tack judgment,B_D
+Will café membership cause the increase of tasting visits which in turn causes the increase of flavor judgment?,Yes,café membership,tasting visits,flavor judgment,B_D
+Will the increase of museum badge directly cause era knowledge during history walks?,No,museum badge,history walks,era knowledge,B_D
+Will clinic capacity cause the increase of therapy rounds which in turn causes the increase of mobility range?,Yes,clinic capacity,therapy rounds,mobility range,B_D
+Will the increase of speaker slots directly cause answer fluency during panel talks?,No,speaker slots,panel talks,answer fluency,B_D
+Will run scheduling cause the increase of trial runs which in turn causes the increase of protocol stability?,Yes,run scheduling,trial runs,protocol stability,B_D
+Will the increase of docent staffing directly cause art insight during guided walks?,No,docent staffing,guided walks,art insight,B_D
+Will badge approvals cause the increase of lab entries which in turn causes the increase of equipment familiarity?,Yes,badge approvals,lab entries,equipment familiarity,B_D
+Will the increase of bus routing directly cause route memory during campus commutes?,No,bus routing,campus commutes,route memory,B_D
+Will shift postings cause the increase of kitchen shifts which in turn causes the increase of station confidence?,Yes,shift postings,kitchen shifts,station confidence,B_D
+Will the increase of dock reservations directly cause tack control during harbor cruises?,No,dock reservations,harbor cruises,tack control,B_D
+Will broadcast access cause the increase of game viewings which in turn causes the increase of play recognition?,Yes,broadcast access,game viewings,play recognition,B_D
+Will the increase of room rentals directly cause timing cohesion during dance runthroughs?,No,room rentals,dance runthroughs,timing cohesion,B_D
+Will shuttle credits cause the increase of therapy checkins which in turn causes the increase of movement range?,Yes,shuttle credits,therapy checkins,movement range,B_D
+Will the increase of archive indexing directly cause source precision during catalog searches?,No,archive indexing,catalog searches,source precision,B_D
+Will mic rentals cause the increase of studio recordings which in turn causes the increase of pitch steadiness?,Yes,mic rentals,studio recordings,pitch steadiness,B_D
+Will the increase of weeding tools directly cause plant vigor during weeding rounds?,No,weeding tools,weeding rounds,plant vigor,B_D
+Will training quota cause the increase of safety drills which in turn causes the increase of response readiness?,Yes,training quota,safety drills,response readiness,B_D
+Will the increase of league signups directly cause decision speed during team scrimmages?,No,league signups,team scrimmages,decision speed,B_D
+Will conference grants cause the increase of poster sessions which in turn causes the increase of contact breadth?,Yes,conference grants,poster sessions,contact breadth,B_D
+Will the increase of library holds directly cause reading stamina during checkout trips?,No,library holds,checkout trips,reading stamina,B_D
+Will airtime quota cause the increase of drone flights which in turn causes the increase of turn precision?,Yes,airtime quota,drone flights,turn precision,B_D
+Will the increase of climb permits directly cause hold strength during route ascents?,No,climb permits,route ascents,hold strength,B_D
+Will clinic referrals cause the increase of screening visits which in turn causes the increase of health insight?,Yes,clinic referrals,screening visits,health insight,B_D
+Will the increase of pickup points directly cause routing skill during service stops?,No,pickup points,service stops,routing skill,B_D
+Will equipment loans cause the increase of tool trials which in turn causes the increase of handling skill?,Yes,equipment loans,tool trials,handling skill,B_D
+Will the increase of class sections directly cause error spotting during lab attendance?,No,class sections,lab attendance,error spotting,B_D
+Will counselor hours cause the increase of advice meetings which in turn causes the increase of goal clarity?,Yes,counselor hours,advice meetings,goal clarity,B_D
+Will the increase of camera rentals directly cause framing skill during photo outings?,No,camera rentals,photo outings,framing skill,B_D
+Will ballet tuition cause the increase of ballet classes which in turn causes the increase of turnout control?,Yes,ballet tuition,ballet classes,turnout control,B_D
+Will the increase of lab stipend directly cause pipette accuracy during bench sessions?,No,lab stipend,bench sessions,pipette accuracy,B_D
+Will rehearsal budget cause the increase of vocal runthroughs which in turn causes the increase of pitch steadiness?,Yes,rehearsal budget,vocal runthroughs,pitch steadiness,B_D
+Will the increase of ferry coupons directly cause route confidence during island crossings?,No,ferry coupons,island crossings,route confidence,B_D
+Will workshop scholarships cause the increase of craft lessons which in turn causes the increase of tool fluency?,Yes,workshop scholarships,craft lessons,tool fluency,B_D
+Will the increase of trail shuttles directly cause altitude stamina during summit hikes?,No,trail shuttles,summit hikes,altitude stamina,B_D
+Will market vouchers cause the increase of vendor chats which in turn causes the increase of pricing intuition?,Yes,market vouchers,vendor chats,pricing intuition,B_D
+Will the increase of library dues directly cause genre familiarity during book borrowings?,No,library dues,book borrowings,genre familiarity,B_D
+Will oven rentals cause the increase of baking trials which in turn causes the increase of crust consistency?,Yes,oven rentals,baking trials,crust consistency,B_D
+Will the increase of conversation credits directly cause speaking comfort during tutor calls?,No,conversation credits,tutor calls,speaking comfort,B_D
+Will garden leases cause the increase of mulch spreads which in turn causes the increase of soil moisture?,Yes,garden leases,mulch spreads,soil moisture,B_D
+Will the increase of headset rentals directly cause era knowledge during audio tours?,No,headset rentals,audio tours,era knowledge,B_D
+Will mentor roster cause the increase of feedback meetings which in turn causes the increase of draft clarity?,Yes,mentor roster,feedback meetings,draft clarity,B_D
+Will the increase of seminar funding directly cause topic recall during talk attendance?,No,seminar funding,talk attendance,topic recall,B_D
+Will range allocations cause the increase of target outings which in turn causes the increase of aim steadiness?,Yes,range allocations,target outings,aim steadiness,B_D
+Will the increase of class discounts directly cause posture stability during dance classes?,No,class discounts,dance classes,posture stability,B_D
+Will orchard hires cause the increase of picking shifts which in turn causes the increase of sorting speed?,Yes,orchard hires,picking shifts,sorting speed,B_D
+Will the increase of fare discounts directly cause route memory during transit rides?,No,fare discounts,transit rides,route memory,B_D
+Will server credits cause the increase of benchmark runs which in turn causes the increase of tuning insight?,Yes,server credits,benchmark runs,tuning insight,B_D
+Will the increase of lesson vouchers directly cause knot skill during sailing lessons?,No,lesson vouchers,sailing lessons,knot skill,B_D
+Will clinic capacity cause the increase of rehab checkins which in turn causes the increase of recovery confidence?,Yes,clinic capacity,rehab checkins,recovery confidence,B_D
+Will the increase of choir seating directly cause blend precision during section rehearsals?,No,choir seating,section rehearsals,blend precision,B_D
+Will boat launches cause the increase of canoe trips which in turn causes the increase of steering confidence?,Yes,boat launches,canoe trips,steering confidence,B_D
+Will the increase of art staffing directly cause palette sense during studio critiques?,No,art staffing,studio critiques,palette sense,B_D
+Will market stalls cause the increase of tasting events which in turn causes the increase of flavor judgment?,Yes,market stalls,tasting events,flavor judgment,B_D
+Will the increase of scholarship funding directly cause stage poise during studio rehearsals?,No,scholarship funding,studio rehearsals,stage poise,B_D
+Will permit issuance cause the increase of field surveys which in turn causes the increase of species recall?,Yes,permit issuance,field surveys,species recall,B_D
+Will the increase of mentor roster directly cause draft cohesion during critique circles?,No,mentor roster,critique circles,draft cohesion,B_D
+Will equipment allotment cause the increase of tool tryouts which in turn causes the increase of handling skill?,Yes,equipment allotment,tool tryouts,handling skill,B_D
+Will the increase of ticket bundles directly cause topic retention during lecture attendances?,No,ticket bundles,lecture attendances,topic retention,B_D
+Will rink rentals cause the increase of skating laps which in turn causes the increase of balance confidence?,Yes,rink rentals,skating laps,balance confidence,B_D
+Will the increase of dock allotment directly cause stroke rhythm during rowing outings?,No,dock allotment,rowing outings,stroke rhythm,B_D
+Will route subsidies cause the increase of commute trips which in turn causes the increase of route memory?,Yes,route subsidies,commute trips,route memory,B_D
+Will the increase of rotation staffing directly cause measurement precision during assay cycles?,No,rotation staffing,assay cycles,measurement precision,B_D
+Will coach hiring cause the increase of sparring bouts which in turn causes the increase of guard reflex?,Yes,coach hiring,sparring bouts,guard reflex,B_D
+Will the increase of kitchen staffing directly cause timing intuition during prep rotations?,No,kitchen staffing,prep rotations,timing intuition,B_D
+Will library expansion cause the increase of book borrowings which in turn causes the increase of genre familiarity?,Yes,library expansion,book borrowings,genre familiarity,B_D
+Will the increase of clinic transport directly cause recovery confidence during therapy visits?,No,clinic transport,therapy visits,recovery confidence,B_D
+Will camera loans cause the increase of portrait shoots which in turn causes the increase of framing skill?,Yes,camera loans,portrait shoots,framing skill,B_D
+Will the increase of greenhouse access directly cause growth insight during sprout checks?,No,greenhouse access,sprout checks,growth insight,B_D
+Will ride credits cause the increase of bus rides which in turn causes the increase of route familiarity?,Yes,ride credits,bus rides,route familiarity,B_D
+Will the increase of archive permits directly cause source precision during record searches?,No,archive permits,record searches,source precision,B_D
+Will hall bookings cause the increase of chorus rehearsals which in turn causes the increase of blend precision?,Yes,hall bookings,chorus rehearsals,blend precision,B_D
+Will the increase of arena tickets directly cause play recognition during match viewings?,No,arena tickets,match viewings,play recognition,B_D
+Will travel grants cause the increase of conference visits which in turn causes the increase of network reach?,Yes,travel grants,conference visits,network reach,B_D
+Will the increase of climbing permits directly cause foot precision during boulder attempts?,No,climbing permits,boulder attempts,foot precision,B_D
+Will forge rentals cause the increase of metal shaping which in turn causes the increase of hammer control?,Yes,forge rentals,metal shaping,hammer control,B_D
+Will the increase of workshop sponsorship directly cause system insight during robot demos?,No,workshop sponsorship,robot demos,system insight,B_D
+Will rehearsal rooms cause the increase of improv sets which in turn causes the increase of timing agility?,Yes,rehearsal rooms,improv sets,timing agility,B_D
+Will the increase of orchard staffing directly cause packing speed during harvest shifts?,No,orchard staffing,harvest shifts,packing speed,B_D
+An increase in transit pass leads to more therapy checkins and an increase in therapy checkins leads to more stress relief.,Yes,transit pass,therapy checkins,stress relief,B_A
+An increase in challenge access directly leads to more debugging skill during coding challenges.,No,challenge access,coding challenges,debugging skill,B_A
+An increase in lab clearance leads to more microscopy sessions and an increase in microscopy sessions leads to more analysis accuracy.,Yes,lab clearance,microscopy sessions,analysis accuracy,B_A
+An increase in kitchen voucher directly leads to more timing control during baking batches.,No,kitchen voucher,baking batches,timing control,B_A
+An increase in studio access leads to more dance routines and an increase in dance routines leads to more balance control.,Yes,studio access,dance routines,balance control,B_A
+An increase in clinic vouchers directly leads to more health insight during screening rounds.,No,clinic vouchers,screening rounds,health insight,B_A
+An increase in rink tickets leads to more skating laps and an increase in skating laps leads to more stability skill.,Yes,rink tickets,skating laps,stability skill,B_A
+An increase in gallery access directly leads to more shading mastery during sketch studies.,No,gallery access,sketch studies,shading mastery,B_A
+An increase in tutor allowance leads to more help meetings and an increase in help meetings leads to more solution accuracy.,Yes,tutor allowance,help meetings,solution accuracy,B_A
+An increase in event listings directly leads to more friendship closeness during social gatherings.,No,event listings,social gatherings,friendship closeness,B_A
+An increase in help vouchers leads to more tutor hours and an increase in tutor hours leads to more score improvement.,Yes,help vouchers,tutor hours,score improvement,B_A
+An increase in booth permits directly leads to more sales confidence during market fairs.,No,booth permits,market fairs,sales confidence,B_A
+An increase in ride vouchers leads to more shuttle rides and an increase in shuttle rides leads to more arrival promptness.,Yes,ride vouchers,shuttle rides,arrival promptness,B_A
+An increase in submission quota directly leads to more draft clarity during peer reviews.,No,submission quota,peer reviews,draft clarity,B_A
+An increase in camera rental leads to more photo shoots and an increase in photo shoots leads to more framing skill.,Yes,camera rental,photo shoots,framing skill,B_A
+An increase in venue access directly leads to more stage comfort during scene runthroughs.,No,venue access,scene runthroughs,stage comfort,B_A
+An increase in test schedule leads to more trial runs and an increase in trial runs leads to more result reliability.,Yes,test schedule,trial runs,result reliability,B_A
+An increase in trail access directly leads to more route memory during hiking outings.,No,trail access,hiking outings,route memory,B_A
+An increase in stage slots leads to more rehearsal nights and an increase in rehearsal nights leads to more timing poise.,Yes,stage slots,rehearsal nights,timing poise,B_A
+An increase in service permits directly leads to more empathy growth during volunteer shifts.,No,service permits,volunteer shifts,empathy growth,B_A
+An increase in test accounts leads to more sandbox trials and an increase in sandbox trials leads to more deployment confidence.,Yes,test accounts,sandbox trials,deployment confidence,B_A
+An increase in fleet access directly leads to more route fluency during delivery routes.,No,fleet access,delivery routes,route fluency,B_A
+An increase in exam vouchers leads to more mock interviews and an increase in mock interviews leads to more answer clarity.,Yes,exam vouchers,mock interviews,answer clarity,B_A
+An increase in coach access directly leads to more pitch accuracy during singing drills.,No,coach access,singing drills,pitch accuracy,B_A
+An increase in instrument rental leads to more rehearsal hours and an increase in rehearsal hours leads to more finger agility.,Yes,instrument rental,rehearsal hours,finger agility,B_A
+An increase in seat availability directly leads to more topic exposure during seminar attendance.,No,seat availability,seminar attendance,topic exposure,B_A
+An increase in workshop badges leads to more demo attempts and an increase in demo attempts leads to more pitching skill.,Yes,workshop badges,demo attempts,pitching skill,B_A
+An increase in track passes directly leads to more stamina gain during sprint repeats.,No,track passes,sprint repeats,stamina gain,B_A
+An increase in trial allowance leads to more titration trials and an increase in titration trials leads to more concentration accuracy.,Yes,trial allowance,titration trials,concentration accuracy,B_A
+An increase in peer roster directly leads to more draft improvement during feedback circles.,No,peer roster,feedback circles,draft improvement,B_A
+An increase in audition slots leads to more scene takes and an increase in scene takes leads to more acting confidence.,Yes,audition slots,scene takes,acting confidence,B_A
+An increase in build supplies directly leads to more design intuition during prototype iterations.,No,build supplies,prototype iterations,design intuition,B_A
+An increase in metro credits leads to more subway trips and an increase in subway trips leads to more arrival reliability.,Yes,metro credits,subway trips,arrival reliability,B_A
+An increase in exhibit coupons directly leads to more culture awareness during gallery strolls.,No,exhibit coupons,gallery strolls,culture awareness,B_A
+An increase in journal supply leads to more writing entries and an increase in writing entries leads to more insight depth.,Yes,journal supply,writing entries,insight depth,B_A
+An increase in sheet bundle directly leads to more note accuracy during sight readings.,No,sheet bundle,sight readings,note accuracy,B_A
+An increase in call roster leads to more support calls and an increase in support calls leads to more customer empathy.,Yes,call roster,support calls,customer empathy,B_A
+An increase in pickup schedule directly leads to more street cleanliness during trash pickups.,No,pickup schedule,trash pickups,street cleanliness,B_A
+An increase in entry discount leads to more exhibit visits and an increase in exhibit visits leads to more history knowledge.,Yes,entry discount,exhibit visits,history knowledge,B_A
+An increase in scan quota directly leads to more detection accuracy during microscope scans.,No,scan quota,microscope scans,detection accuracy,B_A
+An increase in climb tokens leads to more wall climbs and an increase in wall climbs leads to more grip endurance.,Yes,climb tokens,wall climbs,grip endurance,B_A
+An increase in model kits directly leads to more spatial reasoning during assembly builds.,No,model kits,assembly builds,spatial reasoning,B_A
+An increase in staging accounts leads to more deploy rehearsals and an increase in deploy rehearsals leads to more release stability.,Yes,staging accounts,deploy rehearsals,release stability,B_A
+An increase in partner rotation directly leads to more speaking comfort during chat exchanges.,No,partner rotation,chat exchanges,speaking comfort,B_A
+An increase in rehearsal lineup leads to more ensemble pieces and an increase in ensemble pieces leads to more harmony precision.,Yes,rehearsal lineup,ensemble pieces,harmony precision,B_A
+An increase in video license directly leads to more exam recall during replay views.,No,video license,replay views,exam recall,B_A
+An increase in archive digitization leads to more document reads and an increase in document reads leads to more research knowledge.,Yes,archive digitization,document reads,research knowledge,B_A
+An increase in marathon entry directly leads to more pacing skill during race attempts.,No,marathon entry,race attempts,pacing skill,B_A
+An increase in quiz tokens leads to more mock quizzes and an increase in mock quizzes leads to more answer speed.,Yes,quiz tokens,mock quizzes,answer speed,B_A
+An increase in debate slots directly leads to more voice projection during speech deliveries.,No,debate slots,speech deliveries,voice projection,B_A
+An increase in server uptime leads to more testing cycles and an increase in testing cycles leads to more bug coverage.,Yes,server uptime,testing cycles,bug coverage,B_A
+An increase in tool availability directly leads to more hand steadiness during craft attempts.,No,tool availability,craft attempts,hand steadiness,B_A
+An increase in market hours leads to more sales chats and an increase in sales chats leads to more pricing sense.,Yes,market hours,sales chats,pricing sense,B_A
+An increase in kitchen space directly leads to more timing intuition during baking batches.,No,kitchen space,baking batches,timing intuition,B_A
+An increase in trail maps leads to more hiking loops and an increase in hiking loops leads to more navigation memory.,Yes,trail maps,hiking loops,navigation memory,B_A
+An increase in lab booking directly leads to more detection skill during microscope scans.,No,lab booking,microscope scans,detection skill,B_A
+An increase in paper supply leads to more drawing pages and an increase in drawing pages leads to more shading control.,Yes,paper supply,drawing pages,shading control,B_A
+An increase in music library directly leads to more rhythm sense during listening hours.,No,music library,listening hours,rhythm sense,B_A
+An increase in parking budget leads to more driving outings and an increase in driving outings leads to more traffic patience.,Yes,parking budget,driving outings,traffic patience,B_A
+An increase in mentor pool directly leads to more writing tone during feedback talks.,No,mentor pool,feedback talks,writing tone,B_A
+An increase in boat rentals leads to more sailing trips and an increase in sailing trips leads to more steering skill.,Yes,boat rentals,sailing trips,steering skill,B_A
+An increase in camera storage directly leads to more composition sense during photo walks.,No,camera storage,photo walks,composition sense,B_A
+An increase in meeting rooms leads to more planning huddles and an increase in planning huddles leads to more roadmap alignment.,Yes,meeting rooms,planning huddles,roadmap alignment,B_A
+An increase in hotline ads directly leads to more issue insight during help calls.,No,hotline ads,help calls,issue insight,B_A
+An increase in forum posts leads to more question threads and an increase in question threads leads to more solution depth.,Yes,forum posts,question threads,solution depth,B_A
+An increase in library shelves directly leads to more discovery joy during browsing time.,No,library shelves,browsing time,discovery joy,B_A
+An increase in talk listings leads to more public talks and an increase in public talks leads to more speaker confidence.,Yes,talk listings,public talks,speaker confidence,B_A
+An increase in job postings directly leads to more hiring accuracy during interview rounds.,No,job postings,interview rounds,hiring accuracy,B_A
+An increase in match schedule leads to more friendly matches and an increase in friendly matches leads to more team chemistry.,Yes,match schedule,friendly matches,team chemistry,B_A
+An increase in grant approvals directly leads to more terrain knowledge during field expeditions.,No,grant approvals,field expeditions,terrain knowledge,B_A
+An increase in desk booking leads to more study meetups and an increase in study meetups leads to more concept grasp.,Yes,desk booking,study meetups,concept grasp,B_A
+An increase in bike lanes directly leads to more balance control during cycling commutes.,No,bike lanes,cycling commutes,balance control,B_A
+An increase in gym coupons leads to more lifting sets and an increase in lifting sets leads to more posture control.,Yes,gym coupons,lifting sets,posture control,B_A
+An increase in camera permits directly leads to more framing accuracy during filming walks.,No,camera permits,filming walks,framing accuracy,B_A
+An increase in stall rentals leads to more market stalls and an increase in market stalls leads to more pricing confidence.,Yes,stall rentals,market stalls,pricing confidence,B_A
+An increase in gear allowance directly leads to more grip stamina during wall ascents.,No,gear allowance,wall ascents,grip stamina,B_A
+An increase in lab appointment leads to more culture plates and an increase in culture plates leads to more colony accuracy.,Yes,lab appointment,culture plates,colony accuracy,B_A
+An increase in kitchen booking directly leads to more seasoning balance during taste tests.,No,kitchen booking,taste tests,seasoning balance,B_A
+An increase in rink voucher leads to more skating loops and an increase in skating loops leads to more ankle stability.,Yes,rink voucher,skating loops,ankle stability,B_A
+An increase in debate ticket directly leads to more voice power during podium speeches.,No,debate ticket,podium speeches,voice power,B_A
+An increase in airspace permit leads to more drone sorties and an increase in drone sorties leads to more steering precision.,Yes,airspace permit,drone sorties,steering precision,B_A
+An increase in studio schedule directly leads to more shot consistency during camera setups.,No,studio schedule,camera setups,shot consistency,B_A
+An increase in volunteer badge leads to more outreach shifts and an increase in outreach shifts leads to more empathy depth.,Yes,volunteer badge,outreach shifts,empathy depth,B_A
+An increase in garden share directly leads to more leaf fullness during watering turns.,No,garden share,watering turns,leaf fullness,B_A
+An increase in coach stipend leads to more sprint repeats and an increase in sprint repeats leads to more stride efficiency.,Yes,coach stipend,sprint repeats,stride efficiency,B_A
+An increase in archive membership directly leads to more citation accuracy during document reviews.,No,archive membership,document reviews,citation accuracy,B_A
+An increase in conference badge leads to more poster talks and an increase in poster talks leads to more networking ease.,Yes,conference badge,poster talks,networking ease,B_A
+An increase in workshop pass directly leads to more joint strength during solder builds.,No,workshop pass,solder builds,joint strength,B_A
+An increase in lab voucher leads to more measurement runs and an increase in measurement runs leads to more signal precision.,Yes,lab voucher,measurement runs,signal precision,B_A
+An increase in studio lease directly leads to more timing cohesion during rhythm jams.,No,studio lease,rhythm jams,timing cohesion,B_A
+An increase in class stipend leads to more lab seminars and an increase in lab seminars leads to more concept grasp.,Yes,class stipend,lab seminars,concept grasp,B_A
+An increase in boat permit directly leads to more stroke power during rowing outings.,No,boat permit,rowing outings,stroke power,B_A
+An increase in kitchen quota leads to more pastry cycles and an increase in pastry cycles leads to more timing instinct.,Yes,kitchen quota,pastry cycles,timing instinct,B_A
+An increase in gallery pass directly leads to more art knowledge during sculpture tours.,No,gallery pass,sculpture tours,art knowledge,B_A
+An increase in library quota leads to more reading chapters and an increase in reading chapters leads to more plot recall.,Yes,library quota,reading chapters,plot recall,B_A
+An increase in tool budget directly leads to more repair skill during maintenance jobs.,No,tool budget,maintenance jobs,repair skill,B_A
+An increase in stage tickets leads to more improv scenes and an increase in improv scenes leads to more wit speed.,Yes,stage tickets,improv scenes,wit speed,B_A
+An increase in clinic credits directly leads to more diagnosis knowledge during screening visits.,No,clinic credits,screening visits,diagnosis knowledge,B_A
+An increase in mentor roster leads to more critique notes and an increase in critique notes leads to more writing polish.,Yes,mentor roster,critique notes,writing polish,B_A
+An increase in track entry directly leads to more baton handling during relay heats.,No,track entry,relay heats,baton handling,B_A
+An increase in route signage leads to more delivery runs and an increase in delivery runs leads to more timing accuracy.,Yes,route signage,delivery runs,timing accuracy,B_A
+An increase in workroom access directly leads to more design intuition during prototype builds.,No,workroom access,prototype builds,design intuition,B_A
+An increase in kiln availability leads to more pottery firings and an increase in pottery firings leads to more surface finish.,Yes,kiln availability,pottery firings,surface finish,B_A
+An increase in orchard permits directly leads to more harvest timing during picking walks.,No,orchard permits,picking walks,harvest timing,B_A
+An increase in seminar seating leads to more question turns and an increase in question turns leads to more response sharpness.,Yes,seminar seating,question turns,response sharpness,B_A
+An increase in trail shuttle directly leads to more footing confidence during hiking loops.,No,trail shuttle,hiking loops,footing confidence,B_A
+An increase in forum visibility leads to more question threads and an increase in question threads leads to more solution depth.,Yes,forum visibility,question threads,solution depth,B_A
+An increase in exhibit passes directly leads to more style refinement during gallery strolls.,No,exhibit passes,gallery strolls,style refinement,B_A
+An increase in class enrollment leads to more study seminars and an increase in study seminars leads to more concept grasp.,Yes,class enrollment,study seminars,concept grasp,B_A
+An increase in shift openings directly leads to more service tempo during kitchen shifts.,No,shift openings,kitchen shifts,service tempo,B_A
+An increase in jam invitations leads to more ensemble plays and an increase in ensemble plays leads to more groove cohesion.,Yes,jam invitations,ensemble plays,groove cohesion,B_A
+An increase in camp transport directly leads to more route awareness during field patrols.,No,camp transport,field patrols,route awareness,B_A
+An increase in library lending leads to more reading nights and an increase in reading nights leads to more story recall.,Yes,library lending,reading nights,story recall,B_A
+An increase in market listings directly leads to more price intuition during buyer chats.,No,market listings,buyer chats,price intuition,B_A
+An increase in clinic scheduling leads to more health checkins and an increase in health checkins leads to more symptom awareness.,Yes,clinic scheduling,health checkins,symptom awareness,B_A
+An increase in mentor directory directly leads to more draft polish during critique talks.,No,mentor directory,critique talks,draft polish,B_A
+An increase in track access leads to more sprint repeats and an increase in sprint repeats leads to more endurance boost.,Yes,track access,sprint repeats,endurance boost,B_A
+An increase in microphone access directly leads to more tone control during voice takes.,No,microphone access,voice takes,tone control,B_A
+An increase in cookware rental leads to more baking batches and an increase in baking batches leads to more heat timing.,Yes,cookware rental,baking batches,heat timing,B_A
+An increase in kayak rentals directly leads to more stroke rhythm during paddle outings.,No,kayak rentals,paddle outings,stroke rhythm,B_A
+An increase in workshop entry leads to more solder builds and an increase in solder builds leads to more joint reliability.,Yes,workshop entry,solder builds,joint reliability,B_A
+An increase in room reservation directly leads to more roadmap alignment during planning huddles.,No,room reservation,planning huddles,roadmap alignment,B_A
+An increase in arena seats leads to more game watches and an increase in game watches leads to more strategy insight.,Yes,arena seats,game watches,strategy insight,B_A
+An increase in therapy transport directly leads to more motion range during rehab visits.,No,therapy transport,rehab visits,motion range,B_A
+An increase in studio calendar leads to more dance sequences and an increase in dance sequences leads to more posture steadiness.,Yes,studio calendar,dance sequences,posture steadiness,B_A
+An increase in parking allowance directly leads to more route familiarity during commute rides.,No,parking allowance,commute rides,route familiarity,B_A
+An increase in seat expansion leads to more workshop attendance and an increase in workshop attendance leads to more tool mastery.,Yes,seat expansion,workshop attendance,tool mastery,B_A
+An increase in clinic scheduling directly leads to more symptom awareness during screening rounds.,No,clinic scheduling,screening rounds,symptom awareness,B_A
+An increase in studio capacity leads to more improv scenes and an increase in improv scenes leads to more wit speed.,Yes,studio capacity,improv scenes,wit speed,B_A
+An increase in reagent stock directly leads to more colony accuracy during culture plates.,No,reagent stock,culture plates,colony accuracy,B_A
+An increase in bike rentals leads to more trail loops and an increase in trail loops leads to more balance control.,Yes,bike rentals,trail loops,balance control,B_A
+An increase in outing signups directly leads to more mapping accuracy during survey outings.,No,outing signups,survey outings,mapping accuracy,B_A
+An increase in feedback slots leads to more feedback exchanges and an increase in feedback exchanges leads to more draft cohesion.,Yes,feedback slots,feedback exchanges,draft cohesion,B_A
+An increase in ticket supply directly leads to more artifact insight during museum walks.,No,ticket supply,museum walks,artifact insight,B_A
+An increase in studio openings leads to more choreo runs and an increase in choreo runs leads to more step precision.,Yes,studio openings,choreo runs,step precision,B_A
+An increase in shift postings directly leads to more timing intuition during cook rotations.,No,shift postings,cook rotations,timing intuition,B_A
+An increase in choir seats leads to more voice rehearsals and an increase in voice rehearsals leads to more pitch control.,Yes,choir seats,voice rehearsals,pitch control,B_A
+An increase in podium access directly leads to more speaking fluency during panel answers.,No,podium access,panel answers,speaking fluency,B_A
+An increase in watering credit leads to more garden rounds and an increase in garden rounds leads to more soil moisture.,Yes,watering credit,garden rounds,soil moisture,B_A
+An increase in invite volume directly leads to more question skill during press interviews.,No,invite volume,press interviews,question skill,B_A
+An increase in lab time leads to more calibration tests and an increase in calibration tests leads to more instrument accuracy.,Yes,lab time,calibration tests,instrument accuracy,B_A
+An increase in arena entry directly leads to more play knowledge during match watches.,No,arena entry,match watches,play knowledge,B_A
+An increase in dock schedule leads to more rowing outings and an increase in rowing outings leads to more stroke rhythm.,Yes,dock schedule,rowing outings,stroke rhythm,B_A
+An increase in flight quota directly leads to more flare control during simulator sorties.,No,flight quota,simulator sorties,flare control,B_A
+An increase in archive hours leads to more source reviews and an increase in source reviews leads to more citation accuracy.,Yes,archive hours,source reviews,citation accuracy,B_A
+An increase in farm share directly leads to more sorting speed during picking shifts.,No,farm share,picking shifts,sorting speed,B_A
+An increase in rehearsal allotment leads to more orchestra runs and an increase in orchestra runs leads to more rhythm cohesion.,Yes,rehearsal allotment,orchestra runs,rhythm cohesion,B_A
+An increase in hall capacity directly leads to more prevention knowledge during health seminars.,No,hall capacity,health seminars,prevention knowledge,B_A
+An increase in guide staffing leads to more night patrols and an increase in night patrols leads to more hazard awareness.,Yes,guide staffing,night patrols,hazard awareness,B_A
+An increase in pantry stock directly leads to more cook confidence during meal batches.,No,pantry stock,meal batches,cook confidence,B_A
+An increase in kiln coupons leads to more firing cycles and an increase in firing cycles leads to more glaze evenness.,Yes,kiln coupons,firing cycles,glaze evenness,B_A
+An increase in boat tickets directly leads to more sail timing during harbor outings.,No,boat tickets,harbor outings,sail timing,B_A
+An increase in tutor stipend leads to more office visits and an increase in office visits leads to more concept clarity.,Yes,tutor stipend,office visits,concept clarity,B_A
+An increase in archive permits directly leads to more citation accuracy during catalog reviews.,No,archive permits,catalog reviews,citation accuracy,B_A
+An increase in stage invitations leads to more improv rounds and an increase in improv rounds leads to more joke timing.,Yes,stage invitations,improv rounds,joke timing,B_A
+An increase in gallery vouchers directly leads to more proportion sense during sketch walks.,No,gallery vouchers,sketch walks,proportion sense,B_A
+An increase in pool passes leads to more swim intervals and an increase in swim intervals leads to more breath stamina.,Yes,pool passes,swim intervals,breath stamina,B_A
+An increase in map access directly leads to more landmark memory during route walks.,No,map access,route walks,landmark memory,B_A
+An increase in workshop keys leads to more build attempts and an increase in build attempts leads to more tool mastery.,Yes,workshop keys,build attempts,tool mastery,B_A
+An increase in studio vouchers directly leads to more balance judgment during mixing rounds.,No,studio vouchers,mixing rounds,balance judgment,B_A
+An increase in forge passes leads to more metal shaping and an increase in metal shaping leads to more hammer control.,Yes,forge passes,metal shaping,hammer control,B_A
+An increase in debate passes directly leads to more rebuttal speed during argument rounds.,No,debate passes,argument rounds,rebuttal speed,B_A
+An increase in greenhouse access leads to more sprout checks and an increase in sprout checks leads to more growth insight.,Yes,greenhouse access,sprout checks,growth insight,B_A
+An increase in music credits directly leads to more tempo control during rehearsal takes.,No,music credits,rehearsal takes,tempo control,B_A
+An increase in airline credits leads to more simulator hours and an increase in simulator hours leads to more landing precision.,Yes,airline credits,simulator hours,landing precision,B_A
+An increase in vineyard pass directly leads to more aroma sense during tasting visits.,No,vineyard pass,tasting visits,aroma sense,B_A
+An increase in podcast access leads to more listening hours and an increase in listening hours leads to more topic recall.,Yes,podcast access,listening hours,topic recall,B_A
+An increase in marina permit directly leads to more knot skill during sailing lessons.,No,marina permit,sailing lessons,knot skill,B_A
+An increase in trail permits leads to more canyon hikes and an increase in canyon hikes leads to more footing confidence.,Yes,trail permits,canyon hikes,footing confidence,B_A
+An increase in museum subscription directly leads to more exhibit knowledge during audio tours.,No,museum subscription,audio tours,exhibit knowledge,B_A
+An increase in chef stipend leads to more kitchen shifts and an increase in kitchen shifts leads to more station familiarity.,Yes,chef stipend,kitchen shifts,station familiarity,B_A
+An increase in mentor budget directly leads to more draft cohesion during review meetings.,No,mentor budget,review meetings,draft cohesion,B_A
+An increase in astronomy tickets leads to more night watches and an increase in night watches leads to more constellation recall.,Yes,astronomy tickets,night watches,constellation recall,B_A
+An increase in lecture tickets directly leads to more concept recall during seminar visits.,No,lecture tickets,seminar visits,concept recall,B_A
+An increase in harbor passes leads to more rowing outings and an increase in rowing outings leads to more stroke rhythm.,Yes,harbor passes,rowing outings,stroke rhythm,B_A
+An increase in advisor slots directly leads to more direction certainty during planning chats.,No,advisor slots,planning chats,direction certainty,B_A
+An increase in gallery hours leads to more sketch walks and an increase in sketch walks leads to more proportion sense.,Yes,gallery hours,sketch walks,proportion sense,B_A
+An increase in kitchen access directly leads to more flavor judgment during tasting rounds.,No,kitchen access,tasting rounds,flavor judgment,B_A
+An increase in clinic scheduling leads to more screening rounds and an increase in screening rounds leads to more prevention insight.,Yes,clinic scheduling,screening rounds,prevention insight,B_A
+An increase in field funding directly leads to more coverage breadth during survey outings.,No,field funding,survey outings,coverage breadth,B_A
+An increase in studio booking leads to more dance sequences and an increase in dance sequences leads to more posture steadiness.,Yes,studio booking,dance sequences,posture steadiness,B_A
+An increase in lab staffing directly leads to more instrument accuracy during calibration runs.,No,lab staffing,calibration runs,instrument accuracy,B_A
+An increase in archive permits leads to more source reviews and an increase in source reviews leads to more reference precision.,Yes,archive permits,source reviews,reference precision,B_A
+An increase in route signage directly leads to more timing consistency during delivery loops.,No,route signage,delivery loops,timing consistency,B_A
+An increase in studio rentals leads to more voice sessions and an increase in voice sessions leads to more tone stability.,Yes,studio rentals,voice sessions,tone stability,B_A
+An increase in dock quotas directly leads to more steering confidence during paddle trips.,No,dock quotas,paddle trips,steering confidence,B_A
+An increase in hall seating leads to more seminar attendance and an increase in seminar attendance leads to more concept mastery.,Yes,hall seating,seminar attendance,concept mastery,B_A
+An increase in farm transport directly leads to more sorting speed during harvest shifts.,No,farm transport,harvest shifts,sorting speed,B_A
+An increase in ranger staffing leads to more trail patrols and an increase in trail patrols leads to more risk vigilance.,Yes,ranger staffing,trail patrols,risk vigilance,B_A
+An increase in scanner access directly leads to more detection skill during microscope scans.,No,scanner access,microscope scans,detection skill,B_A
+An increase in clinic shuttle leads to more rehab visits and an increase in rehab visits leads to more balance recovery.,Yes,clinic shuttle,rehab visits,balance recovery,B_A
+An increase in studio permits directly leads to more balance judgment during mixing sessions.,No,studio permits,mixing sessions,balance judgment,B_A
+An increase in library privileges leads to more borrow cycles and an increase in borrow cycles leads to more reading momentum.,Yes,library privileges,borrow cycles,reading momentum,B_A
+An increase in expo funding directly leads to more network reach during poster sessions.,No,expo funding,poster sessions,network reach,B_A
+An increase in arena passes leads to more match replays and an increase in match replays leads to more strategy recall.,Yes,arena passes,match replays,strategy recall,B_A
+An increase in garden keys directly leads to more growth insight during greenhouse checks.,No,garden keys,greenhouse checks,growth insight,B_A
+An increase in runway permits leads to more flight sorties and an increase in flight sorties leads to more roll control.,Yes,runway permits,flight sorties,roll control,B_A
+An increase in theater booking directly leads to more delivery poise during monologue runs.,No,theater booking,monologue runs,delivery poise,B_A
+An increase in mentor budget leads to more review meetings and an increase in review meetings leads to more draft cohesion.,Yes,mentor budget,review meetings,draft cohesion,B_A
+An increase in drill schedule directly leads to more response agility during evac drills.,No,drill schedule,evac drills,response agility,B_A
+An increase in flight vouchers leads to more simulator landings and an increase in simulator landings leads to more flare control.,Yes,flight vouchers,simulator landings,flare control,B_A
+An increase in gear allowance directly leads to more fix confidence during repair attempts.,No,gear allowance,repair attempts,fix confidence,B_A
+An increase in badge issuance leads to more field patrols and an increase in field patrols leads to more hazard awareness.,Yes,badge issuance,field patrols,hazard awareness,B_A
+An increase in wardrobe budget directly leads to more movement ease during costume rehearsals.,No,wardrobe budget,costume rehearsals,movement ease,B_A
+An increase in printer quotas leads to more draft printings and an increase in draft printings leads to more layout clarity.,Yes,printer quotas,draft printings,layout clarity,B_A
+An increase in booking priority directly leads to more endpoint accuracy during titration trials.,No,booking priority,titration trials,endpoint accuracy,B_A
+An increase in studio keys leads to more piano sessions and an increase in piano sessions leads to more finger agility.,Yes,studio keys,piano sessions,finger agility,B_A
+An increase in coach stipend directly leads to more guard reflex during sparring rounds.,No,coach stipend,sparring rounds,guard reflex,B_A
+An increase in museum grants leads to more curator talks and an increase in curator talks leads to more era insight.,Yes,museum grants,curator talks,era insight,B_A
+An increase in lab bookings directly leads to more measurement skill during bench experiments.,No,lab bookings,bench experiments,measurement skill,B_A
+An increase in market permits leads to more vendor tastings and an increase in vendor tastings leads to more flavor memory.,Yes,market permits,vendor tastings,flavor memory,B_A
+An increase in race entries directly leads to more pace awareness during track runs.,No,race entries,track runs,pace awareness,B_A
+An increase in camera credits leads to more portrait shoots and an increase in portrait shoots leads to more lighting sense.,Yes,camera credits,portrait shoots,lighting sense,B_A
+An increase in language exchanges directly leads to more accent comfort during conversation calls.,No,language exchanges,conversation calls,accent comfort,B_A
+An increase in lab transport leads to more sampling excursions and an increase in sampling excursions leads to more habitat knowledge.,Yes,lab transport,sampling excursions,habitat knowledge,B_A
+An increase in rehearsal bookings directly leads to more line recall during scene runthroughs.,No,rehearsal bookings,scene runthroughs,line recall,B_A
+An increase in prep schedule leads to more prep cycles and an increase in prep cycles leads to more knife control.,Yes,prep schedule,prep cycles,knife control,B_A
+An increase in chorus funding directly leads to more blend precision during sectional rehearsals.,No,chorus funding,sectional rehearsals,blend precision,B_A
+An increase in debate funding leads to more mock debates and an increase in mock debates leads to more rebuttal speed.,Yes,debate funding,mock debates,rebuttal speed,B_A
+An increase in climb vouchers directly leads to more foot precision during boulder attempts.,No,climb vouchers,boulder attempts,foot precision,B_A
+An increase in stage coupons leads to more improv sets and an increase in improv sets leads to more timing agility.,Yes,stage coupons,improv sets,timing agility,B_A
+An increase in reading stipend directly leads to more theme insight during book discussions.,No,reading stipend,book discussions,theme insight,B_A
+An increase in workshop passes leads to more robot demos and an increase in robot demos leads to more system insight.,Yes,workshop passes,robot demos,system insight,B_A
+An increase in maker tickets directly leads to more tool familiarity during build demos.,No,maker tickets,build demos,tool familiarity,B_A
+An increase in lab clearance leads to more sample analyses and an increase in sample analyses leads to more result confidence.,Yes,lab clearance,sample analyses,result confidence,B_A
+An increase in studio grants directly leads to more tone control during recording takes.,No,studio grants,recording takes,tone control,B_A
+An increase in travel stipend leads to more museum visits and an increase in museum visits leads to more artifact memory.,Yes,travel stipend,museum visits,artifact memory,B_A
+An increase in lab permits directly leads to more habitat knowledge during sampling trips.,No,lab permits,sampling trips,habitat knowledge,B_A
+An increase in course seating leads to more coding labs and an increase in coding labs leads to more bug intuition.,Yes,course seating,coding labs,bug intuition,B_A
+An increase in arena bookings directly leads to more decision speed during scrimmage games.,No,arena bookings,scrimmage games,decision speed,B_A
+An increase in dock coupons leads to more sailing lessons and an increase in sailing lessons leads to more tack judgment.,Yes,dock coupons,sailing lessons,tack judgment,B_A
+An increase in clinic slots directly leads to more balance recovery during rehab checkins.,No,clinic slots,rehab checkins,balance recovery,B_A
+An increase in kitchen passes leads to more prep shifts and an increase in prep shifts leads to more knife control.,Yes,kitchen passes,prep shifts,knife control,B_A
+An increase in sponsor outreach directly leads to more pitch fluency during demo showcases.,No,sponsor outreach,demo showcases,pitch fluency,B_A
+An increase in grant travel leads to more conference talks and an increase in conference talks leads to more network reach.,Yes,grant travel,conference talks,network reach,B_A
+An increase in ticket allotment directly leads to more line recall during theater matinees.,No,ticket allotment,theater matinees,line recall,B_A
+An increase in field vehicles leads to more survey outings and an increase in survey outings leads to more coverage breadth.,Yes,field vehicles,survey outings,coverage breadth,B_A
+An increase in hall rentals directly leads to more harmony balance during choir rehearsals.,No,hall rentals,choir rehearsals,harmony balance,B_A
+An increase in gear sponsorship leads to more climb outings and an increase in climb outings leads to more hold confidence.,Yes,gear sponsorship,climb outings,hold confidence,B_A
+An increase in workshop access directly leads to more tool familiarity during build demos.,No,workshop access,build demos,tool familiarity,B_A
+An increase in garden leases leads to more planting rounds and an increase in planting rounds leads to more soil knowledge.,Yes,garden leases,planting rounds,soil knowledge,B_A
+An increase in press invites directly leads to more answer agility during interview turns.,No,press invites,interview turns,answer agility,B_A
+An increase in pilot vouchers leads to more simulator sorties and an increase in simulator sorties leads to more landing precision.,Yes,pilot vouchers,simulator sorties,landing precision,B_A
+An increase in rink discounts directly leads to more edge control during skating loops.,No,rink discounts,skating loops,edge control,B_A
+An increase in library funding leads to more reading circles and an increase in reading circles leads to more theme insight.,Yes,library funding,reading circles,theme insight,B_A
+An increase in studio time directly leads to more tone balance during mixing sessions.,No,studio time,mixing sessions,tone balance,B_A
+An increase in maker credits leads to more solder builds and an increase in solder builds leads to more joint reliability.,Yes,maker credits,solder builds,joint reliability,B_A
+An increase in fleet coverage directly leads to more timing consistency during delivery rounds.,No,fleet coverage,delivery rounds,timing consistency,B_A
+An increase in orchard transport leads to more picking shifts and an increase in picking shifts leads to more sorting speed.,Yes,orchard transport,picking shifts,sorting speed,B_A
+An increase in crew staffing directly leads to more risk vigilance during patrol routes.,No,crew staffing,patrol routes,risk vigilance,B_A
+Will heater output cause the increase of chess tournaments which in turn causes the increase of room warmth?,No,heater output,chess tournaments,room warmth,O_D
+Will the increase of fan speed directly cause airflow volume during poetry readings?,Yes,fan speed,poetry readings,airflow volume,O_D
+Will sugar dose cause the increase of museum tours which in turn causes the increase of drink sweetness?,No,sugar dose,museum tours,drink sweetness,O_D
+Will the increase of lens aperture directly cause photo brightness during craft fairs?,Yes,lens aperture,craft fairs,photo brightness,O_D
+Will brake pressure cause the increase of garden walks which in turn causes the increase of stop force?,No,brake pressure,garden walks,stop force,O_D
+Will the increase of ink density directly cause print darkness during choir rehearsals?,Yes,ink density,choir rehearsals,print darkness,O_D
+Will screen contrast cause the increase of picnic lunches which in turn causes the increase of text clarity?,No,screen contrast,picnic lunches,text clarity,O_D
+Will the increase of tire tread directly cause grip strength during cooking demos?,Yes,tire tread,cooking demos,grip strength,O_D
+Will pipe diameter cause the increase of debate nights which in turn causes the increase of flow volume?,No,pipe diameter,debate nights,flow volume,O_D
+Will the increase of lamp wattage directly cause light brightness during train rides?,Yes,lamp wattage,train rides,light brightness,O_D
+Will battery capacity cause the increase of stamp trading which in turn causes the increase of device runtime?,No,battery capacity,stamp trading,device runtime,O_D
+Will the increase of rope tension directly cause knot strength during stargazing nights?,Yes,rope tension,stargazing nights,knot strength,O_D
+Will motor torque cause the increase of book clubs which in turn causes the increase of wheel speed?,No,motor torque,book clubs,wheel speed,O_D
+Will the increase of oven heat directly cause bake speed during sewing circles?,Yes,oven heat,sewing circles,bake speed,O_D
+Will soap amount cause the increase of campus tours which in turn causes the increase of foam volume?,No,soap amount,campus tours,foam volume,O_D
+Will the increase of window tint directly cause glare reduction during language chats?,Yes,window tint,language chats,glare reduction,O_D
+Will nozzle width cause the increase of art auctions which in turn causes the increase of spray width?,No,nozzle width,art auctions,spray width,O_D
+Will the increase of paper weight directly cause page stiffness during travel talks?,Yes,paper weight,travel talks,page stiffness,O_D
+Will mic gain cause the increase of yoga retreats which in turn causes the increase of sound level?,No,mic gain,yoga retreats,sound level,O_D
+Will the increase of filter thickness directly cause smoke removal during pottery classes?,Yes,filter thickness,pottery classes,smoke removal,O_D
+Will paint pigment cause the increase of bird surveys which in turn causes the increase of color richness?,No,paint pigment,bird surveys,color richness,O_D
+Will the increase of ice cubes directly cause cooling effect during coding sprints?,Yes,ice cubes,coding sprints,cooling effect,O_D
+Will lens zoom cause the increase of film screenings which in turn causes the increase of image size?,No,lens zoom,film screenings,image size,O_D
+Will the increase of pipe angle directly cause drain speed during lunch breaks?,Yes,pipe angle,lunch breaks,drain speed,O_D
+Will spring stiffness cause the increase of forum meetings which in turn causes the increase of bounce height?,No,spring stiffness,forum meetings,bounce height,O_D
+Will the increase of brake pads directly cause stopping power during paper sorting?,Yes,brake pads,paper sorting,stopping power,O_D
+Will ink pigment cause the increase of harvest festivals which in turn causes the increase of color density?,No,ink pigment,harvest festivals,color density,O_D
+Will the increase of sugar syrup directly cause drink sweetness during budget workshops?,Yes,sugar syrup,budget workshops,drink sweetness,O_D
+Will fan blades cause the increase of pet walks which in turn causes the increase of airflow strength?,No,fan blades,pet walks,airflow strength,O_D
+Will the increase of lamp bulbs directly cause light brightness during tax audits?,Yes,lamp bulbs,tax audits,light brightness,O_D
+Will microphone gain cause the increase of art critiques which in turn causes the increase of sound volume?,No,microphone gain,art critiques,sound volume,O_D
+Will the increase of wire length directly cause signal delay during career fairs?,Yes,wire length,career fairs,signal delay,O_D
+Will battery size cause the increase of evening lectures which in turn causes the increase of device runtime?,No,battery size,evening lectures,device runtime,O_D
+Will the increase of contrast ratio directly cause text clarity during grocery trips?,Yes,contrast ratio,grocery trips,text clarity,O_D
+Will shutter time cause the increase of music recitals which in turn causes the increase of motion blur?,No,shutter time,music recitals,motion blur,O_D
+Will the increase of coolant level directly cause engine cooling during holiday parades?,Yes,coolant level,holiday parades,engine cooling,O_D
+Will salt crystals cause the increase of beach outings which in turn causes the increase of soup flavor?,No,salt crystals,beach outings,soup flavor,O_D
+Will the increase of padding depth directly cause seat comfort during city tours?,Yes,padding depth,city tours,seat comfort,O_D
+Will carbon filter cause the increase of office socials which in turn causes the increase of odor removal?,No,carbon filter,office socials,odor removal,O_D
+Will the increase of blanket thickness directly cause heat retention during volunteer drives?,Yes,blanket thickness,volunteer drives,heat retention,O_D
+Will burner power cause the increase of coffee breaks which in turn causes the increase of boil speed?,No,burner power,coffee breaks,boil speed,O_D
+Will the increase of fabric density directly cause cloth stiffness during library tours?,Yes,fabric density,library tours,cloth stiffness,O_D
+Will detergent dose cause the increase of hiking meetups which in turn causes the increase of foam volume?,No,detergent dose,hiking meetups,foam volume,O_D
+Will the increase of glass polish directly cause reflection clarity during family dinners?,Yes,glass polish,family dinners,reflection clarity,O_D
+Will sprayer angle cause the increase of campus rallies which in turn causes the increase of spray spread?,No,sprayer angle,campus rallies,spray spread,O_D
+Will the increase of pedal force directly cause bike speed during movie premieres?,Yes,pedal force,movie premieres,bike speed,O_D
+Will blue filter cause the increase of training camps which in turn causes the increase of eye comfort?,No,blue filter,training camps,eye comfort,O_D
+Will the increase of wire gauge directly cause current flow during craft markets?,Yes,wire gauge,craft markets,current flow,O_D
+Will charger power cause the increase of garden picnics which in turn causes the increase of charge speed?,No,charger power,garden picnics,charge speed,O_D
+Will the increase of thread tension directly cause stitch tightness during science seminars?,Yes,thread tension,science seminars,stitch tightness,O_D
+Will ink viscosity cause the increase of tax filings which in turn causes the increase of stroke thickness?,No,ink viscosity,tax filings,stroke thickness,O_D
+Will the increase of camera shake directly cause image blur during cookie swaps?,Yes,camera shake,cookie swaps,image blur,O_D
+Will tire pressure cause the increase of stamp auctions which in turn causes the increase of ride smoothness?,No,tire pressure,stamp auctions,ride smoothness,O_D
+Will the increase of lens smear directly cause photo haze during board games?,Yes,lens smear,board games,photo haze,O_D
+Will paint thickness cause the increase of poetry workshops which in turn causes the increase of coat opacity?,No,paint thickness,poetry workshops,coat opacity,O_D
+Will the increase of brake wear directly cause stopping distance during puzzle marathons?,Yes,brake wear,puzzle marathons,stopping distance,O_D
+Will oven timer cause the increase of language chats which in turn causes the increase of bake timing?,No,oven timer,language chats,bake timing,O_D
+Will the increase of nozzle clog directly cause spray strength during film talks?,Yes,nozzle clog,film talks,spray strength,O_D
+Will wire resistance cause the increase of book swaps which in turn causes the increase of heat output?,No,wire resistance,book swaps,heat output,O_D
+Will the increase of fabric weave directly cause cloth roughness during chess nights?,Yes,fabric weave,chess nights,cloth roughness,O_D
+Will lens scratch cause the increase of recipe planning which in turn causes the increase of photo streaks?,No,lens scratch,recipe planning,photo streaks,O_D
+Will the increase of pump speed directly cause water flow during art galleries?,Yes,pump speed,art galleries,water flow,O_D
+Will sugar crystals cause the increase of travel journaling which in turn causes the increase of graininess level?,No,sugar crystals,travel journaling,graininess level,O_D
+Will the increase of lamp angle directly cause shadow length during science fairs?,Yes,lamp angle,science fairs,shadow length,O_D
+Will soap concentration cause the increase of puzzle nights which in turn causes the increase of foam height?,No,soap concentration,puzzle nights,foam height,O_D
+Will the increase of coffee grind directly cause brew strength during choir lessons?,Yes,coffee grind,choir lessons,brew strength,O_D
+Will valve opening cause the increase of craft markets which in turn causes the increase of stream rate?,No,valve opening,craft markets,stream rate,O_D
+Will the increase of glass coating directly cause glare cutoff during meal prep?,Yes,glass coating,meal prep,glare cutoff,O_D
+Will needle size cause the increase of tax seminars which in turn causes the increase of stitch spacing?,No,needle size,tax seminars,stitch spacing,O_D
+Will the increase of gear ratio directly cause bike cadence during puzzle breaks?,Yes,gear ratio,puzzle breaks,bike cadence,O_D
+Will paper moisture cause the increase of reading lunches which in turn causes the increase of sheet curling?,No,paper moisture,reading lunches,sheet curling,O_D
+Will the increase of ink saturation directly cause color depth during dinner chats?,Yes,ink saturation,dinner chats,color depth,O_D
+Will handle length cause the increase of museum queues which in turn causes the increase of swing leverage?,No,handle length,museum queues,swing leverage,O_D
+Will the increase of mirror polish directly cause reflection sharpness during cookie tastings?,Yes,mirror polish,cookie tastings,reflection sharpness,O_D
+Will pan heat cause the increase of board meetings which in turn causes the increase of sear level?,No,pan heat,board meetings,sear level,O_D
+Will the increase of blade sharpness directly cause cut precision during charity auctions?,Yes,blade sharpness,charity auctions,cut precision,O_D
+Will fuel octane cause the increase of art lectures which in turn causes the increase of engine power?,No,fuel octane,art lectures,engine power,O_D
+Will the increase of screen resolution directly cause image detail during career seminars?,Yes,screen resolution,career seminars,image detail,O_D
+Will water salinity cause the increase of cooking classes which in turn causes the increase of buoyancy level?,No,water salinity,cooking classes,buoyancy level,O_D
+Will the increase of dimmer setting directly cause light intensity during book launches?,Yes,dimmer setting,book launches,light intensity,O_D
+Will glue viscosity cause the increase of bus departures which in turn causes the increase of bond strength?,No,glue viscosity,bus departures,bond strength,O_D
+Will the increase of air humidity directly cause paper curling during museum admissions?,Yes,air humidity,museum admissions,paper curling,O_D
+Will brake friction cause the increase of language meetups which in turn causes the increase of stop distance?,No,brake friction,language meetups,stop distance,O_D
+Will the increase of flour moisture directly cause dough stickiness during tax workshops?,Yes,flour moisture,tax workshops,dough stickiness,O_D
+Will filter grade cause the increase of hiking permits which in turn causes the increase of particle capture?,No,filter grade,hiking permits,particle capture,O_D
+Will the increase of speaker volume directly cause sound loudness during theater lines?,Yes,speaker volume,theater lines,sound loudness,O_D
+Will vinegar strength cause the increase of book exchanges which in turn causes the increase of taste tang?,No,vinegar strength,book exchanges,taste tang,O_D
+Will the increase of pump voltage directly cause flow rate during campfire stories?,Yes,pump voltage,campfire stories,flow rate,O_D
+Will sugar ratio cause the increase of theater meetups which in turn causes the increase of syrup thickness?,No,sugar ratio,theater meetups,syrup thickness,O_D
+Will the increase of battery voltage directly cause motor speed during gallery nights?,Yes,battery voltage,gallery nights,motor speed,O_D
+Will slope angle cause the increase of park strolls which in turn causes the increase of climb effort?,No,slope angle,park strolls,climb effort,O_D
+Will the increase of thread count directly cause fabric softness during seminar talks?,Yes,thread count,seminar talks,fabric softness,O_D
+Will bake duration cause the increase of coffee tastings which in turn causes the increase of crust firmness?,No,bake duration,coffee tastings,crust firmness,O_D
+Will the increase of refresh rate directly cause motion smoothness during commute rides?,Yes,refresh rate,commute rides,motion smoothness,O_D
+Will brake fluid cause the increase of festival nights which in turn causes the increase of pedal feel?,No,brake fluid,festival nights,pedal feel,O_D
+Will the increase of handle length directly cause swing leverage during office lunches?,Yes,handle length,office lunches,swing leverage,O_D
+Will nozzle angle cause the increase of winter parades which in turn causes the increase of spray arc?,No,nozzle angle,winter parades,spray arc,O_D
+Will the increase of mirror polish directly cause reflection sharpness during craft circles?,Yes,mirror polish,craft circles,reflection sharpness,O_D
+Will pan heat cause the increase of lecture queues which in turn causes the increase of sear level?,No,pan heat,lecture queues,sear level,O_D
+Will the increase of cable length directly cause signal lag during family dinners?,Yes,cable length,family dinners,signal lag,O_D
+Will heater setting cause the increase of flower markets which in turn causes the increase of room warmth?,No,heater setting,flower markets,room warmth,O_D
+Will the increase of screen brightness directly cause glare level during library auctions?,Yes,screen brightness,library auctions,glare level,O_D
+Will tire tread cause the increase of art banquets which in turn causes the increase of road grip?,No,tire tread,art banquets,road grip,O_D
+Will the increase of coffee roast directly cause bitterness level during campus tours?,Yes,coffee roast,campus tours,bitterness level,O_D
+Will fan speed cause the increase of poetry readings which in turn causes the increase of airflow strength?,No,fan speed,poetry readings,airflow strength,O_D
+Will the increase of paint pigment directly cause color depth during science talks?,Yes,paint pigment,science talks,color depth,O_D
+Will nozzle diameter cause the increase of movie matinees which in turn causes the increase of spray width?,No,nozzle diameter,movie matinees,spray width,O_D
+Will the increase of wire thickness directly cause current strength during garden brunches?,Yes,wire thickness,garden brunches,current strength,O_D
+Will foam density cause the increase of history lectures which in turn causes the increase of cushion firmness?,No,foam density,history lectures,cushion firmness,O_D
+Will the increase of yeast amount directly cause dough rise during craft fairs?,Yes,yeast amount,craft fairs,dough rise,O_D
+Will bulb wattage cause the increase of book clubs which in turn causes the increase of light intensity?,No,bulb wattage,book clubs,light intensity,O_D
+Will the increase of glass polish directly cause reflection clarity during cooking contests?,Yes,glass polish,cooking contests,reflection clarity,O_D
+Will water depth cause the increase of film screenings which in turn causes the increase of swim effort?,No,water depth,film screenings,swim effort,O_D
+Will the increase of pedal weight directly cause ride effort during lecture breaks?,Yes,pedal weight,lecture breaks,ride effort,O_D
+Will ink load cause the increase of museum brunches which in turn causes the increase of mark darkness?,No,ink load,museum brunches,mark darkness,O_D
+Will the increase of tap opening directly cause water flow during dance socials?,Yes,tap opening,dance socials,water flow,O_D
+Will pepper amount cause the increase of garden tours which in turn causes the increase of heat intensity?,No,pepper amount,garden tours,heat intensity,O_D
+Will the increase of spring stiffness directly cause bounce height during alumni dinners?,Yes,spring stiffness,alumni dinners,bounce height,O_D
+Will oil viscosity cause the increase of campus picnics which in turn causes the increase of engine drag?,No,oil viscosity,campus picnics,engine drag,O_D
+Will the increase of blade angle directly cause cut smoothness during theater nights?,Yes,blade angle,theater nights,cut smoothness,O_D
+Will aperture size cause the increase of concert intervals which in turn causes the increase of depth blur?,No,aperture size,concert intervals,depth blur,O_D
+Will the increase of rope diameter directly cause tensile strength during campfire songs?,Yes,rope diameter,campfire songs,tensile strength,O_D
+Will sugar crystals cause the increase of market strolls which in turn causes the increase of graininess level?,No,sugar crystals,market strolls,graininess level,O_D
+Will the increase of paper humidity directly cause page warping during holiday banquets?,Yes,paper humidity,holiday banquets,page warping,O_D
+Will amp gain cause the increase of gallery openings which in turn causes the increase of sound loudness?,No,amp gain,gallery openings,sound loudness,O_D
+Will the increase of thread tension directly cause stitch tightness during poetry circles?,Yes,thread tension,poetry circles,stitch tightness,O_D
+Will paper acidity cause the increase of campus banquets which in turn causes the increase of yellowing speed?,No,paper acidity,campus banquets,yellowing speed,O_D
+Will the increase of wick length directly cause flame height during debate forums?,Yes,wick length,debate forums,flame height,O_D
+Will air pressure cause the increase of garden picnics which in turn causes the increase of ball bounce?,No,air pressure,garden picnics,ball bounce,O_D
+Will the increase of ice thickness directly cause melt rate during karaoke nights?,Yes,ice thickness,karaoke nights,melt rate,O_D
+Will screw torque cause the increase of book swaps which in turn causes the increase of joint tightness?,No,screw torque,book swaps,joint tightness,O_D
+Will the increase of ink dryness directly cause smudge risk during ferry rides?,Yes,ink dryness,ferry rides,smudge risk,O_D
+Will soil salinity cause the increase of film screenings which in turn causes the increase of plant wilt?,No,soil salinity,film screenings,plant wilt,O_D
+Will the increase of metal weight directly cause carry strain during history walks?,Yes,metal weight,history walks,carry strain,O_D
+Will wire length cause the increase of cafe chats which in turn causes the increase of signal delay?,No,wire length,cafe chats,signal delay,O_D
+Will the increase of wind speed directly cause sail tilt during museum socials?,Yes,wind speed,museum socials,sail tilt,O_D
+Will oil thickness cause the increase of market concerts which in turn causes the increase of friction drag?,No,oil thickness,market concerts,friction drag,O_D
+Will the increase of grain size directly cause texture roughness during office lunches?,Yes,grain size,office lunches,texture roughness,O_D
+Will light angle cause the increase of charity dinners which in turn causes the increase of shadow shape?,No,light angle,charity dinners,shadow shape,O_D
+Will the increase of water heat directly cause steam output during music meetups?,Yes,water heat,music meetups,steam output,O_D
+Will rubber softness cause the increase of seminar nights which in turn causes the increase of grip traction?,No,rubber softness,seminar nights,grip traction,O_D
+Will the increase of funnel width directly cause pour speed during camp workshops?,Yes,funnel width,camp workshops,pour speed,O_D
+Will acid strength cause the increase of river tours which in turn causes the increase of rust speed?,No,acid strength,river tours,rust speed,O_D
+Will the increase of valve gap directly cause leak rate during craft fairs?,Yes,valve gap,craft fairs,leak rate,O_D
+Will brick density cause the increase of train commutes which in turn causes the increase of wall weight?,No,brick density,train commutes,wall weight,O_D
+Will the increase of sponge pores directly cause water uptake during family brunches?,Yes,sponge pores,family brunches,water uptake,O_D
+Will cloth weave cause the increase of poster talks which in turn causes the increase of fabric roughness?,No,cloth weave,poster talks,fabric roughness,O_D
+Will the increase of chain tension directly cause pedal noise during science panels?,Yes,chain tension,science panels,pedal noise,O_D
+Will steam pressure cause the increase of alumni mixers which in turn causes the increase of whistle pitch?,No,steam pressure,alumni mixers,whistle pitch,O_D
+Will the increase of water chlorine directly cause pool odor during coding meetups?,Yes,water chlorine,coding meetups,pool odor,O_D
+Will bulb wattage cause the increase of mail volume which in turn causes the increase of light brightness?,No,bulb wattage,mail volume,light brightness,O_D
+Will the increase of salt amount directly cause soup saltiness during meeting hours?,Yes,salt amount,meeting hours,soup saltiness,O_D
+Will shutter speed cause the increase of traffic jam which in turn causes the increase of motion blur?,No,shutter speed,traffic jam,motion blur,O_D
+Will the increase of lens zoom directly cause image scale during lunch break?,Yes,lens zoom,lunch break,image scale,O_D
+Will brake friction cause the increase of airport queue which in turn causes the increase of stop distance?,No,brake friction,airport queue,stop distance,O_D
+Will the increase of fan speed directly cause airflow strength during exam pressure?,Yes,fan speed,exam pressure,airflow strength,O_D
+Will dye concentration cause the increase of budget talks which in turn causes the increase of color vibrance?,No,dye concentration,budget talks,color vibrance,O_D
+Will the increase of nozzle pressure directly cause spray force during museum line?,Yes,nozzle pressure,museum line,spray force,O_D
+Will rope thickness cause the increase of conference crowd which in turn causes the increase of knot strength?,No,rope thickness,conference crowd,knot strength,O_D
+Will the increase of tire tread directly cause road grip during campus rush?,Yes,tire tread,campus rush,road grip,O_D
+Will sugar ratio cause the increase of gallery crowd which in turn causes the increase of syrup thickness?,No,sugar ratio,gallery crowd,syrup thickness,O_D
+Will the increase of paper weight directly cause sheet stiffness during studio chatter?,Yes,paper weight,studio chatter,sheet stiffness,O_D
+Will coffee roast cause the increase of charity dinner which in turn causes the increase of bitterness level?,No,coffee roast,charity dinner,bitterness level,O_D
+Will the increase of oil viscosity directly cause friction drag during movie intermission?,Yes,oil viscosity,movie intermission,friction drag,O_D
+Will water salinity cause the increase of parking queue which in turn causes the increase of buoyancy level?,No,water salinity,parking queue,buoyancy level,O_D
+Will the increase of screen brightness directly cause glare level during storm alerts?,Yes,screen brightness,storm alerts,glare level,O_D
+Will oven temperature cause the increase of family dinner which in turn causes the increase of cook rate?,No,oven temperature,family dinner,cook rate,O_D
+Will the increase of thread count directly cause fabric softness during phone calls?,Yes,thread count,phone calls,fabric softness,O_D
+Will pump voltage cause the increase of library crowd which in turn causes the increase of flow rate?,No,pump voltage,library crowd,flow rate,O_D
+Will the increase of spice dose directly cause taste heat during taxi waits?,Yes,spice dose,taxi waits,taste heat,O_D
+Will mirror polish cause the increase of bus delays which in turn causes the increase of reflection clarity?,No,mirror polish,bus delays,reflection clarity,O_D
+Will the increase of wire length directly cause signal delay during lunch crowd?,Yes,wire length,lunch crowd,signal delay,O_D
+Will pan heat cause the increase of office meetings which in turn causes the increase of sear level?,No,pan heat,office meetings,sear level,O_D
+Will the increase of ice thickness directly cause melt rate during school traffic?,Yes,ice thickness,school traffic,melt rate,O_D
+Will cloth weave cause the increase of rain warnings which in turn causes the increase of fabric roughness?,No,cloth weave,rain warnings,fabric roughness,O_D
+Will the increase of fuel octane directly cause engine power during art lectures?,Yes,fuel octane,art lectures,engine power,O_D
+Will lens coating cause the increase of tax audits which in turn causes the increase of glare reduction?,No,lens coating,tax audits,glare reduction,O_D
+Will the increase of speaker distance directly cause echo level during garden harvests?,Yes,speaker distance,garden harvests,echo level,O_D
+Will battery voltage cause the increase of poetry slams which in turn causes the increase of motor speed?,No,battery voltage,poetry slams,motor speed,O_D
+Will the increase of paper thickness directly cause card rigidity during cargo inspections?,Yes,paper thickness,cargo inspections,card rigidity,O_D
+Will blade sharpness cause the increase of charity banquets which in turn causes the increase of cut smoothness?,No,blade sharpness,charity banquets,cut smoothness,O_D
+Will the increase of water temperature directly cause steam output during concert rehearsals?,Yes,water temperature,concert rehearsals,steam output,O_D
+Will oven timer cause the increase of visa renewals which in turn causes the increase of bake duration?,No,oven timer,visa renewals,bake duration,O_D
+Will the increase of strap tension directly cause buckle security during science fairs?,Yes,strap tension,science fairs,buckle security,O_D
+Will pepper amount cause the increase of airport pickups which in turn causes the increase of heat intensity?,No,pepper amount,airport pickups,heat intensity,O_D
+Will the increase of bulb color directly cause light tint during book exchanges?,Yes,bulb color,book exchanges,light tint,O_D
+Will wheel diameter cause the increase of budget meetings which in turn causes the increase of roll distance?,No,wheel diameter,budget meetings,roll distance,O_D
+Will the increase of sensor latency directly cause capture delay during market strolls?,Yes,sensor latency,market strolls,capture delay,O_D
+Will pump torque cause the increase of festival parades which in turn causes the increase of flow pressure?,No,pump torque,festival parades,flow pressure,O_D
+Will the increase of yarn twist directly cause stitch tightness during committee meetings?,Yes,yarn twist,committee meetings,stitch tightness,O_D
+Will syrup density cause the increase of hiking breaks which in turn causes the increase of pour speed?,No,syrup density,hiking breaks,pour speed,O_D
+Will the increase of brick weight directly cause carry strain during movie nights?,Yes,brick weight,movie nights,carry strain,O_D
+Will font size cause the increase of bus delays which in turn causes the increase of reading ease?,No,font size,bus delays,reading ease,O_D
+Will the increase of tread pattern directly cause tire noise during music lessons?,Yes,tread pattern,music lessons,tire noise,O_D
+Will clay moisture cause the increase of grant reviews which in turn causes the increase of drying time?,No,clay moisture,grant reviews,drying time,O_D
+Will the increase of toner load directly cause print darkness during hotel checkins?,Yes,toner load,hotel checkins,print darkness,O_D
+Will spring tension cause the increase of letter sorting which in turn causes the increase of rebound force?,No,spring tension,letter sorting,rebound force,O_D
+Will the increase of paint gloss directly cause surface shine during job interviews?,Yes,paint gloss,job interviews,surface shine,O_D
+Will magnet strength cause the increase of travel bookings which in turn causes the increase of needle drift?,No,magnet strength,travel bookings,needle drift,O_D
+Will the increase of filter density directly cause light dimming during coffee breaks?,Yes,filter density,coffee breaks,light dimming,O_D
+Will laser power cause the increase of campfire stories which in turn causes the increase of cut depth?,No,laser power,campfire stories,cut depth,O_D
+Will the increase of acid ratio directly cause sourness bite during board meetings?,Yes,acid ratio,board meetings,sourness bite,O_D
+Will shutter duration cause the increase of yoga retreats which in turn causes the increase of motion smear?,No,shutter duration,yoga retreats,motion smear,O_D
+Will the increase of tire pressure directly cause ride firmness during poetry readings?,Yes,tire pressure,poetry readings,ride firmness,O_D
+Will heater setting cause the increase of harbor festivals which in turn causes the increase of room warmth?,No,heater setting,harbor festivals,room warmth,O_D
+Will the increase of glue amount directly cause bond strength during museum lectures?,Yes,glue amount,museum lectures,bond strength,O_D
+Will blade angle cause the increase of office parties which in turn causes the increase of slice width?,No,blade angle,office parties,slice width,O_D
+Will the increase of flour moisture directly cause dough stickiness during city tours?,Yes,flour moisture,city tours,dough stickiness,O_D
+Will water hardness cause the increase of election debates which in turn causes the increase of soap lather?,No,water hardness,election debates,soap lather,O_D
+Will the increase of router distance directly cause signal strength during camp classes?,Yes,router distance,camp classes,signal strength,O_D
+Will engine torque cause the increase of pull force during garden seminars?,No,engine torque,garden seminars,pull force,O_D
+Will the increase of paper grain directly cause fold smoothness during lunch socials?,Yes,paper grain,lunch socials,fold smoothness,O_D
+Will pepper grind cause the increase of train layovers which in turn causes the increase of spice heat?,No,pepper grind,train layovers,spice heat,O_D
+Will the increase of mirror angle directly cause reflection direction during job fairs?,Yes,mirror angle,job fairs,reflection direction,O_D
+Will hose diameter cause the increase of study circles which in turn causes the increase of flow volume?,No,hose diameter,study circles,flow volume,O_D
+Will the increase of battery charge directly cause device uptime during art auctions?,Yes,battery charge,art auctions,device uptime,O_D
+Will ice amount cause the increase of film nights which in turn causes the increase of drink chill?,No,ice amount,film nights,drink chill,O_D
+Will the increase of air temperature directly cause evaporation speed during music camps?,Yes,air temperature,music camps,evaporation speed,O_D
+Will bolt looseness cause the increase of policy panels which in turn causes the increase of wheel wobble?,No,bolt looseness,policy panels,wheel wobble,O_D
+Will the increase of brew time directly cause coffee strength during dance recitals?,Yes,brew time,dance recitals,coffee strength,O_D
+Will lens fog cause the increase of festival dinners which in turn causes the increase of image haze?,No,lens fog,festival dinners,image haze,O_D
+Will the increase of foam softness directly cause seat comfort during survey meetings?,Yes,foam softness,survey meetings,seat comfort,O_D
+Will sun angle cause the increase of campus tours which in turn causes the increase of shadow length?,No,sun angle,campus tours,shadow length,O_D
+Will the increase of paint pigment directly cause color richness during charity hikes?,Yes,paint pigment,charity hikes,color richness,O_D
+Will freezer setting cause the increase of panel lunches which in turn causes the increase of ice hardness?,No,freezer setting,panel lunches,ice hardness,O_D
+Will the increase of grain coarseness directly cause surface roughness during piano recitals?,Yes,grain coarseness,piano recitals,surface roughness,O_D
+Will salt content cause the increase of debate lunches which in turn causes the increase of water salinity?,No,salt content,debate lunches,water salinity,O_D
+Will the increase of filter clogging directly cause flow resistance during gallery tours?,Yes,filter clogging,gallery tours,flow resistance,O_D
+Will wick thickness cause the increase of campus picnics which in turn causes the increase of flame height?,No,wick thickness,campus picnics,flame height,O_D
+Will the increase of hinge looseness directly cause door sag during charity banquets?,Yes,hinge looseness,charity banquets,door sag,O_D
+Will hose pressure cause the increase of winter markets which in turn causes the increase of spray reach?,No,hose pressure,winter markets,spray reach,O_D
+Will the increase of paint viscosity directly cause brush drag during office breaks?,Yes,paint viscosity,office breaks,brush drag,O_D
+Will fuel mixture cause the increase of seminar nights which in turn causes the increase of exhaust smoke?,No,fuel mixture,seminar nights,exhaust smoke,O_D
+Will the increase of stitch tension directly cause seam tightness during airport queues?,Yes,stitch tension,airport queues,seam tightness,O_D
+Will brew ratio cause the increase of city walks which in turn causes the increase of taste strength?,No,brew ratio,city walks,taste strength,O_D
+Will the increase of soap dilution directly cause lather level during film screenings?,Yes,soap dilution,film screenings,lather level,O_D
+Will stone polish cause the increase of book fairs which in turn causes the increase of surface shine?,No,stone polish,book fairs,surface shine,O_D
+Will the increase of fiber content directly cause card stiffness during street festivals?,Yes,fiber content,street festivals,card stiffness,O_D
+Will sun exposure cause the increase of job interviews which in turn causes the increase of color fading?,No,sun exposure,job interviews,color fading,O_D
+Will the increase of tread depth directly cause skid risk during museum queues?,Yes,tread depth,museum queues,skid risk,O_D
+Will sensor noise cause the increase of family dinners which in turn causes the increase of image grain?,No,sensor noise,family dinners,image grain,O_D
+Will the increase of chili dose directly cause heat intensity during lecture breaks?,Yes,chili dose,lecture breaks,heat intensity,O_D
+Will lens aperture cause the increase of harbor lunches which in turn causes the increase of background blur?,No,lens aperture,harbor lunches,background blur,O_D
+Will the increase of ink pigment directly cause color depth during dinner rush?,Yes,ink pigment,dinner rush,color depth,O_D
+Will battery capacity cause the increase of theater nights which in turn causes the increase of device uptime?,No,battery capacity,theater nights,device uptime,O_D
+Will the increase of pump power directly cause flow rate during radio shows?,Yes,pump power,radio shows,flow rate,O_D
+Will sand moisture cause the increase of wedding showers which in turn causes the increase of clump rate?,No,sand moisture,wedding showers,clump rate,O_D
+Will the increase of speaker gain directly cause sound volume during harbor tours?,Yes,speaker gain,harbor tours,sound volume,O_D
+Will pipe width cause the increase of art auctions which in turn causes the increase of water throughput?,No,pipe width,art auctions,water throughput,O_D
+Will the increase of glaze thickness directly cause shine level during mountain retreats?,Yes,glaze thickness,mountain retreats,shine level,O_D
+An increase in heater setting leads to more piano lessons and an increase in piano lessons leads to more cabin warmth.,No,heater setting,piano lessons,cabin warmth,O_A
+An increase in vent power directly leads to more air output during pottery lessons.,Yes,vent power,pottery lessons,air output,O_A
+An increase in sugar spoon leads to more craft lessons and an increase in craft lessons leads to more tea sweetness.,No,sugar spoon,craft lessons,tea sweetness,O_A
+An increase in brake force directly leads to more stop distance during book signings.,Yes,brake force,book signings,stop distance,O_A
+An increase in screen zoom leads to more hiking picnics and an increase in hiking picnics leads to more display scale.,No,screen zoom,hiking picnics,display scale,O_A
+An increase in dye strength directly leads to more shade depth during gallery openings.,Yes,dye strength,gallery openings,shade depth,O_A
+An increase in lamp height leads to more museum walks and an increase in museum walks leads to more light spread.,No,lamp height,museum walks,light spread,O_A
+An increase in pipe slope directly leads to more water drainage during stamp sorting.,Yes,pipe slope,stamp sorting,water drainage,O_A
+An increase in tire width leads to more study marathons and an increase in study marathons leads to more road traction.,No,tire width,study marathons,road traction,O_A
+An increase in battery age directly leads to more voltage drop during film premiers.,Yes,battery age,film premiers,voltage drop,O_A
+An increase in filter mesh leads to more garden tours and an increase in garden tours leads to more dust capture.,No,filter mesh,garden tours,dust capture,O_A
+An increase in speaker power directly leads to more audio loudness during campfire chats.,Yes,speaker power,campfire chats,audio loudness,O_A
+An increase in burner heat leads to more workplace meetings and an increase in workplace meetings leads to more boil speed.,No,burner heat,workplace meetings,boil speed,O_A
+An increase in nozzle angle directly leads to more spray pattern during campus festivals.,Yes,nozzle angle,campus festivals,spray pattern,O_A
+An increase in visor shade leads to more cooking lessons and an increase in cooking lessons leads to more glare control.,No,visor shade,cooking lessons,glare control,O_A
+An increase in card stock directly leads to more sheet rigidity during museum nights.,Yes,card stock,museum nights,sheet rigidity,O_A
+An increase in cord tension leads to more market visits and an increase in market visits leads to more knot tightness.,No,cord tension,market visits,knot tightness,O_A
+An increase in ice packs directly leads to more cooling power during piano recitals.,Yes,ice packs,piano recitals,cooling power,O_A
+An increase in palette saturation leads to more nature hikes and an increase in nature hikes leads to more tone vibrance.,No,palette saturation,nature hikes,tone vibrance,O_A
+An increase in spring tension directly leads to more rebound height during poetry slams.,Yes,spring tension,poetry slams,rebound height,O_A
+An increase in engine torque leads to more garden parties and an increase in garden parties leads to more axle speed.,No,engine torque,garden parties,axle speed,O_A
+An increase in screen sharpness directly leads to more letter clarity during class lectures.,Yes,screen sharpness,class lectures,letter clarity,O_A
+An increase in filter density leads to more lab tours and an increase in lab tours leads to more odor removal.,No,filter density,lab tours,odor removal,O_A
+An increase in flash power directly leads to more image brightness during dance nights.,Yes,flash power,dance nights,image brightness,O_A
+An increase in valve opening leads to more ski trips and an increase in ski trips leads to more water flow.,No,valve opening,ski trips,water flow,O_A
+An increase in lens coating directly leads to more glare reduction during tax returns.,Yes,lens coating,tax returns,glare reduction,O_A
+An increase in soda bubbles leads to more park concerts and an increase in park concerts leads to more fizz level.,No,soda bubbles,park concerts,fizz level,O_A
+An increase in chair padding directly leads to more seat softness during museum lines.,Yes,chair padding,museum lines,seat softness,O_A
+An increase in marker pressure leads to more beach games and an increase in beach games leads to more stroke width.,No,marker pressure,beach games,stroke width,O_A
+An increase in screen brightness directly leads to more battery drain during choir concerts.,Yes,screen brightness,choir concerts,battery drain,O_A
+An increase in heater setting leads to more lunch meetings and an increase in lunch meetings leads to more room heat.,No,heater setting,lunch meetings,room heat,O_A
+An increase in fan voltage directly leads to more airflow volume during science talks.,Yes,fan voltage,science talks,airflow volume,O_A
+An increase in sugar granules leads to more campus fairs and an increase in campus fairs leads to more sweetness level.,No,sugar granules,campus fairs,sweetness level,O_A
+An increase in brush bristles directly leads to more paint spread during city parades.,Yes,brush bristles,city parades,paint spread,O_A
+An increase in tire alignment leads to more movie queue and an increase in movie queue leads to more steering stability.,No,tire alignment,movie queue,steering stability,O_A
+An increase in nozzle pressure directly leads to more spray distance during dance socials.,Yes,nozzle pressure,dance socials,spray distance,O_A
+An increase in paper density leads to more study halls and an increase in study halls leads to more page stiffness.,No,paper density,study halls,page stiffness,O_A
+An increase in cable length directly leads to more signal lag during cooking shows.,Yes,cable length,cooking shows,signal lag,O_A
+An increase in speaker wattage leads to more garden tours and an increase in garden tours leads to more sound power.,No,speaker wattage,garden tours,sound power,O_A
+An increase in battery charge directly leads to more runtime hours during hiking trips.,Yes,battery charge,hiking trips,runtime hours,O_A
+An increase in lens aperture leads to more art markets and an increase in art markets leads to more image brightness.,No,lens aperture,art markets,image brightness,O_A
+An increase in oven temperature directly leads to more bake rate during book swaps.,Yes,oven temperature,book swaps,bake rate,O_A
+An increase in soap concentration leads to more bus stops and an increase in bus stops leads to more foam density.,No,soap concentration,bus stops,foam density,O_A
+An increase in mirror angle directly leads to more reflection direction during craft markets.,Yes,mirror angle,craft markets,reflection direction,O_A
+An increase in pump speed leads to more lecture breaks and an increase in lecture breaks leads to more water output.,No,pump speed,lecture breaks,water output,O_A
+An increase in dye saturation directly leads to more color richness during film festivals.,Yes,dye saturation,film festivals,color richness,O_A
+An increase in spring stiffness leads to more karaoke nights and an increase in karaoke nights leads to more rebound height.,No,spring stiffness,karaoke nights,rebound height,O_A
+An increase in filter fiber directly leads to more dust capture during family visits.,Yes,filter fiber,family visits,dust capture,O_A
+An increase in panel spacing leads to more beach picnics and an increase in beach picnics leads to more light spread.,No,panel spacing,beach picnics,light spread,O_A
+An increase in thread thickness directly leads to more stitch strength during cooking contests.,Yes,thread thickness,cooking contests,stitch strength,O_A
+An increase in ink flow leads to more recipe swaps and an increase in recipe swaps leads to more line darkness.,No,ink flow,recipe swaps,line darkness,O_A
+An increase in lens fog directly leads to more image haze during stamp trading.,Yes,lens fog,stamp trading,image haze,O_A
+An increase in tire slip leads to more museum visits and an increase in museum visits leads to more skid risk.,No,tire slip,museum visits,skid risk,O_A
+An increase in pan oil directly leads to more sizzle noise during book browsing.,Yes,pan oil,book browsing,sizzle noise,O_A
+An increase in glue layer leads to more chess breaks and an increase in chess breaks leads to more bond strength.,No,glue layer,chess breaks,bond strength,O_A
+An increase in fabric heat directly leads to more warmth level during tax planning.,Yes,fabric heat,tax planning,warmth level,O_A
+An increase in nozzle tilt leads to more cookie tastings and an increase in cookie tastings leads to more spray arc.,No,nozzle tilt,cookie tastings,spray arc,O_A
+An increase in cable slack directly leads to more signal wobble during travel chats.,Yes,cable slack,travel chats,signal wobble,O_A
+An increase in paper gloss leads to more puzzle nights and an increase in puzzle nights leads to more print shine.,No,paper gloss,puzzle nights,print shine,O_A
+An increase in mirror tilt directly leads to more reflection shift during craft lessons.,Yes,mirror tilt,craft lessons,reflection shift,O_A
+An increase in valve twist leads to more board games and an increase in board games leads to more stream burst.,No,valve twist,board games,stream burst,O_A
+An increase in soap amount directly leads to more bubble count during lunch talks.,Yes,soap amount,lunch talks,bubble count,O_A
+An increase in ink dilution leads to more choir rehearsals and an increase in choir rehearsals leads to more color fade.,No,ink dilution,choir rehearsals,color fade,O_A
+An increase in gear rust directly leads to more wheel drag during museum queues.,Yes,gear rust,museum queues,wheel drag,O_A
+An increase in lamp wattage leads to more cookie swaps and an increase in cookie swaps leads to more light glare.,No,lamp wattage,cookie swaps,light glare,O_A
+An increase in paint solvent directly leads to more odor strength during stamp auctions.,Yes,paint solvent,stamp auctions,odor strength,O_A
+An increase in brake heat leads to more reading lunches and an increase in reading lunches leads to more fade risk.,No,brake heat,reading lunches,fade risk,O_A
+An increase in glass dust directly leads to more scratch marks during recipe planning.,Yes,glass dust,recipe planning,scratch marks,O_A
+An increase in coffee grounds leads to more tax seminars and an increase in tax seminars leads to more bitterness level.,No,coffee grounds,tax seminars,bitterness level,O_A
+An increase in pump torque directly leads to more pressure output during film talks.,Yes,pump torque,film talks,pressure output,O_A
+An increase in lens dust leads to more art galleries and an increase in art galleries leads to more spot artifacts.,No,lens dust,art galleries,spot artifacts,O_A
+An increase in tire grit directly leads to more tread noise during travel journaling.,Yes,tire grit,travel journaling,tread noise,O_A
+An increase in paper weight leads to more science fairs and an increase in science fairs leads to more fold resistance.,No,paper weight,science fairs,fold resistance,O_A
+An increase in ink pressure directly leads to more mark depth during language chats.,Yes,ink pressure,language chats,mark depth,O_A
+An increase in pan salt leads to more puzzle marathons and an increase in puzzle marathons leads to more flavor intensity.,No,pan salt,puzzle marathons,flavor intensity,O_A
+An increase in water temperature directly leads to more melt water during poetry slams.,Yes,water temperature,poetry slams,melt water,O_A
+An increase in blade angle leads to more campus tours and an increase in campus tours leads to more cut smoothness.,No,blade angle,campus tours,cut smoothness,O_A
+An increase in font size directly leads to more reading ease during picnic games.,Yes,font size,picnic games,reading ease,O_A
+An increase in fuel mixture leads to more book fairs and an increase in book fairs leads to more engine power.,No,fuel mixture,book fairs,engine power,O_A
+An increase in sugar amount directly leads to more cookie sweetness during gallery nights.,Yes,sugar amount,gallery nights,cookie sweetness,O_A
+An increase in brake tension leads to more volunteer rallies and an increase in volunteer rallies leads to more brake response.,No,brake tension,volunteer rallies,brake response,O_A
+An increase in pipe clog directly leads to more drain backup during conference breaks.,Yes,pipe clog,conference breaks,drain backup,O_A
+An increase in mesh size leads to more orchard walks and an increase in orchard walks leads to more dust capture.,No,mesh size,orchard walks,dust capture,O_A
+An increase in shutter speed directly leads to more blur reduction during ferry rides.,Yes,shutter speed,ferry rides,blur reduction,O_A
+An increase in spice level leads to more market lunches and an increase in market lunches leads to more heat sensation.,No,spice level,market lunches,heat sensation,O_A
+An increase in airflow setting directly leads to more cooling comfort during winter parades.,Yes,airflow setting,winter parades,cooling comfort,O_A
+An increase in dye concentration leads to more seminar talks and an increase in seminar talks leads to more color vibrance.,No,dye concentration,seminar talks,color vibrance,O_A
+An increase in cushion depth directly leads to more sitting comfort during craft circles.,Yes,cushion depth,craft circles,sitting comfort,O_A
+An increase in shade panel leads to more lecture queues and an increase in lecture queues leads to more glare blocking.,No,shade panel,lecture queues,glare blocking,O_A
+An increase in rope thickness directly leads to more knot security during garden picnics.,Yes,rope thickness,garden picnics,knot security,O_A
+An increase in card thickness leads to more office socials and an increase in office socials leads to more page rigidity.,No,card thickness,office socials,page rigidity,O_A
+An increase in tripod weight directly leads to more camera stability during theater meetups.,Yes,tripod weight,theater meetups,camera stability,O_A
+An increase in lid seal leads to more commute rides and an increase in commute rides leads to more steam retention.,No,lid seal,commute rides,steam retention,O_A
+An increase in salt content directly leads to more soup saltiness during park concerts.,Yes,salt content,park concerts,soup saltiness,O_A
+An increase in pen pressure leads to more study retreats and an increase in study retreats leads to more ink darkness.,No,pen pressure,study retreats,ink darkness,O_A
+An increase in wire thickness directly leads to more current strength during family dinners.,Yes,wire thickness,family dinners,current strength,O_A
+An increase in fan tilt leads to more hiking meetups and an increase in hiking meetups leads to more airflow shift.,No,fan tilt,hiking meetups,airflow shift,O_A
+An increase in cream amount directly leads to more coffee richness during coffee tastings.,Yes,cream amount,coffee tastings,coffee richness,O_A
+An increase in shock damping leads to more library tours and an increase in library tours leads to more ride comfort.,No,shock damping,library tours,ride comfort,O_A
+An increase in valve turn directly leads to more water flow during festival nights.,Yes,valve turn,festival nights,water flow,O_A
+An increase in lens focus leads to more evening lectures and an increase in evening lectures leads to more image sharpness.,No,lens focus,evening lectures,image sharpness,O_A
+An increase in salt dose directly leads to more soup saltiness during lunch gatherings.,Yes,salt dose,lunch gatherings,soup saltiness,O_A
+An increase in flame height leads to more camp meetings and an increase in camp meetings leads to more heat output.,No,flame height,camp meetings,heat output,O_A
+An increase in speaker distance directly leads to more echo level during study lounges.,Yes,speaker distance,study lounges,echo level,O_A
+An increase in door gap leads to more winter gatherings and an increase in winter gatherings leads to more draft airflow.,No,door gap,winter gatherings,draft airflow,O_A
+An increase in screen contrast directly leads to more text visibility during movie nights.,Yes,screen contrast,movie nights,text visibility,O_A
+An increase in oil temperature leads to more cooking demos and an increase in cooking demos leads to more sizzle loudness.,No,oil temperature,cooking demos,sizzle loudness,O_A
+An increase in brush stiffness directly leads to more stroke roughness during art meetups.,Yes,brush stiffness,art meetups,stroke roughness,O_A
+An increase in paper thickness leads to more gift wrapping and an increase in gift wrapping leads to more card rigidity.,No,paper thickness,gift wrapping,card rigidity,O_A
+An increase in nozzle pressure directly leads to more spray force during garden parties.,Yes,nozzle pressure,garden parties,spray force,O_A
+An increase in flash duration leads to more concert encores and an increase in concert encores leads to more exposure level.,No,flash duration,concert encores,exposure level,O_A
+An increase in clutch tension directly leads to more pedal firmness during city drives.,Yes,clutch tension,city drives,pedal firmness,O_A
+An increase in water turbidity leads to more lake swims and an increase in lake swims leads to more visibility range.,No,water turbidity,lake swims,visibility range,O_A
+An increase in glass tint directly leads to more glare reduction during highway commutes.,Yes,glass tint,highway commutes,glare reduction,O_A
+An increase in fan angle leads to more office meetings and an increase in office meetings leads to more airflow direction.,No,fan angle,office meetings,airflow direction,O_A
+An increase in salt granules directly leads to more crunch texture during snack breaks.,Yes,salt granules,snack breaks,crunch texture,O_A
+An increase in milk fat leads to more cafe visits and an increase in cafe visits leads to more coffee creaminess.,No,milk fat,cafe visits,coffee creaminess,O_A
+An increase in ice volume directly leads to more cooling effect during summer picnics.,Yes,ice volume,summer picnics,cooling effect,O_A
+An increase in strap tension leads to more hiking stops and an increase in hiking stops leads to more buckle security.,No,strap tension,hiking stops,buckle security,O_A
+An increase in lamp height directly leads to more shadow size during theater warmups.,Yes,lamp height,theater warmups,shadow size,O_A
+An increase in grinder size leads to more tea tastings and an increase in tea tastings leads to more particle size.,No,grinder size,tea tastings,particle size,O_A
+An increase in oven heat directly leads to more browning level during dinner servings.,Yes,oven heat,dinner servings,browning level,O_A
+An increase in tread pattern leads to more bridge crossings and an increase in bridge crossings leads to more tire noise.,No,tread pattern,bridge crossings,tire noise,O_A
+An increase in pen angle directly leads to more line thickness during note taking.,Yes,pen angle,note taking,line thickness,O_A
+An increase in wire gauge leads to more museum lectures and an increase in museum lectures leads to more current limit.,No,wire gauge,museum lectures,current limit,O_A
+An increase in glass thickness directly leads to more break resistance during poetry nights.,Yes,glass thickness,poetry nights,break resistance,O_A
+An increase in sauce acidity leads to more coding lunches and an increase in coding lunches leads to more taste tang.,No,sauce acidity,coding lunches,taste tang,O_A
+An increase in belt friction directly leads to more slip risk during museum socials.,Yes,belt friction,museum socials,slip risk,O_A
+An increase in coin weight leads to more garden parties and an increase in garden parties leads to more pocket strain.,No,coin weight,garden parties,pocket strain,O_A
+An increase in fog density directly leads to more visibility loss during book fairs.,Yes,fog density,book fairs,visibility loss,O_A
+An increase in brick size leads to more ferry queues and an increase in ferry queues leads to more stack height.,No,brick size,ferry queues,stack height,O_A
+An increase in rope fraying directly leads to more snap risk during art showcases.,Yes,rope fraying,art showcases,snap risk,O_A
+An increase in snow thickness leads to more camp talks and an increase in camp talks leads to more plow effort.,No,snow thickness,camp talks,plow effort,O_A
+An increase in copper purity directly leads to more conductivity level during camp socials.,Yes,copper purity,camp socials,conductivity level,O_A
+An increase in paint dryness leads to more lecture walks and an increase in lecture walks leads to more crack risk.,No,paint dryness,lecture walks,crack risk,O_A
+An increase in filter pores directly leads to more dust capture during river cruises.,Yes,filter pores,river cruises,dust capture,O_A
+An increase in foam firmness leads to more parade routes and an increase in parade routes leads to more seat comfort.,No,foam firmness,parade routes,seat comfort,O_A
+An increase in shade width directly leads to more glare blocking during office dinners.,Yes,shade width,office dinners,glare blocking,O_A
+An increase in torch angle leads to more campus fairs and an increase in campus fairs leads to more beam spread.,No,torch angle,campus fairs,beam spread,O_A
+An increase in pan curvature directly leads to more oil pooling during seminar lunches.,Yes,pan curvature,seminar lunches,oil pooling,O_A
+An increase in spring length leads to more market strolls and an increase in market strolls leads to more stretch range.,No,spring length,market strolls,stretch range,O_A
+An increase in oil content directly leads to more smoke output during movie marathons.,Yes,oil content,movie marathons,smoke output,O_A
+An increase in buckle tension leads to more holiday parades and an increase in holiday parades leads to more hold strength.,No,buckle tension,holiday parades,hold strength,O_A
+An increase in paper fiber directly leads to more tear resistance during camp lunches.,Yes,paper fiber,camp lunches,tear resistance,O_A
+An increase in sugar moisture leads to more debate circles and an increase in debate circles leads to more clump rate.,No,sugar moisture,debate circles,clump rate,O_A
+An increase in stone roughness directly leads to more traction feel during history talks.,Yes,stone roughness,history talks,traction feel,O_A
+An increase in needle length leads to more lobby meetings and an increase in lobby meetings leads to more pierce depth.,No,needle length,lobby meetings,pierce depth,O_A
+An increase in jar vacuum directly leads to more seal strength during arena tours.,Yes,jar vacuum,arena tours,seal strength,O_A
+An increase in wire gauge leads to more gallery chats and an increase in gallery chats leads to more current limit.,No,wire gauge,gallery chats,current limit,O_A
+An increase in ink load directly leads to more mark darkness during town meetings.,Yes,ink load,town meetings,mark darkness,O_A
+An increase in ink opacity leads to more traffic volume and an increase in traffic volume leads to more print darkness.,No,ink opacity,traffic volume,print darkness,O_A
+An increase in sugar amount directly leads to more cookie sweetness during exam stress.,Yes,sugar amount,exam stress,cookie sweetness,O_A
+An increase in lens scratch leads to more office hours and an increase in office hours leads to more image streaks.,No,lens scratch,office hours,image streaks,O_A
+An increase in brake tension directly leads to more pedal firmness during market crowd.,Yes,brake tension,market crowd,pedal firmness,O_A
+An increase in fan angle leads to more meeting breaks and an increase in meeting breaks leads to more airflow direction.,No,fan angle,meeting breaks,airflow direction,O_A
+An increase in dye dilution directly leads to more color fade during train waits.,Yes,dye dilution,train waits,color fade,O_A
+An increase in salt crystals leads to more museum crowd and an increase in museum crowd leads to more grain texture.,No,salt crystals,museum crowd,grain texture,O_A
+An increase in spring stiffness directly leads to more rebound force during cafe chatter.,Yes,spring stiffness,cafe chatter,rebound force,O_A
+An increase in nozzle width leads to more seminar breaks and an increase in seminar breaks leads to more spray spread.,No,nozzle width,seminar breaks,spray spread,O_A
+An increase in rope fraying directly leads to more snap risk during holiday traffic.,Yes,rope fraying,holiday traffic,snap risk,O_A
+An increase in mirror grime leads to more theater crowd and an increase in theater crowd leads to more reflection haze.,No,mirror grime,theater crowd,reflection haze,O_A
+An increase in paper humidity directly leads to more page warping during rain alerts.,Yes,paper humidity,rain alerts,page warping,O_A
+An increase in oil temperature leads to more dinner rush and an increase in dinner rush leads to more sizzle loudness.,No,oil temperature,dinner rush,sizzle loudness,O_A
+An increase in shutter delay directly leads to more capture lag during parking demand.,Yes,shutter delay,parking demand,capture lag,O_A
+An increase in coffee grind leads to more ferry queues and an increase in ferry queues leads to more flavor strength.,No,coffee grind,ferry queues,flavor strength,O_A
+An increase in water depth directly leads to more swim effort during festival crowd.,Yes,water depth,festival crowd,swim effort,O_A
+An increase in air humidity leads to more office bustle and an increase in office bustle leads to more paper curling.,No,air humidity,office bustle,paper curling,O_A
+An increase in thread tension directly leads to more stitch tightness during taxi demand.,Yes,thread tension,taxi demand,stitch tightness,O_A
+An increase in screen contrast leads to more lunch rush and an increase in lunch rush leads to more letter clarity.,No,screen contrast,lunch rush,letter clarity,O_A
+An increase in valve opening directly leads to more flow surge during forum chatter.,Yes,valve opening,forum chatter,flow surge,O_A
+An increase in stone roughness leads to more campus crowd and an increase in campus crowd leads to more traction feel.,No,stone roughness,campus crowd,traction feel,O_A
+An increase in foam density directly leads to more cushion firmness during movie trailers.,Yes,foam density,movie trailers,cushion firmness,O_A
+An increase in glass tint leads to more snow flurries and an increase in snow flurries leads to more glare reduction.,No,glass tint,snow flurries,glare reduction,O_A
+An increase in wire gauge directly leads to more current limit during dawn traffic.,Yes,wire gauge,dawn traffic,current limit,O_A
+An increase in grill heat leads to more picnic games and an increase in picnic games leads to more crust browning.,No,grill heat,picnic games,crust browning,O_A
+An increase in bolt torque directly leads to more joint tightness during festival rehearsals.,Yes,bolt torque,festival rehearsals,joint tightness,O_A
+An increase in lamp height leads to more cafeteria lunches and an increase in cafeteria lunches leads to more shadow length.,No,lamp height,cafeteria lunches,shadow length,O_A
+An increase in air moisture directly leads to more paper curling during museum queues.,Yes,air moisture,museum queues,paper curling,O_A
+An increase in carbonation level leads to more study groups and an increase in study groups leads to more fizz strength.,No,carbonation level,study groups,fizz strength,O_A
+An increase in wheel alignment directly leads to more steer drift during office commutes.,Yes,wheel alignment,office commutes,steer drift,O_A
+An increase in ink saturation leads to more passport checks and an increase in passport checks leads to more print boldness.,No,ink saturation,passport checks,print boldness,O_A
+An increase in foam thickness directly leads to more cushion firmness during camp reunions.,Yes,foam thickness,camp reunions,cushion firmness,O_A
+An increase in aperture size leads to more mall visits and an increase in mall visits leads to more depth blur.,No,aperture size,mall visits,depth blur,O_A
+An increase in chlorine dose directly leads to more pool odor during seminar breaks.,Yes,chlorine dose,seminar breaks,pool odor,O_A
+An increase in crystal size leads to more bus arrivals and an increase in bus arrivals leads to more grain texture.,No,crystal size,bus arrivals,grain texture,O_A
+An increase in cotton ratio directly leads to more fabric softness during train commutes.,Yes,cotton ratio,train commutes,fabric softness,O_A
+An increase in gas flow leads to more alumni mixers and an increase in alumni mixers leads to more flame height.,No,gas flow,alumni mixers,flame height,O_A
+An increase in sprayer tilt directly leads to more spray arc during garden picnics.,Yes,sprayer tilt,garden picnics,spray arc,O_A
+An increase in exposure time leads to more theater matinees and an increase in theater matinees leads to more motion blur.,No,exposure time,theater matinees,motion blur,O_A
+An increase in mirror polish directly leads to more reflection clarity during choir gatherings.,Yes,mirror polish,choir gatherings,reflection clarity,O_A
+An increase in spring length leads to more lecture pauses and an increase in lecture pauses leads to more stretch range.,No,spring length,lecture pauses,stretch range,O_A
+An increase in gear ratio directly leads to more engine speed during ferry crossings.,Yes,gear ratio,ferry crossings,engine speed,O_A
+An increase in rope diameter leads to more picnic games and an increase in picnic games leads to more knot strength.,No,rope diameter,picnic games,knot strength,O_A
+An increase in font weight directly leads to more text clarity during book signings.,Yes,font weight,book signings,text clarity,O_A
+An increase in visor shade leads to more bus waits and an increase in bus waits leads to more glare blocking.,No,visor shade,bus waits,glare blocking,O_A
+An increase in sunlight exposure directly leads to more yellowing speed during music showcases.,Yes,sunlight exposure,music showcases,yellowing speed,O_A
+An increase in grind size leads to more conference lunches and an increase in conference lunches leads to more flavor strength.,No,grind size,conference lunches,flavor strength,O_A
+An increase in ice volume directly leads to more cooling effect during winter trips.,Yes,ice volume,winter trips,cooling effect,O_A
+An increase in cable length leads to more campus tours and an increase in campus tours leads to more signal delay.,No,cable length,campus tours,signal delay,O_A
+An increase in brake pads directly leads to more stopping power during street parades.,Yes,brake pads,street parades,stopping power,O_A
+An increase in monitor glare leads to more harvest festivals and an increase in harvest festivals leads to more vision fatigue.,No,monitor glare,harvest festivals,vision fatigue,O_A
+An increase in pan temperature directly leads to more sear browning during budget hearings.,Yes,pan temperature,budget hearings,sear browning,O_A
+An increase in fabric weight leads to more choir banquets and an increase in choir banquets leads to more drape hang.,No,fabric weight,choir banquets,drape hang,O_A
+An increase in detergent dose directly leads to more foam volume during ship tours.,Yes,detergent dose,ship tours,foam volume,O_A
+An increase in brake wear leads to more art meetings and an increase in art meetings leads to more squeal noise.,No,brake wear,art meetings,squeal noise,O_A
+An increase in rain intensity directly leads to more puddle depth during visa workshops.,Yes,rain intensity,visa workshops,puddle depth,O_A
+An increase in lens fog leads to more campus dinners and an increase in campus dinners leads to more image haze.,No,lens fog,campus dinners,image haze,O_A
+An increase in ice shards directly leads to more mouth numbness during camp meetings.,Yes,ice shards,camp meetings,mouth numbness,O_A
+An increase in tire width leads to more poetry workshops and an increase in poetry workshops leads to more corner grip.,No,tire width,poetry workshops,corner grip,O_A
+An increase in wall distance directly leads to more echo delay during flower shows.,Yes,wall distance,flower shows,echo delay,O_A
+An increase in lamp angle leads to more craft dinners and an increase in craft dinners leads to more beam direction.,No,lamp angle,craft dinners,beam direction,O_A
+An increase in brew strength directly leads to more caffeine buzz during market chats.,Yes,brew strength,market chats,caffeine buzz,O_A
+An increase in paper stiffness leads to more drama auditions and an increase in drama auditions leads to more fold crack.,No,paper stiffness,drama auditions,fold crack,O_A
+An increase in resin amount directly leads to more bond firmness during library tours.,Yes,resin amount,library tours,bond firmness,O_A
+An increase in steel thickness leads to more wedding dinners and an increase in wedding dinners leads to more bend resistance.,No,steel thickness,wedding dinners,bend resistance,O_A
+An increase in air density directly leads to more lift force during camp concerts.,Yes,air density,camp concerts,lift force,O_A
+An increase in pipe diameter leads to more office socials and an increase in office socials leads to more water throughput.,No,pipe diameter,office socials,water throughput,O_A
+An increase in mic gain directly leads to more sound volume during train meetings.,Yes,mic gain,train meetings,sound volume,O_A
+An increase in dye amount leads to more audit sessions and an increase in audit sessions leads to more color depth.,No,dye amount,audit sessions,color depth,O_A
+An increase in fiber length directly leads to more yarn strength during camp lectures.,Yes,fiber length,camp lectures,yarn strength,O_A
+An increase in battery charge leads to more banquet speeches and an increase in banquet speeches leads to more device uptime.,No,battery charge,banquet speeches,device uptime,O_A
+An increase in cursor size directly leads to more icon visibility during farm tours.,Yes,cursor size,farm tours,icon visibility,O_A
+An increase in freezer setting leads to more panel lunches and an increase in panel lunches leads to more ice hardness.,No,freezer setting,panel lunches,ice hardness,O_A
+An increase in wax amount directly leads to more candle height during music festivals.,Yes,wax amount,music festivals,candle height,O_A
+An increase in radiator setting leads to more charity galas and an increase in charity galas leads to more room warmth.,No,radiator setting,charity galas,room warmth,O_A
+An increase in cocoa percent directly leads to more chocolate bitterness during river tours.,Yes,cocoa percent,river tours,chocolate bitterness,O_A
+An increase in spring stiffness leads to more camp socials and an increase in camp socials leads to more rebound force.,No,spring stiffness,camp socials,rebound force,O_A
+An increase in lamp angle directly leads to more beam direction during office luncheons.,Yes,lamp angle,office luncheons,beam direction,O_A
+An increase in glass thickness leads to more stadium chants and an increase in stadium chants leads to more break resistance.,No,glass thickness,stadium chants,break resistance,O_A
+An increase in gas pressure directly leads to more whistle pitch during garden lectures.,Yes,gas pressure,garden lectures,whistle pitch,O_A
+An increase in paper acidity leads to more harbor dinners and an increase in harbor dinners leads to more yellowing speed.,No,paper acidity,harbor dinners,yellowing speed,O_A
+An increase in marble weight directly leads to more carry strain during studio tours.,Yes,marble weight,studio tours,carry strain,O_A
+An increase in door weight leads to more choir brunches and an increase in choir brunches leads to more hinge wear.,No,door weight,choir brunches,hinge wear,O_A
+An increase in metal hardness directly leads to more scratch resistance during museum galas.,Yes,metal hardness,museum galas,scratch resistance,O_A
+An increase in air density leads to more campus picnics and an increase in campus picnics leads to more lift force.,No,air density,campus picnics,lift force,O_A
+An increase in ink dryness directly leads to more smear risk during theater breaks.,Yes,ink dryness,theater breaks,smear risk,O_A
+An increase in cotton ratio leads to more market strolls and an increase in market strolls leads to more fabric softness.,No,cotton ratio,market strolls,fabric softness,O_A
+An increase in ice density directly leads to more melt rate during lecture intermissions.,Yes,ice density,lecture intermissions,melt rate,O_A
+An increase in salt crystals leads to more ferry stops and an increase in ferry stops leads to more grain texture.,No,salt crystals,ferry stops,grain texture,O_A
+An increase in lens fogging directly leads to more image haze during office meetings.,Yes,lens fogging,office meetings,image haze,O_A
+An increase in rope fraying leads to more charity walks and an increase in charity walks leads to more snap risk.,No,rope fraying,charity walks,snap risk,O_A
+An increase in pan curvature directly leads to more oil pooling during book readings.,Yes,pan curvature,book readings,oil pooling,O_A
+An increase in sand grit leads to more travel layovers and an increase in travel layovers leads to more skin abrasion.,No,sand grit,travel layovers,skin abrasion,O_A
+An increase in wire length directly leads to more signal delay during study circles.,Yes,wire length,study circles,signal delay,O_A
+An increase in brush firmness leads to more wedding toasts and an increase in wedding toasts leads to more stroke stiffness.,No,brush firmness,wedding toasts,stroke stiffness,O_A
+An increase in mirror angle directly leads to more reflection direction during street parades.,Yes,mirror angle,street parades,reflection direction,O_A
+An increase in tire diameter leads to more radio interviews and an increase in radio interviews leads to more roll distance.,No,tire diameter,radio interviews,roll distance,O_A
+An increase in valve gap directly leads to more leak rate during gallery openings.,Yes,valve gap,gallery openings,leak rate,O_A
+An increase in batter thickness leads to more lunch banquets and an increase in lunch banquets leads to more pour speed.,No,batter thickness,lunch banquets,pour speed,O_A
+An increase in coffee roast directly leads to more bitterness level during evening concerts.,Yes,coffee roast,evening concerts,bitterness level,O_A
