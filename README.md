@@ -8,7 +8,7 @@ This repo currently contains the dataset CSVs and the corresponding train/test s
 
 ## Dataset files
 
-### Full paired datasets (1000 pairs each)
+### Full paired datasets
 Each row is a **paired instance** containing two causal questions with **opposite** ground-truth labels:
 
 - `Causal_Pairs_Confounder.csv`
