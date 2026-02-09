@@ -45,7 +45,7 @@ Each pair is tagged with a `Classification`:
 
 - **`B_*` vs `O_*` (causal structure):**
   - **Base (B)** uses the *canonical causal graph* for the dataset type (confounder / chain / collider).
-  - **Opposite (O)** uses an *alternative causal graph over the same (X, Y, Z)*, constructed so that the **same paired query types** receive the **opposite labels** compared to Base. This Base/Opposite flip prevents a model from mapping a question form (template) to a fixed label, thereby forcing answers grounded in causal structure.
+  - **Opposite (O)** uses an *alternative causal graph*, constructed so that the **same paired query types** receive the **opposite labels** compared to Base. This Base/Opposite flip prevents a model from mapping a question form (template) to a fixed label, thereby forcing answers grounded in causal structure.
 
 - **`*_D` vs `*_A` (question template / phrasing):**
   - **Default (D)** uses a direct binary question phrasing (e.g., “Will an increase in X cause Y ...?”).
