@@ -70,3 +70,125 @@ ecause each dataset is **ordered by category blocks** (BD, BA, then OD, OA) and 
 This split ensures that every test question has a **semantically similar counterpart in training** that reuses the same (X, Y, Z) but carries the **opposite label**, so methods that rely on **spurious semantic correlations** are systematically penalized.
 
 ---
+
+# Training Strategies Scripts
+
+This repository has three training/evaluation entry points for causal-judgment fine-tuning on the CausalFlip splits:
+
+- `noCoT.py`: **naive pretraining model eval** + **no chain-of-thought fine-tune** (target is only `<FINAL_ANSWER> Yes/No`).
+- `explicitCoT.py`: **explicit chain-of-thought fine-tune** trains with **explicit CoT text + final answer**.
+- `implicitCR.py`: **implicit causal reasoning** starts with CoT supervision, then **gradually removes CoT tokens during training** (implicit causal reasoning schedule).
+
+All three scripts:
+
+- read paired CSV data (default: confounder),
+- build deterministic train/test splits,
+- fine-tune `meta-llama/Llama-3.2-3B-Instruct` with LoRA,
+- evaluate by generation and parsing the final answer.
+
+## Prerequisites
+
+- Python environment with: `torch`, `transformers`, `datasets`, `trl`, `peft`, `accelerate`, `numpy`, `pandas`, `tqdm`, and `bitsandbytes` (used by `optim="paged_adamw_8bit"`).
+- Access to `meta-llama/Llama-3.2-3B-Instruct` on Hugging Face.
+- GPU setup (scripts default to `CUDA_VISIBLE_DEVICES=1,2,3,4,5`; override with `--cuda-visible-devices`).
+
+## Script Purposes
+
+### `noCoT.py`
+
+Purpose:
+
+- Naive pretrain model eval.
+- NoCoT finetuning.
+
+Default pipeline:
+
+- split -> pre-eval -> train -> post-eval
+
+### `explicitCoT.py`
+
+Purpose:
+
+- Supervised explicit rationale training (CoT text is part of training target).
+- Optional `--noisy-prefix` adds an association-related distractor prefix before CoT.
+
+Default pipeline:
+
+- split -> train -> post-eval
+
+### `implicitCR.py`
+
+Purpose:
+
+- Implicit causal reasoning via progressive CoT removal.
+
+Default pipeline:
+
+- split -> train -> post-eval
+
+## How To Run (default on confounder dataset)
+
+### 1) NoCoT baseline
+
+```bash
+python noCoT.py
+```
+
+Run on different datasets
+```bash
+python noCoT.py --source-csv Causal_Pairs_Confounder.csv --train-split-csv train_confounder.csv --test-split-csv test_confounder.csv
+python noCoT.py --source-csv Causal_Pairs_Chain.csv --train-split-csv train_chain.csv --test-split-csv test_chain.csv
+python noCoT.py --source-csv Causal_Pairs_Collider.csv --train-split-csv train_collider.csv --test-split-csv test_collider.csv
+```
+
+### 2) Explicit CoT
+
+```bash
+python explicitCoT.py
+```
+
+Run on different datasets
+```bash
+python explicitCoT.py --source-csv Causal_Pairs_Confounder.csv --train-split-csv train_confounder.csv --test-split-csv test_confounder.csv
+python explicitCoT.py --source-csv Causal_Pairs_Chain.csv --train-split-csv train_chain.csv --test-split-csv test_chain.csv
+python explicitCoT.py --source-csv Causal_Pairs_Collider.csv --train-split-csv train_collider.csv --test-split-csv test_collider.csv
+```
+
+With noisy prefix (default & on different datasets):
+
+```bash
+python explicitCoT.py --noisy-prefix
+python explicitCoT.py --source-csv Causal_Pairs_Confounder.csv --train-split-csv train_confounder.csv --test-split-csv test_confounder.csv --noisy-prefix
+python explicitCoT.py --source-csv Causal_Pairs_Chain.csv --train-split-csv train_chain.csv --test-split-csv test_chain.csv --noisy-prefix
+python explicitCoT.py --source-csv Causal_Pairs_Collider.csv --train-split-csv train_collider.csv --test-split-csv test_collider.csv --noisy-prefix
+```
+
+### 3) Implicit Causal Reasoning
+
+```bash
+python implicitCR.py
+```
+
+Run on different datasets
+```bash
+python implicitCR.py --source-csv Causal_Pairs_Confounder.csv --train-split-csv train_confounder.csv --test-split-csv test_confounder.csv
+python implicitCR.py --source-csv Causal_Pairs_Chain.csv --train-split-csv train_chain.csv --test-split-csv test_chain.csv
+python implicitCR.py --source-csv Causal_Pairs_Collider.csv --train-split-csv train_collider.csv --test-split-csv test_collider.csv
+```
+
+With noisy prefix (default & on different datasets):
+
+```bash
+python implicitCR.py --noisy-prefix
+python implicitCR.py --source-csv Causal_Pairs_Confounder.csv --train-split-csv train_confounder.csv --test-split-csv test_confounder.csv --noisy-prefix
+python implicitCR.py --source-csv Causal_Pairs_Chain.csv --train-split-csv train_chain.csv --test-split-csv test_chain.csv --noisy-prefix
+python implicitCR.py --source-csv Causal_Pairs_Collider.csv --train-split-csv train_collider.csv --test-split-csv test_collider.csv --noisy-prefix
+```
+
+## Show full options:
+
+```bash
+python noCoT.py --help
+python explicitCoT.py --help
+python implicitCR.py --help
+```
