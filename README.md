@@ -192,3 +192,16 @@ python noCoT.py --help
 python explicitCoT.py --help
 python implicitCR.py --help
 ```
+---
+## Note: How CoT is formed in code
+
+CoT is constructed from each training instance/causal question, not manually written per question.
+  - `explicitCoT.py`, `implicitCR.py`
+  - It takes each training instance's event variables `X`, `Y`, `Z` plus its `Classification` (`B_D`, `B_A`, `O_D`, `O_A`).
+  - It also infers the dataset type (`confounder`, `chain`, `collider`) from the selected dataset file names.
+  - Based on its `Classification` (Base (`B_*`) vs Opposite (`O_*`)) and dataset type, it selects the corresponding CoT template and fills in `X/Y/Z`.
+    
+For example:
+  - For Base instance with event triple (X,Y,Z) in Confounder dataset, the CoT is: `No directed causal path from {X} to {Y} AND Adjusting for {Z} closes the backdoor between {X} and {Y}, therefore `
+  - For Opposite instance with event triple (X,Y,Z) in Confounder dataset, the CoT is: `Directed causal path from {X} to {Y} exists AND No relevant backdoor path via {Z} and {Z} is non-causal, therefore `
+---
